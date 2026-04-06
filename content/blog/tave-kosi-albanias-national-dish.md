@@ -1,6 +1,6 @@
 ---
 title: "Tavë Kosi: The Story Behind Albania's National Dish (And Where to Eat the Best One)"
-date: 2026-04-06
+date: 2026-04-06T12:00:00Z
 slug: "tave-kosi-albanias-national-dish"
 description: "Albania's beloved tavë kosi pairs tender baked lamb with a golden yogurt crust. Learn its Elbasan origins, how it's made, and where to find the best version."
 categories: ["food-and-drink"]

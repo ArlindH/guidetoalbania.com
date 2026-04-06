@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Guide to Albania"
-date: 2026-04-06
+date: 2026-04-06T08:00:00Z
 slug: "welcome-to-guide-to-albania"
 description: "An introduction to Guide to Albania, your companion for discovering the culture, food, history, and hidden corners of one of Europe's most surprising countries."
 categories: ["culture"]

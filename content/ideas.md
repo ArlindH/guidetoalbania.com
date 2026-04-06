@@ -21,7 +21,7 @@ Researched 2026-04-06. Check off ideas as they get published.
 
 ## Culture
 
-12. [ ] **Xhiro: The Albanian Evening Walk That Every Town Still Does** — What it is, where to join, why it persists, what it reveals about Albanian life. No dedicated piece exists.
+12. [x] **Xhiro: The Albanian Evening Walk That Every Town Still Does** — What it is, where to join, why it persists, what it reveals about Albanian life. No dedicated piece exists.
 13. [ ] **How Albania Became Europe's Most Religiously Harmonious Country** — Interfaith coexistence, mixed marriages, shared holidays. Strong SEO potential.
 14. [ ] **Understanding Besa: The Albanian Code of Honor That Saved Lives** — Hospitality code, WWII history, modern relevance. Compelling narrative.
 15. [ ] **What to Expect at an Albanian Wedding (If You're Lucky Enough to Be Invited)** — Multi-day celebrations, red veil, valle dancing, regional differences. Highly shareable.

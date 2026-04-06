@@ -1,6 +1,6 @@
 ---
 title: "How to Use Furgons in Albania: A First-Timer's Guide to Minibus Travel"
-date: 2026-04-06
+date: 2026-04-06T10:00:00Z
 slug: "how-to-use-furgons-in-albania"
 description: "Furgons are Albania's informal minibus network with no schedules or tickets. Here's how they work, what they cost, and how to ride them like a local."
 categories: ["travel-tips"]
