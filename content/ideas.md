@@ -13,7 +13,7 @@ Researched 2026-04-06. Check off ideas as they get published.
 
 ## Food & Drink
 
-7. [ ] **Tavë Kosi: The Story Behind Albania's National Dish (And Where to Eat the Best One)** — Origin in Elbasan, yogurt-lamb technique, restaurant picks. No article combines history + recs well.
+7. [x] **Tavë Kosi: The Story Behind Albania's National Dish (And Where to Eat the Best One)** — Origin in Elbasan, yogurt-lamb technique, restaurant picks. No article combines history + recs well.
 8. [ ] **A Guide to Albanian Raki: How to Drink It, Where It's Made, and Why Every Family Has a Recipe** — Regional varieties (grape south, plum center, mulberry north), etiquette. Poorly covered.
 9. [ ] **Why Albania's Coffee Culture Will Change How You Think About Espresso** — 654 coffee houses per 100K people, social ritual, Turkish vs. Italian. Huge gap.
 10. [ ] **Eating Your Way Through Tirana: A Neighborhood Food Guide** — Blloku, Pazari i Ri, furra bakeries, late-night qofte. Neighborhood framing is unique.
