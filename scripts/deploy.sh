@@ -12,13 +12,17 @@ git fetch origin main --quiet
 LOCAL=$(git rev-parse HEAD)
 REMOTE=$(git rev-parse origin/main)
 
-if [ "$LOCAL" = "$REMOTE" ]; then
+# Rebuild if remote has new commits OR if output dir is stale/missing
+if [ "$LOCAL" = "$REMOTE" ] && [ -f "$OUTPUT_DIR/index.html" ]; then
     exit 0
 fi
 
-logger -t "$LOG_TAG" "Deploying: ${LOCAL:0:7} -> ${REMOTE:0:7}"
-
-git reset --hard origin/main --quiet
+if [ "$LOCAL" != "$REMOTE" ]; then
+    logger -t "$LOG_TAG" "Deploying: ${LOCAL:0:7} -> ${REMOTE:0:7}"
+    git reset --hard origin/main --quiet
+else
+    logger -t "$LOG_TAG" "Rebuilding: output stale at ${LOCAL:0:7}"
+fi
 
 hugo --minify --destination "$OUTPUT_DIR"
 
