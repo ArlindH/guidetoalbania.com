@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="list-page">
+  <h1>{{ .Title }}</h1>
+  <div class="terms-grid">
+    {{ range .Data.Terms.Alphabetical }}
+    <a href="{{ .Page.Permalink }}" class="term-card">
+      <span class="term-name">{{ .Page.Title }}</span>
+      <span class="term-count">{{ .Count }} {{ if eq .Count 1 }}article{{ else }}articles{{ end }}</span>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

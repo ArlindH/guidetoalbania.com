@@ -1,0 +1,24 @@
+<footer class="site-footer">
+  <div class="footer-content">
+    <div class="footer-about">
+      <p class="footer-site-name">Guide to Albania</p>
+      <p class="footer-tagline">{{ .Site.Params.description }}</p>
+    </div>
+    <div class="footer-nav">
+      <p class="footer-heading">Explore</p>
+      <a href="/categories/destinations/">Destinations</a>
+      <a href="/categories/food-and-drink/">Food & Drink</a>
+      <a href="/categories/culture/">Culture</a>
+      <a href="/categories/travel-tips/">Travel Tips</a>
+      <a href="/categories/history/">History</a>
+    </div>
+    <div class="footer-author">
+      <p class="footer-heading">About the Author</p>
+      <p>{{ .Site.Params.authorBio }}</p>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>&copy; {{ now.Year }} {{ .Site.Params.author }}. All rights reserved.</p>
+    <a href="/index.xml" class="rss-link">RSS Feed</a>
+  </div>
+</footer>

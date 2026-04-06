@@ -1,0 +1,34 @@
+baseURL = "https://guidetoalbania.com/"
+languageCode = "en-us"
+title = "Guide to Albania"
+enableRobotsTXT = true
+
+[params]
+  description = "Your essential guide to Albania: destinations, culture, food, history, and travel tips from someone who knows it best."
+  author = "Elena Kelmendi"
+  authorBio = "Albanian travel writer and cultural guide. Born in Tirana, raised between Albania and the diaspora. Sharing the Albania most travelers never find."
+  siteKeywords = "Albania travel, Albania guide, Albanian culture, Albanian food, Albania destinations, Albania tips"
+
+[markup.highlight]
+  style = "github"
+  lineNos = false
+  noClasses = true
+
+[markup.goldmark.renderer]
+  unsafe = false
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[permalinks]
+  blog = "/blog/:slug/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"

@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="list-page">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $pages := .Pages }}
+  {{ if $pages }}
+  <div class="article-grid">
+    {{ range $pages }}
+      {{ partial "article-card.html" . }}
+    {{ end }}
+  </div>
+  {{ end }}
+</div>
+{{ end }}

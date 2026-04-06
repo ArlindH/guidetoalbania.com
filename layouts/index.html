@@ -1,0 +1,52 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="hero-content">
+    <h1>Discover Albania</h1>
+    <p class="hero-subtitle">{{ .Site.Params.description }}</p>
+  </div>
+</section>
+
+{{ $posts := where .Site.RegularPages "Section" "blog" }}
+
+{{ if $posts }}
+<section class="section latest-section">
+  <h2 class="section-title">Latest Articles</h2>
+  <div class="article-grid">
+    {{ range first 6 $posts }}
+      {{ partial "article-card.html" . }}
+    {{ end }}
+  </div>
+  {{ if gt (len $posts) 6 }}
+  <div class="section-more">
+    <a href="/blog/" class="more-link">View all articles</a>
+  </div>
+  {{ end }}
+</section>
+{{ end }}
+
+<section class="section categories-section">
+  <h2 class="section-title">Explore by Topic</h2>
+  <div class="category-grid">
+    <a href="/categories/destinations/" class="category-card">
+      <span class="category-name">Destinations</span>
+      <span class="category-desc">Cities, beaches, mountains, and hidden gems</span>
+    </a>
+    <a href="/categories/food-and-drink/" class="category-card">
+      <span class="category-name">Food & Drink</span>
+      <span class="category-desc">Albanian cuisine, recipes, and where to eat</span>
+    </a>
+    <a href="/categories/culture/" class="category-card">
+      <span class="category-name">Culture</span>
+      <span class="category-desc">Traditions, customs, language, and daily life</span>
+    </a>
+    <a href="/categories/travel-tips/" class="category-card">
+      <span class="category-name">Travel Tips</span>
+      <span class="category-desc">Practical advice for planning your trip</span>
+    </a>
+    <a href="/categories/history/" class="category-card">
+      <span class="category-name">History</span>
+      <span class="category-desc">From Illyrians to independence and beyond</span>
+    </a>
+  </div>
+</section>
+{{ end }}
