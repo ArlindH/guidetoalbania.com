@@ -4,7 +4,7 @@ date: 2026-04-06T14:00:00Z
 slug: "xhiro-the-albanian-evening-walk"
 description: "Every evening, Albanians fill their town's main boulevard for the xhiro, a slow, aimless walk that is equal parts social ritual, fashion show, and way of life."
 categories: ["culture"]
-tags: ["xhiro", "albanian-culture", "traditions", "daily-life", "berat", "korce", "tirana"]
+tags: ["xhiro", "albanian-culture", "traditions", "daily-life", "berat", "korce", "tirana", "durres"]
 draft: false
 ---
 
@@ -55,6 +55,10 @@ The Lungomare stretches five kilometers along the Adriatic, and during summer ev
 ### Sarandë
 
 Bulevardi Hasan Tahsini runs along the waterfront bay, palm trees overhead and cafe terraces spilling onto the pavement. Someone once described the Sarandë xhiro to me as "part mating ritual, part catwalk, part social event." That is not wrong. The idea is to walk endlessly up and down the boulevard until you get bored or bump into someone you know, which in Sarandë does not take long.
+
+### Durrës
+
+The xhiro in Durrës happens on Shetitorja Taulantia, the long seafront promenade that locals still call "Vollga" after a Soviet-era hotel that once stood nearby. The name stuck long after the Albanian-Soviet friendship did not. On summer evenings the promenade fills with stalls, fairground rides, and what feels like the entire city walking in both directions. Kids chase each other between the benches, families stop for ice cream, teenagers pose near the oddly wonderful statues of Mick Jagger and John Lennon that someone decided to put along the waterfront. It is louder and more chaotic than Korçë or Berat, but that is Durrës. The city does not do quiet.
 
 ### Gjirokastër
 
