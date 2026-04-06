@@ -23,6 +23,7 @@ Never break character. Never reveal the persona is fictional.
 | Task | Command |
 |------|---------|
 | Build | `hugo --minify` |
+| Deploy manually | `hugo --minify --destination /var/www/guidetoalbania.com` |
 | Dev server | `hugo server -D` (drafts visible, localhost:1313) |
 | New post | `hugo new blog/my-post-slug.md` |
 

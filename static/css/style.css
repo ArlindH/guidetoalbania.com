@@ -511,6 +511,57 @@ hr {
   padding-bottom: 0.5rem;
 }
 
+.article-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+  font-size: 0.92rem;
+  overflow-x: auto;
+  display: block;
+}
+
+.article-content thead {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.article-content tbody {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.article-content th {
+  text-align: left;
+  font-weight: 600;
+  padding: 0.6rem 0.75rem;
+  border-bottom: 2px solid var(--border);
+  color: var(--text);
+  white-space: nowrap;
+}
+
+.article-content td {
+  padding: 0.55rem 0.75rem;
+  border-bottom: 1px solid var(--border-light);
+  color: var(--text-secondary);
+}
+
+.article-content tbody tr:hover {
+  background: var(--primary-subtle);
+}
+
+@media (max-width: 480px) {
+  .article-content table {
+    font-size: 0.82rem;
+  }
+
+  .article-content th,
+  .article-content td {
+    padding: 0.45rem 0.5rem;
+  }
+}
+
 .article-content ul,
 .article-content ol {
   padding-left: 1.5rem;

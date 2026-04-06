@@ -14,8 +14,13 @@ guidelines before starting.
 ## Step 1: Research
 
 First, check what already exists:
+- Read `content/ideas.md` for the backlog of pre-researched article ideas
 - Read `content/blog/` to see all published and draft articles
 - Note which categories and topics are covered to avoid duplicates
+
+If `content/ideas.md` has enough unpublished ideas across categories,
+skip the web research and go straight to Step 2 using those ideas
+(supplemented with a few fresh ones if needed).
 
 Then research Albania topics using WebSearch and WebFetch:
 - Search across these angles: destinations, cuisine, culture, traditions,
@@ -132,6 +137,9 @@ Only when the user explicitly says to publish:
 4. Run `hugo --minify` to confirm clean build (must succeed with 0 errors)
 5. Commit with message: `Add guide: <article title>`
 6. Push to main
-7. Confirm: "Published. Live within 3 minutes at guidetoalbania.com/blog/<slug>/"
+7. Deploy immediately: `hugo --minify --destination /var/www/guidetoalbania.com`
+   (the cron may skip the build if pushed from the same machine)
+8. Mark the idea as `[x]` in `content/ideas.md` if it came from the backlog
+9. Confirm: "Published. Live at guidetoalbania.com/blog/<slug>/"
 
 **Do NOT push until the user explicitly approves publishing.**
