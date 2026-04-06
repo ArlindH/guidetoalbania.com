@@ -137,6 +137,12 @@ every "I" statement, every personal anecdote is from Elena's perspective.
 5. Push to `main`
 6. Deploy cron picks it up within 3 minutes
 
+## Article Ideas
+
+A backlog of researched article ideas lives in `content/ideas.md`.
+When running `/write`, check that file first to avoid duplicate research.
+Mark ideas as `[x]` when published.
+
 ## Use /write to create articles
 
 The `/write` skill handles the full workflow: web research → 20 topic
