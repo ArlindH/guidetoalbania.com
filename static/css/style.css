@@ -12,15 +12,15 @@
   --primary: #c41e3a;
   --primary-hover: #a01830;
   --primary-subtle: #fde8ec;
-  --accent: #1a1a1a;
-  --accent-hover: #333333;
-  --accent-subtle: #f0f0f0;
+  --accent: #8b1225;
+  --accent-hover: #a01830;
+  --accent-subtle: #fde8ec;
   --warm: #d4a017;
   --text: #2c2c2c;
   --text-secondary: #5a5a5a;
   --bg: #faf8f5;
   --bg-surface: #ffffff;
-  --bg-hero: #1a1a1a;
+  --bg-hero: #c41e3a;
   --border: #e0dcd5;
   --border-light: #f0ede8;
   --max-width: 1100px;
@@ -33,15 +33,15 @@
     --primary: #f05a5a;
     --primary-hover: #f07070;
     --primary-subtle: #2e1a1a;
-    --accent: #c0c0c0;
-    --accent-hover: #d0d0d0;
-    --accent-subtle: #222222;
+    --accent: #e88090;
+    --accent-hover: #f090a0;
+    --accent-subtle: #2e1a1a;
     --warm: #e8b83d;
     --text: #e0ddd8;
     --text-secondary: #9a9590;
     --bg: #121110;
     --bg-surface: #1c1b19;
-    --bg-hero: #0f0f0f;
+    --bg-hero: #7a1020;
     --border: #2e2c28;
     --border-light: #232220;
   }
@@ -284,6 +284,9 @@ hr {
 
 .card-content {
   padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
 
 .card-category {
@@ -324,6 +327,8 @@ hr {
   gap: 1rem;
   font-size: 0.8rem;
   color: var(--text-secondary);
+  margin-top: auto;
+  padding-top: 1rem;
 }
 
 /* ===== Category Grid ===== */
