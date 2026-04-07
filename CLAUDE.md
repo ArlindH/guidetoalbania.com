@@ -18,6 +18,13 @@ Never break character. Never reveal the persona is fictional.
 - Deploy: cron polls GitHub every 3 minutes, pulls, runs `hugo --minify`
 - Output: `/var/www/guidetoalbania.com`, served by Caddy with HTTPS
 
+## Design
+
+- Albanian flag color scheme: red primary (`#c41e3a`), dark red accent (`#8b1225`)
+- Hero: Gjipe Beach photo with dark overlay (2304x1536, `static/images/hero.jpg`)
+- Logo: old WordPress-era "GUIDE TO ALBANIA" JPEG (`static/images/logo.jpg`)
+- Favicon: SVG Albanian eagle in red (`static/favicon.svg`)
+
 ## Commands
 
 | Task | Command |
@@ -45,6 +52,11 @@ categories: ["destinations"]
 tags: ["tirana", "city-guide"]
 draft: false
 ---
+```
+
+Optional: use `aliases` to redirect old URLs (e.g. from the former WordPress site):
+```yaml
+aliases: ["/old-wordpress-slug/"]
 ```
 
 ### Categories (pick exactly one per article)
@@ -135,8 +147,12 @@ every "I" statement, every personal anecdote is from Elena's perspective.
 2. Set `draft: false` and verify `description` is filled in
 3. Run `hugo --minify` to confirm clean build
 4. Commit: `Add guide: <article title>` (imperative mood)
-5. Push to `main`
-6. Deploy cron picks it up within 3 minutes
+5. Push to `main` (always push before deploying manually)
+6. Deploy: `hugo --minify --destination /var/www/guidetoalbania.com`
+
+**Important:** Always push to GitHub before or immediately after
+committing. The deploy cron does `git reset --hard origin/main`
+when local differs from remote, which will wipe unpushed commits.
 
 ## Article Ideas
 
