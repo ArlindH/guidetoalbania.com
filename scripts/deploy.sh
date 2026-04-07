@@ -18,8 +18,12 @@ if [ "$LOCAL" = "$REMOTE" ] && [ -f "$OUTPUT_DIR/index.html" ]; then
 fi
 
 if [ "$LOCAL" != "$REMOTE" ]; then
-    logger -t "$LOG_TAG" "Deploying: ${LOCAL:0:7} -> ${REMOTE:0:7}"
-    git reset --hard origin/main --quiet
+    if git merge-base --is-ancestor "$LOCAL" "$REMOTE"; then
+        logger -t "$LOG_TAG" "Deploying: ${LOCAL:0:7} -> ${REMOTE:0:7}"
+        git reset --hard origin/main --quiet
+    else
+        logger -t "$LOG_TAG" "Local ahead of remote (${LOCAL:0:7} vs ${REMOTE:0:7}), rebuilding without reset"
+    fi
 else
     logger -t "$LOG_TAG" "Rebuilding: output stale at ${LOCAL:0:7}"
 fi
