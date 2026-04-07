@@ -95,6 +95,6 @@ Researched 2026-04-06. Check off ideas as they get published.
 ## History (batch 2)
 
 64. [ ] **Skanderbeg: The Albanian Hero Who Held Off the Ottoman Empire for 25 Years** — Kidnapped Albanian boy became Ottoman commander, then returned to unite Albanian tribes. The story behind the statue in every city.
-65. [ ] **750,000 Bunkers: How Albania Became the World's Most Paranoid Country** — One bunker for every four citizens. Now restaurants, tattoo studios, museums. Bunk'Art 1 and 2. Albania's most shareable historical fact.
+65. [x] **750,000 Bunkers: How Albania Became the World's Most Paranoid Country** — One bunker for every four citizens. Now restaurants, tattoo studios, museums. Bunk'Art 1 and 2. Albania's most shareable historical fact.
 66. [ ] **The Illyrians: Albania's Ancient Ancestors and What They Left Behind** — Who they were, what we know, and where to see their traces from Butrint to Apollonia to the tumuli of Korce.
 67. [ ] **Ottoman Albania: Five Centuries That Built the Country You See Today** — Bazaars, hammams, mosques, clock towers, bridges. How to read Ottoman layers in every Albanian town you visit.
