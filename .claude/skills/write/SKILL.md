@@ -143,3 +143,12 @@ Only when the user explicitly says to publish:
 9. Confirm: "Published. Live at guidetoalbania.com/blog/<slug>/"
 
 **Do NOT push until the user explicitly approves publishing.**
+
+## Autonomous mode
+
+For fully autonomous publishing (no human in the loop), use the
+autopublish script instead: `./scripts/autopublish.sh`
+
+It runs this skill's workflow unattended in three stages (write, review
+with fact-checking, publish), picking a random unpublished idea from
+`content/ideas.md`. Scheduled via cron at 2am daily.

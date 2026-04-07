@@ -162,6 +162,28 @@ Mark ideas as `[x]` when published.
 
 ## Use /write to create articles
 
-The `/write` skill handles the full workflow: web research → 20 topic
-ideas → user picks → draft in Elena's voice → refine → publish.
+The `/write` skill handles the full interactive workflow: web research
+→ 20 topic ideas → user picks → draft in Elena's voice → refine → publish.
 Run `/write` to start.
+
+## Autopublish (daily autonomous pipeline)
+
+`scripts/autopublish.sh` runs daily at 2am via cron and publishes one
+article without human intervention. Three-stage Claude Code pipeline:
+
+1. **Write** (opus) — picks a random unpublished idea from `ideas.md`,
+   researches via web, writes a full draft with `draft: true`
+2. **Review** (opus) — editorial review, fact-checks claims against
+   live sources, fixes style violations, verifies structure
+3. **Publish** (sonnet) — sets `draft: false`, builds, commits, pushes,
+   deploys, marks idea as `[x]`
+
+| Task | Command |
+|------|---------|
+| Run manually | `./scripts/autopublish.sh` |
+| Check logs | `cat /var/log/guidetoalbania-autopublish.log` |
+| Stage output | `/var/log/guidetoalbania-autopublish-stage{1,2,3}-latest.txt` |
+| Cron schedule | `0 2 * * *` (daily at 2am) |
+
+Uses `--allowed-tools` per stage (not `--dangerously-skip-permissions`,
+which is blocked for root).
