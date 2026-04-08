@@ -63,7 +63,7 @@ Researched 2026-04-06. Check off ideas as they get published.
 39. [ ] **What to Eat in the Albanian Alps: Mountain Food from Theth to Valbona** — Flija in guesthouses, mountain trout, homemade cheese and honey, foraged herbs, wood-fired cooking. Hikers want this info.
 40. [ ] **Ballokume and Beyond: Albanian Sweets You Need to Try** — Elbasan's buttery cookie tied to Summer Day, trilece, sheqerpare, kadaif. Where to find each one. Albanian desserts absent from English food blogs.
 41. [ ] **Albanian Olive Oil: Why It Might Be the Best You've Never Tasted** — Kalinjot olives from Himara, family mills you can visit, international competition wins. Zero English travel coverage.
-42. [ ] **Gliko: The Albanian Art of Preserving Fruit in Syrup** — Walnut, fig, quince, cherry, watermelon rind. Served to guests with a glass of water. Permet makes the best. Tied to hospitality customs.
+42. [x] **Gliko: The Albanian Art of Preserving Fruit in Syrup** — Walnut, fig, quince, cherry, watermelon rind. Served to guests with a glass of water. Permet makes the best. Tied to hospitality customs.
 43. [ ] **Trahana: The Albanian Winter Porridge That Takes Weeks to Prepare** — Fermented wheat-and-milk preservation food dried over days, then cooked into warming porridge. Predates refrigeration.
 44. [ ] **Agroturizem: Albania's Farm-to-Table Stays Where You Sleep Where You Eat** — Mrizi i Zanave near Shkoder to Drino Valley family farms. Albania's fastest-growing travel trend.
 
