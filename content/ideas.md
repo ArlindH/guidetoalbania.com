@@ -35,7 +35,7 @@ Researched 2026-04-06. Check off ideas as they get published.
 
 ## History
 
-20. [ ] **Butrint: 3,000 Years of History on Albania's Southern Tip** — Greek, Roman, Byzantine, Venetian layers. UNESCO site. Deep history + practical info fills a gap.
+20. [x] **Butrint: 3,000 Years of History on Albania's Southern Tip** — Greek, Roman, Byzantine, Venetian layers. UNESCO site. Deep history + practical info fills a gap.
 
 ## Destinations (batch 2)
 
