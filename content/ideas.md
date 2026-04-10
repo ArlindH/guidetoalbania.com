@@ -40,7 +40,7 @@ Researched 2026-04-06. Check off ideas as they get published.
 ## Destinations (batch 2)
 
 21. [ ] **Gjirokaster: A Complete Guide to Albania's Stone City** — UNESCO Ottoman city, 500+ stone-roofed houses, 14th-century castle, one of the oldest bazaars in the Balkans. High search volume, most guides are shallow.
-22. [ ] **The Koman Lake Ferry: The Most Beautiful Boat Ride in the Balkans** — 2.5-hour ferry through fjord-like cliffs connecting Koman to Fierza. Booking details and logistics that are poorly documented.
+22. [x] **The Koman Lake Ferry: The Most Beautiful Boat Ride in the Balkans** — 2.5-hour ferry through fjord-like cliffs connecting Koman to Fierza. Booking details and logistics that are poorly documented.
 23. [ ] **Shkoder: Albania's Northern Capital of Culture** — Rozafa Castle's haunting legend, largest Balkan lake, cycling promenade, vibrant arts scene. Gateway to the Alps but rarely gets its own article.
 24. [ ] **Voskopoje: The Frescoed Churches of Albania's Forgotten "Paris of the Balkans"** — Mountaintop village near Korce, once second-largest city in Ottoman Balkans, five churches with Europe's finest 18th-century frescoes. Extreme coverage gap.
 25. [ ] **Apollonia: 3,000 Years of Ruins Where Augustus Studied** — Greek-founded, Roman-era city near Fier with new museum and vast archaeological park that few tourists visit.
