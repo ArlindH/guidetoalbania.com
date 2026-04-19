@@ -65,7 +65,7 @@ Researched 2026-04-06. Check off ideas as they get published.
 41. [ ] **Albanian Olive Oil: Why It Might Be the Best You've Never Tasted** — Kalinjot olives from Himara, family mills you can visit, international competition wins. Zero English travel coverage.
 42. [x] **Gliko: The Albanian Art of Preserving Fruit in Syrup** — Walnut, fig, quince, cherry, watermelon rind. Served to guests with a glass of water. Permet makes the best. Tied to hospitality customs.
 43. [ ] **Trahana: The Albanian Winter Porridge That Takes Weeks to Prepare** — Fermented wheat-and-milk preservation food dried over days, then cooked into warming porridge. Predates refrigeration.
-44. [ ] **Agroturizem: Albania's Farm-to-Table Stays Where You Sleep Where You Eat** — Mrizi i Zanave near Shkoder to Drino Valley family farms. Albania's fastest-growing travel trend.
+44. [x] **Agroturizem: Albania's Farm-to-Table Stays Where You Sleep Where You Eat** — Mrizi i Zanave near Shkoder to Drino Valley family farms. Albania's fastest-growing travel trend.
 
 ## Culture (batch 2)
 
