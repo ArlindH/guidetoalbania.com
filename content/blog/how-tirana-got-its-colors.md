@@ -2,77 +2,61 @@
 title: "How Tirana Got Its Colors: The Mayor Who Painted a Communist City"
 date: 2026-04-20
 slug: "how-tirana-got-its-colors"
-description: "In 2000, a painter became mayor of Tirana and started coloring the grey communist blocks. The story behind the city's most photographed walls."
+description: "In 2000, a painter became mayor of Tirana and started coloring the grey communist blocks. The story behind the city's most photographed walls, and the politics around them."
 categories: ["culture"]
 tags: ["tirana", "edi-rama", "street-art", "architecture", "post-communism", "blloku"]
 draft: false
 ---
 
-I was seven years old the first time I remember a building being painted. It was on Rruga e Kavajës, a tired grey block that looked like every other tired grey block in Tirana, and one morning on the way to school I saw men on scaffolding rolling it into a deep, impossible orange.
+If you walk west from Skanderbeg Square along the river Lana, you will start to notice the walls. An apartment block in deep orange. Another in lemon yellow. One striped like a circus tent, another dotted like wrapping paper. Geometric patterns on 1970s facades, rainbow stripes at Wilson Square. Tirana has more painted concrete than any other capital in Europe, and almost no visitor arrives knowing why.
 
-My mother stopped walking. She stood there holding my hand and staring, and I remember thinking she was angry. She was not angry. She was trying to remember the last time she had seen a color that loud on a wall in this city.
+The short version is that in the year 2000, a painter became mayor and started coloring the city.
 
-That was the year 2000. The mayor was a painter named Edi Rama, and he had decided that Tirana was going to stop looking like a photograph of itself from 1985.
-
-If you come to the capital today, you will see the result. Apartment blocks in magenta and lemon yellow. Facades striped like circus tents. Polka dots the size of dinner plates.
-
-Geometric patterns that look like someone handed a box of crayons to an architect and said, go wild. It is one of the most photographed features of the city, and almost no visitor knows the story behind it.
+The longer version is more complicated, and worth telling honestly.
 
 ## A City the Color of Concrete
 
-To understand what Rama did, you have to understand what Tirana looked like before him.
+For more than four decades of communism, from 1944 until 1991, Albania was the most isolated country in Europe. Tirana's housing was built fast and cheap. Five-storey pallate (apartment blocks) went up in long identical rows, painted in the one approved shade of beige-grey that time and weather eventually turned into something closer to dishwater.
 
-For more than four decades of communism, from 1944 until 1991, Albania was the most isolated country in Europe. Buildings were raised fast, cheap, and functional. Five-storey communist apartment blocks (pallate) went up in long rows, identical to each other, painted in the one approved shade of beige-grey that time and weather eventually turned into something closer to dishwater.
-
-When communism fell in 1991, nothing replaced that system for almost a decade. The 1990s in Tirana were chaos. Illegal construction everywhere, a pyramid scheme that wiped out people's savings in 1997, and a city budget that was either stolen or spent on things no one could point to afterwards.
-
-The facades kept crumbling. The grey got greyer.
-
-My aunt used to say that walking through Tirana in the late 1990s felt like walking through a photograph that had been left in a drawer too long. All the color had drained out of it.
+When communism fell in 1991, nothing coherent replaced that system for almost a decade. The 1990s in Tirana were chaos. Illegal construction everywhere, a pyramid scheme that wiped out people's savings in 1997, and a city budget that was either stolen or spent on things no one could point to afterwards. The facades kept crumbling. The grey got greyer.
 
 ## The Artist Who Ran for Mayor
 
 Edi Rama was not a typical politician. He had been a painter and a basketball player, taught at the Academy of Arts, and had exhibited in Paris and New York. When he ran for mayor of Tirana in 2000, he was 35 years old and had held more art shows than public offices.
 
-Within weeks of taking power he started doing two things at once. He tore down illegal buildings that had been thrown up along the river Lana, opening the riverbanks back to the city. And he started painting.
+Within weeks of taking power he started doing two things at once. He tore down illegal buildings that had been thrown up along the river Lana, opening the riverbanks back to the city. And he started painting the pallate.
 
-The first building was that orange block I saw on my way to school. It was an ordinary communist pallat that the city could not afford to renovate properly. So Rama did the cheapest thing available. He painted it.
-
-He said later that the reaction was instant. A traffic jam formed in front of the building because people stopped their cars to look. Residents came out to argue about whether they loved it or hated it.
-
-No one was indifferent. For a city that had been grey for two generations, indifference was the thing Rama was trying to break.
+The first building, an ordinary communist block on Rruga e Kavajës, was simply painted orange. The city could not afford to renovate properly, and paint was cheap. Rama has said that a traffic jam formed in front of the block because people stopped their cars to look, and that residents came out to argue about whether they loved it or hated it. No one was indifferent. For a city that had been grey for two generations, indifference was the thing he was trying to break.
 
 ## "Compromise in Colors Is Grey"
 
 The European Union hated it.
 
-EU funds were paying for parts of Tirana's reconstruction at the time, and EU officials told Rama the colors were not to their standard. They wanted muted tones. Beige. Cream. Things that looked like European cities were expected to look.
+EU funds were paying for parts of Tirana's reconstruction at the time, and EU officials told Rama the colors were not to their standard. They wanted muted tones. Beige. Cream. Things that looked like European cities were expected to look. Rama refused, and the line he gave them, "compromise in colors is grey", is still quoted in Albania.
 
-Rama refused. When they threatened to block the funding, he said a line that Albanians still quote. "Compromise in colors is grey." He kept painting.
+Over the next several years the program expanded. Rama invited international artists and architects, including the Danish artist Olafur Eliasson, to help design facades. Geometric patterns started showing up on 1970s apartment blocks. The rainbow-striped building near Wilson Square, just outside Blloku, is now one of the most photographed walls in the country. In 2004 Rama won the inaugural World Mayor Prize, and the citation mentioned the colors specifically.
 
-Over the next several years, the program expanded. Rama invited international artists and architects, including the Danish artist Olafur Eliasson, to help design facades. Geometric patterns started showing up on 1970s apartment blocks. A building near Wilson Square, just outside Blloku, got painted in rainbow stripes that are now one of the most Instagrammed walls in the country.
+## The Claim That Paint Changed Behavior
 
-In 2004, Rama won the inaugural World Mayor Prize, an international award for the mayor who had most transformed their city. The citation mentioned the colors specifically.
+There is a story Rama has told in interviews and in a TED talk. After the painting began, he says, tax compliance in Tirana went up, littering declined, and small crime fell in the painted neighborhoods. His theory is that when people's surroundings looked like no one cared, they stopped caring, and a bright wall outside the window reversed the signal.
 
-## What Changed Besides the Walls
+It is a compelling story. It is also a story told by the person with the most interest in telling it. The supporting data has never been clean. Tax compliance and petty crime were moving in Tirana for a dozen reasons at once in the early 2000s, and isolating the effect of paint from the effect of general post-communist normalization is not really possible. Treat the claim as a theory Rama believes in, not a settled finding.
 
-This is the part that sounds made up but is not.
+What is harder to dispute is the visual effect. A city that had looked abandoned by its own government suddenly looked like someone was paying attention to it. That shift mattered, whatever the crime statistics did.
 
-After the painting began, tax compliance in Tirana went up. People started paying bills they had ignored for years. Littering declined in the painted neighborhoods. Small crime rates in those areas fell.
+## Rama the Mayor, Rama the Prime Minister
 
-Rama had not expected any of this. Neither had the economists who later studied it.
+This is the part that usually gets left out of the colorful-walls story.
 
-His theory, which he explained in a TED talk years later, was simple. When people's surroundings looked like no one cared, they stopped caring. When a bright orange wall appeared outside their window, they noticed they lived somewhere. Pride is contagious in both directions.
+Rama left the mayor's office in 2011 and became leader of the Socialist Party. He has been prime minister of Albania since 2013, which at the time of writing makes him the longest-serving head of government in the country's modern history. He is a polarizing figure. Opposition parties, and a meaningful share of Albanian voters, accuse his government of entrenching one-party control of state institutions, tolerating high-level corruption, and pushing through urban demolitions and redevelopment in Tirana that have benefited politically connected developers. Multiple former ministers and officials in his governments have been investigated or charged by SPAK, Albania's special anti-corruption prosecutor. Protests against his government have been a regular feature of Tirana life for several years.
 
-I am not claiming paint fixed Tirana. It did not. The city still has rough edges, traffic that will test your patience, and infrastructure that has not caught up to its ambitions.
-
-But something shifted in the first years of the 2000s that was bigger than the buildings themselves. My parents' generation started to believe the city could be reshaped, because they were watching it happen.
+None of this erases what the painting program did for the look of the city. But anyone walking past a rainbow facade should know that the man behind it is not a uncomplicated reformer from a storybook. He is a serving politician with a long and contested record, and opinions of him in Albania run strongly in both directions.
 
 ## Where to See the Painted Buildings Today
 
 The colors are scattered across the city, but some neighborhoods have more than others.
 
-**Rruga Kavajës and the river Lana corridor.** The best starting point. Walk west from Skanderbeg Square along Boulevard Bajram Curri and you will pass facade after facade of striped, dotted, and patterned blocks. The stretch between Sheshi Shtraus (Strauss Square) and Rruga Njazi Demi has some of the earliest and most striking examples.
+**Rruga e Kavajës and the river Lana corridor.** The best starting point. Walk west from Skanderbeg Square along Boulevard Bajram Curri and you will pass facade after facade of striped, dotted, and patterned blocks. The stretch between Sheshi Shtraus (Strauss Square) and Rruga Njazi Demi has some of the earliest and most striking examples.
 
 **Around Unaza (the ring road) and Tirana e Re.** Less polished than the center, but the painted blocks here feel more lived-in. Laundry on the balconies, kids on bikes, old men at plastic tables out front. This is where the program touched ordinary neighborhoods rather than showcase streets.
 
@@ -90,12 +74,8 @@ Blloku itself, the former forbidden neighborhood where Hoxha and the party elite
 - **Guided tours.** Several local operators run dedicated "painted Tirana" walking tours for 15 to 25 euros. Ask at your guesthouse or in Blloku.
 - **What to combine it with.** The House of Leaves museum (Shtëpia me Gjethe) and Bunk'Art 2 are both within walking distance of the main painted corridor. Seeing the surveillance-state history alongside the bright facades gives you a much fuller sense of what Tirana has been through.
 
-## Why It Still Matters
+## What the Walls Are, and What They Are Not
 
-Rama left the mayor's office in 2011 and became prime minister of Albania, a role he still holds. The painting program continued in fits and starts, then slowed as new construction in Tirana shifted toward glossy high-rise towers by international architects. Some of the original painted facades have been renovated or repainted in duller tones. Some have been demolished to make way for new buildings.
+The painted facades are not a solution to anything. They did not fix Tirana's infrastructure, its traffic, its informal construction problem, or its politics. Many of the original walls have since faded, been renovated in duller tones, or been demolished for new high-rises by international architects chasing a glossier version of the city.
 
-But enough remain to tell the story. When I take visiting friends through the streets around Sheshi Shtraus, I always watch their faces. There is a moment when they stop understanding Tirana as a post-communist capital and start understanding it as a city that decided, publicly and stubbornly, that it was not going to stay grey.
-
-My mother was not angry that morning in 2000. She was startled. A color had appeared where no color had been allowed for as long as she could remember, and she was trying to figure out whether she was permitted to like it.
-
-Twenty-six years later, the answer is yes. The orange is still there, faded now, on the block where I went to school. I walk past it most weeks. It still stops me.
+But enough remain to tell the story of a specific decision made at a specific moment. A capital that had been told, for two generations, that uniformity and grey were the appropriate aesthetic of a serious country, was publicly and stubbornly painted otherwise. You can stand in front of one of those buildings today, take the obligatory photo, and hold both things at once: the gesture was real, and the politician who made it is not above criticism. Tirana is a city that rewards holding two things at once.

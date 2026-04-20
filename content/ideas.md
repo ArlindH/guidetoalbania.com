@@ -98,3 +98,31 @@ Researched 2026-04-06. Check off ideas as they get published.
 65. [x] **750,000 Bunkers: How Albania Became the World's Most Paranoid Country** — One bunker for every four citizens. Now restaurants, tattoo studios, museums. Bunk'Art 1 and 2. Albania's most shareable historical fact.
 66. [ ] **The Illyrians: Albania's Ancient Ancestors and What They Left Behind** — Who they were, what we know, and where to see their traces from Butrint to Apollonia to the tumuli of Korce.
 67. [ ] **Ottoman Albania: Five Centuries That Built the Country You See Today** — Bazaars, hammams, mosques, clock towers, bridges. How to read Ottoman layers in every Albanian town you visit.
+
+## Hiking cluster (SEO priority)
+
+"hiking albania" is getting 245 monthly impressions with zero clicks
+(see `SEO_NOTES.md`). Current coverage is two broad listicles. The
+fix is a proper topic cluster: one pillar piece plus deep long-tail
+spokes that internally link back to the pillar and to each other.
+Write the pillar first, then the signature routes.
+
+### Pillar
+
+68. [ ] **Hiking in Albania: A Complete First-Timer's Guide** — Pillar piece targeting "hiking albania" directly. Terrain types, seasons, Accursed Alps vs southern ranges, permits, typical costs, solo vs guided, maps/apps (OsmAnd, Wikiloc), rescue and safety. Internally links every spoke below.
+
+### Signature routes
+
+69. [ ] **The Peaks of the Balkans Trail: Complete 10-Day Itinerary from Albania** — Three-country circuit, permit paperwork for Kosovo and Montenegro crossings, day-by-day route, guesthouses in Çerem, Dobërdol, Valbona, Theth, costs. Target: "peaks of the balkans".
+70. [ ] **Theth National Park: A Hiker's Guide to the Blue Eye, Waterfall, and Lock-in Tower Trails** — Multi-trail guide within the park, connecting routes, where to base yourself in Theth village, best time to visit.
+71. [ ] **Mount Korab: How to Climb Albania's Highest Peak** — Radomirë trailhead, border zone permit process, guide logistics from the village, day-hike vs overnight, when the snow clears. High long-tail value, almost no English content exists.
+72. [ ] **Llogara Pass and Mount Çika: The Coast-to-Summit Hike** — Caesar's old trail, Maja e Çikës ridge, new Llogara tunnel changing trailhead access. Expands idea #26 into a hiking-first piece.
+73. [ ] **Mount Tomorr: The Pilgrimage Hike Up Albania's Sacred Mountain** — Bektashi pilgrimage in August, the trail to the tekke, what non-pilgrims should know about visiting during the gathering.
+
+### Practical / decision spokes
+
+74. [ ] **When to Hike in Albania: A Month-by-Month Guide** — Snow windows in the Alps, wildflower season, summer heat in the south, autumn color, shoulder-season guesthouse closures. Targets "best time to hike albania".
+75. [ ] **What to Pack for Hiking in Albania** — Gear list specific to Albanian conditions: shepherd dogs, unshaded ridges, unreliable water sources on certain routes, sudden weather in the Alps. Strong internal-link hub.
+76. [ ] **Bujtina: Staying in Mountain Guesthouses on Albania's Trails** — The bujtina culture, what to expect (half-board, shared meals, rakia at dinner), booking direct vs through tours, Theth/Valbona/Çerem/Dobërdol specifics.
+77. [ ] **Day Hikes from Tirana: Dajti, Bovilla, and Pëllumbas Cave** — Capital-based hub piece for travelers staying in the city. Transport, difficulty, combining with a meal, what the cable car actually costs.
+78. [ ] **Guided vs Solo Hiking in Albania: An Honest Take** — When you really do need a guide (Korab, some Peaks of the Balkans sections), when you don't (Valbona-Theth in season, Theth park trails), what a local guide actually costs.
