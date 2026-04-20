@@ -89,9 +89,22 @@ WRITING RULES:
 - For culture articles: include context, what to expect, regional variations.
 - For travel tips: be concrete with numbers and actionable advice.
 - For history articles: connect past to present, what can you still see today.
-- Open with a scene or personal moment, not a generic intro.
+- Not every article needs a personal-anecdote opening. Use it where the angle earns it; for practical guides, open with the subject.
+- If personal detail is used, reuse canon from PERSONA.md. Do not invent new relatives or contradict established biography.
 - Short paragraphs, 3-4 sentences max.
 - Be honest about downsides (rough roads, limited infrastructure, heat).
+- For articles about sitting or recent Albanian politicians (Edi Rama, Sali Berisha, others), acknowledge the figure is polarizing and surface the main criticisms briefly. No hagiography.
+
+IMAGES (required, 3-5 per article):
+Follow the full standard in the "Images" section of CLAUDE.md. Workflow:
+1. Pick 3-5 real subjects the article needs (hero + section breaks).
+2. Search Wikimedia Commons (preferred) for each subject. Confirm each image has a CC BY, CC BY-SA, CC0, or public domain license. Capture: direct upload.wikimedia.org URL, author name, license, and File: page URL.
+3. Download to static/images/<article-slug>/ with curl, passing a User-Agent header (Wikimedia rejects bare requests):
+   UA="guidetoalbania.com/1.0 (reach@arlind.dev)"; curl -sSL -A "$UA" -o static/images/<slug>/<name>.jpg "<direct-url>"
+4. Verify each download is an actual JPEG larger than 100 KB. Anything under 10 KB is an error page, retry with the User-Agent.
+5. Resize every image to 2000 px wide using the Python Pillow snippet in CLAUDE.md. Unresized Commons files are often 5-20 MB.
+6. Embed with the <figure><img><figcaption>...<span class="fig-attr">...</span></figcaption></figure> template in CLAUDE.md. Caption gives context; fig-attr span gives author (linked) + license (linked) + source.
+7. If no suitable free-licensed image exists for a section, skip it. Never use watermarked stock, random web images, or fabricated URLs.
 
 After saving the file, your response MUST end with exactly this line (no markdown, no backticks):
 DRAFT_FILE: content/blog/<the-actual-slug>.md'
@@ -177,6 +190,12 @@ LENGTH:
 - Must be 1000-2000 words (body only, not frontmatter)
 - If too short, expand weak sections
 - If too long, tighten prose
+
+IMAGES:
+- Verify every <figure> in the article points to a real file under static/images/ (use Bash: ls the path).
+- Verify each image file is a valid JPEG over 100 KB (Bash: file and stat). Anything under 10 KB is an error page from a failed download; remove the figure block if the file is broken.
+- Verify each figcaption has: context text, then a <span class="fig-attr"> with linked author, linked license, and source. If attribution is incomplete, fix it.
+- If the article has fewer than 3 images, flag this but do not block. The write stage should have provided them.
 
 Fix all issues directly in the file using the Edit tool. Keep draft: true (publishing happens next).
 After reviewing and fixing, summarize what you changed.'

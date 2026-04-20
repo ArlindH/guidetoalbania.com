@@ -114,6 +114,39 @@ Why does this history matter for understanding modern Albania?
 
 Show the full draft for review.
 
+## Step 3b: Source images
+
+Every long-form article should be illustrated. See the **Images**
+section in CLAUDE.md for the full standard, including source
+preference order, download command, resize command, and figure HTML
+template. Summary of what to do:
+
+1. Identify 4-6 images the article genuinely needs (hero + section
+   breaks). For shorter pieces aim for 2-3.
+2. Search Wikimedia Commons first for Albania-specific subjects. Fall
+   back to Unsplash / Pexels / Pixabay only for generic visuals. If no
+   properly licensed photo exists, skip the spot rather than using
+   something watermarked or unsourced.
+3. For each image, capture: direct URL, license, author, and a link
+   back to the source page. You will need all four for the caption.
+4. Download with curl, passing a User-Agent (Wikimedia rejects bare
+   requests). Store in `static/images/<topic>/<name>.jpg`.
+5. Resize to 2000 px wide with the Python Pillow command in CLAUDE.md.
+   Unresized Commons files are often 5-20 MB.
+6. Embed with the `<figure><img><figcaption>` HTML template in
+   CLAUDE.md. Captions must add real context, not just label the
+   photo. The `.fig-attr` span at the end holds author + license link
+   + source.
+
+Verify `hugo --minify` builds cleanly with the images before moving
+on. Inspect the built page to confirm figures render (goldmark unsafe
+mode is already enabled).
+
+Delegating image sourcing to a subagent is fine and often faster. Ask
+the agent for direct URLs, licenses, authors, and a 1-line description
+of what each depicts. Verify the URLs actually resolve (the agent may
+guess); do the download and resize yourself so you control quality.
+
 ## Step 4: Refine
 
 The user may request changes to angle, tone, depth, structure, or

@@ -102,6 +102,82 @@ Style rules:
 - The `description` field is critical: write it like a Google snippet
   that makes someone click
 
+### Images
+
+This is a travel guide. Long-form articles should be illustrated.
+Target 4-6 photos in any piece over ~1,500 words, 2-3 in shorter
+pieces. A hero image near the top, then one every couple of sections
+to break up text. Don't stack images back-to-back.
+
+**Source, in preference order:**
+
+1. **Wikimedia Commons** (https://commons.wikimedia.org) — first choice
+   for anything Albania-specific. Search in Albanian and English (e.g.
+   "Valbona", "Bjeshkët e Nemuna", "Berat", "Theth"). On a File: page,
+   the "Original file" link gives the direct `upload.wikimedia.org/...`
+   URL. Licenses are almost always CC BY, CC BY-SA, or public domain.
+2. **Unsplash, Pexels, Pixabay** — acceptable for generic subjects
+   (coffee cups, mountain silhouettes) if Commons has nothing usable.
+3. If no properly licensed image exists, leave the section without one.
+   Never use Google Images results, stock-site previews with watermarks,
+   or random blog screenshots.
+
+**Download:** Wikimedia rejects requests without a User-Agent header.
+Always pass one with curl:
+
+```bash
+UA="guidetoalbania.com/1.0 (reach@arlind.dev)"
+curl -sSL -A "$UA" -o static/images/<topic>/<name>.jpg "<direct-url>"
+```
+
+**Resize every image** to 2000 px wide before committing. Use Python
+Pillow (already installed):
+
+```bash
+python3 <<'PY'
+from PIL import Image, ImageOps
+import os, sys
+for p in sys.argv[1:]:
+    im = ImageOps.exif_transpose(Image.open(p))
+    if im.mode != "RGB": im = im.convert("RGB")
+    w, h = im.size
+    if w > 2000:
+        im = im.resize((2000, int(h * 2000 / w)), Image.LANCZOS)
+    im.save(p, "JPEG", quality=82, progressive=True, optimize=True)
+PY static/images/<topic>/*.jpg
+```
+
+Unresized Wikimedia files are commonly 5-20 MB and will destroy page
+weight. Resized 2000 px JPEGs at quality 82 land around 200-800 KB.
+
+**Storage:** `static/images/<topic-or-slug>/<descriptive-name>.jpg`.
+Group related images by topic folder (e.g. `hiking/`, `food/`,
+`tirana/`) so the same photos can be reused across articles.
+
+**Embedding:** Use raw HTML figure blocks (Hugo's `goldmark.unsafe` is
+set to true). Markdown `![]()` syntax is too limited for captions
+with attribution links.
+
+```html
+<figure>
+  <img src="/images/<topic>/<name>.jpg" alt="Literal description of what's visible.">
+  <figcaption>A sentence or two giving the reader context: what they're looking at, where on the hike / in the city / in the meal this moment happens, a historical or practical note. Not a label. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Name.jpg">Author Name</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
+</figure>
+```
+
+Rules for captions:
+
+- `alt` is a plain visual description for screen readers and SEO.
+- The main caption text adds something a reader wouldn't get from
+  just looking at the photo. Context, history, where on the route this
+  is, why it matters. Never "Photo of X."
+- The `.fig-attr` span is where attribution goes. Small, dim, at the
+  end. Must include author name (linked to the Commons file page),
+  license name (linked to the CC legal text for that license version),
+  and "via Wikimedia Commons" or whichever source.
+- CC BY-SA and CC BY require both attribution and a license link.
+  CC0 / public domain still needs a source link as courtesy.
+
 ### SEO notes
 
 Every article generates:
