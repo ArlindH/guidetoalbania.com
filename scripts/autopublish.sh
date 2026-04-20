@@ -64,7 +64,7 @@ PIPELINE_START=$(date +%s)
 # =============================================================================
 # STAGE 1: Write Draft
 # =============================================================================
-log "--- Stage 1: Write Draft (model: opus) ---"
+log "--- Stage 1: Write Draft (model: claude-opus-4-7) ---"
 
 STAGE1_PROMPT='You are writing an article for guidetoalbania.com. Read CLAUDE.md for all guidelines.
 
@@ -98,7 +98,7 @@ DRAFT_FILE: content/blog/<the-actual-slug>.md'
 
 STAGE1_OUTPUT=$("$CLAUDE" -p "$STAGE1_PROMPT" \
     --allowed-tools "$WRITE_TOOLS" \
-    --model opus \
+    --model claude-opus-4-7 \
     --output-format text \
     2>/dev/null) || {
     log "ERROR: Stage 1 Claude invocation failed (exit code $?)"
@@ -133,7 +133,7 @@ log "Stage 1 complete. Draft: $DRAFT_FILE"
 # =============================================================================
 # STAGE 2: Review & Refine
 # =============================================================================
-log "--- Stage 2: Review, Fact-Check & Refine (model: opus) ---"
+log "--- Stage 2: Review, Fact-Check & Refine (model: claude-opus-4-7) ---"
 
 STAGE2_PROMPT='You are reviewing a draft article for guidetoalbania.com. Read CLAUDE.md for all guidelines.
 
@@ -183,7 +183,7 @@ After reviewing and fixing, summarize what you changed.'
 
 STAGE2_OUTPUT=$("$CLAUDE" -p "$STAGE2_PROMPT" \
     --allowed-tools "$REVIEW_TOOLS" \
-    --model opus \
+    --model claude-opus-4-7 \
     --output-format text \
     2>/dev/null) || {
     log "ERROR: Stage 2 Claude invocation failed (exit code $?)"
@@ -203,7 +203,7 @@ log "Stage 2 complete."
 # =============================================================================
 # STAGE 3: Publish
 # =============================================================================
-log "--- Stage 3: Publish (model: sonnet) ---"
+log "--- Stage 3: Publish (model: claude-opus-4-7) ---"
 
 STAGE3_PROMPT='You are publishing an article for guidetoalbania.com. Read CLAUDE.md for the publishing workflow.
 
@@ -233,7 +233,7 @@ PUBLISHED: <title> at guidetoalbania.com/blog/<slug>/'
 
 STAGE3_OUTPUT=$("$CLAUDE" -p "$STAGE3_PROMPT" \
     --allowed-tools "$PUBLISH_TOOLS" \
-    --model sonnet \
+    --model claude-opus-4-7 \
     --output-format text \
     2>/dev/null) || {
     log "ERROR: Stage 3 Claude invocation failed (exit code $?)"
