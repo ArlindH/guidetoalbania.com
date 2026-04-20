@@ -14,7 +14,7 @@ This guide is written for someone who has never hiked in Albania and is trying t
 
 <figure>
   <img src="/images/hiking/accursed-mountains.jpg" alt="The Accursed Mountains in northern Albania seen from a pass in Valbona Valley, jagged limestone peaks under a clear sky.">
-  <figcaption>The Accursed Mountains (Bjeshkët e Nemuna) at a pass above Valbona Valley. Photo by <a href="https://commons.wikimedia.org/wiki/File:The_Accursed_Mountains_03.jpg">Leonitaagashi</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+  <figcaption>The Accursed Mountains, seen from a pass above Valbona Valley near the Montenegrin border. Albanians call this range Bjeshkët e Nemuna, literally "the cursed peaks", a name older than the country's borders. Most visitors meet them for the first time here, on the final climb out of Valbona, looking south toward Theth. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:The_Accursed_Mountains_03.jpg">Leonitaagashi</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## The Three Ranges You Actually Need to Know
@@ -49,7 +49,7 @@ September is the month I point first-timers at. Daytime temperatures in the twen
 
 <figure>
   <img src="/images/hiking/valbona-theth-pass.jpg" alt="Clouds lifting from the summit of the Valbona to Theth pass, revealing a view of the Albanian Alps.">
-  <figcaption>Clouds lifting on the Valbona-Theth pass, the most famous day hike in the country. Photo by <a href="https://commons.wikimedia.org/wiki/File:Clouds_lifting_on_Valbona-Theth_pass.jpg">Timsterboy88</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+  <figcaption>The summit of Qafa e Valbonës, the pass that separates the Valbona and Theth valleys. About three hours up from either side, it is where most hikers stop for a long lunch and where the weather decides what kind of afternoon you are going to have. The small wooden kulla that sells coffee here opens in late May and closes in mid-October. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Clouds_lifting_on_Valbona-Theth_pass.jpg">Timsterboy88</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## What Hiking in Albania Is Actually Like
@@ -78,7 +78,7 @@ If you are designing a first hiking trip, here is the honest answer.
 
 <figure>
   <img src="/images/hiking/theth-church.jpg" alt="The stone-built Church of Theth in the valley, surrounded by meadows and limestone peaks.">
-  <figcaption>The church at Theth, the most photographed building in the valley and a common finish point for the Valbona-Theth hike. Photo by <a href="https://commons.wikimedia.org/wiki/File:Kisha_e_Thethit_-_2018_(8).jpg">Liridon</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+  <figcaption>Kisha e Thethit, the 19th-century Catholic church in the middle of Theth valley. It was converted into a warehouse during communism, then restored by villagers after 1991 using the original stones. For most hikers walking down from the Valbona pass, this is the first sign that the long descent is nearly done, and the unofficial finish line of the day. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Kisha_e_Thethit_-_2018_(8).jpg">Liridon</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## Solo Versus Guided
@@ -112,7 +112,7 @@ For maps, install **OsmAnd** (OpenStreetMap) with the Albania region downloaded 
 
 <figure>
   <img src="/images/hiking/mount-korab-sunset.jpg" alt="Sunset above the clouds at Mount Korab, Albania's highest peak at 2,764 meters.">
-  <figcaption>Sunset from the summit of Mount Korab (2,764 m), Albania's highest peak. Photo by <a href="https://commons.wikimedia.org/wiki/File:Sunset_at_Mount_Korab.jpg">DriniTeta</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</figcaption>
+  <figcaption>Sunset from near the summit of Mount Korab (2,764 m), on the Albania-North Macedonia border. The approach is long, mostly grass and scree, and finishes on a ridge where the horizon drops away on both sides. Most people who get up here started before dawn from Radomirë village with a local guide. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Sunset_at_Mount_Korab.jpg">DriniTeta</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## Safety, Honestly
@@ -133,7 +133,7 @@ The southern mountains are often treated as an afterthought in hiking guides to 
 
 <figure>
   <img src="/images/hiking/llogara-pass-coast.jpg" alt="View from Llogara Pass down to Palasa and Nazar beaches on the Albanian Ionian coast.">
-  <figcaption>Looking south from Llogara Pass to the Ionian coast. Hiking here means starting in pine forest and finishing on a beach. Photo by <a href="https://commons.wikimedia.org/wiki/File:Palasa_Beach_and_Nazar_Beach_seen_from_Llogara_Pass,_Albania.jpg">Sharon Hahn Darlin</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY 2.0</a>, via Wikimedia Commons.</figcaption>
+  <figcaption>The view south from Llogara Pass, roughly 1,000 meters above the Ionian Sea. That dark crescent below is Palasa, the first beach on the Riviera heading south. Caesar's Roman legions marched over this pass in 48 BC chasing Pompey, and the old trail is still walkable. Few ranges in Europe drop this dramatically into the sea. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Palasa_Beach_and_Nazar_Beach_seen_from_Llogara_Pass,_Albania.jpg">Sharon Hahn Darlin</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY 2.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 Llogara National Park sits on a pine-covered ridge that drops 1,000 meters straight to the Ionian Sea. You can hike Caesar's old trail over the pass (the same route his legions used in 48 BC), summit Mount Çika, or walk the Karaburun peninsula's remote coastline. The season here is far longer than in the Alps. April, May, October, and even parts of November are pleasant.

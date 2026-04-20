@@ -528,20 +528,6 @@ hr {
   border-collapse: collapse;
   margin-bottom: 1.5rem;
   font-size: 0.92rem;
-  overflow-x: auto;
-  display: block;
-}
-
-.article-content thead {
-  display: table;
-  width: 100%;
-  table-layout: fixed;
-}
-
-.article-content tbody {
-  display: table;
-  width: 100%;
-  table-layout: fixed;
 }
 
 .article-content th {
@@ -550,13 +536,19 @@ hr {
   padding: 0.6rem 0.75rem;
   border-bottom: 2px solid var(--border);
   color: var(--text);
-  white-space: nowrap;
+  vertical-align: bottom;
 }
 
 .article-content td {
   padding: 0.55rem 0.75rem;
   border-bottom: 1px solid var(--border-light);
   color: var(--text-secondary);
+  vertical-align: top;
+}
+
+.article-content table th:first-child,
+.article-content table td:first-child {
+  white-space: nowrap;
 }
 
 .article-content tbody tr:hover {
@@ -605,6 +597,14 @@ hr {
   color: inherit;
   text-decoration: underline;
   text-decoration-thickness: 1px;
+}
+
+.article-content figcaption .fig-attr {
+  display: block;
+  margin-top: 0.35rem;
+  font-size: 0.75rem;
+  font-style: normal;
+  opacity: 0.7;
 }
 
 /* ===== Author Bio ===== */
