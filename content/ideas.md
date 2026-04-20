@@ -73,7 +73,7 @@ Researched 2026-04-06. Check off ideas as they get published.
 46. [ ] **Dita e Veres: How Albania Celebrates a Pagan New Year in March** — March 14 in Elbasan: ballokume cookies, bonfires, verore bracelet. Pre-Christian festival still observed as national holiday.
 47. [ ] **The Burrnesha: Albania's Sworn Virgins and a Tradition Fading from Memory** — Women who took oaths to live as men under Kanun law. Fewer than 12 remain. Gender, honor, and northern Albanian society.
 48. [ ] **The Kanun: Albania's Ancient Code of Law and Its Complicated Legacy** — 500-year-old rules governing hospitality, honor, blood feuds, and family. How it shaped modern culture and why it still matters in the north.
-49. [ ] **How Tirana Got Its Colors: The Mayor Who Painted a Communist City** — Artist-turned-mayor Edi Rama splashing orange, green, blue across grey concrete in 2000. The story behind Tirana's most photographed feature.
+49. [x] **How Tirana Got Its Colors: The Mayor Who Painted a Communist City** — Artist-turned-mayor Edi Rama splashing orange, green, blue across grey concrete in 2000. The story behind Tirana's most photographed feature.
 50. [ ] **Valle: The Albanian Circle Dance You'll Be Pulled Into** — Group dances at weddings, festivals, celebrations. Regional styles from Tosk south to Gheg north. You can't just watch.
 51. [ ] **The Gjirokaster Folklore Festival: Albania's Greatest Cultural Gathering** — Held every five years, showcasing polyphonic singing, traditional costumes, regional dances. Near-zero English planning guides.
 52. [ ] **Gheg and Tosk: Two Dialects, Two Albanias** — How the Shkumbin River divides language, food, music, architecture, and social customs. What travelers notice crossing north to south.
