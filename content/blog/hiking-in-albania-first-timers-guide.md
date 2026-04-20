@@ -1,6 +1,6 @@
 ---
 title: "Hiking in Albania: A Complete First-Timer's Guide"
-date: 2026-04-20
+date: 2026-04-20T13:13:00+00:00
 slug: "hiking-in-albania-first-timers-guide"
 description: "Albania has some of the wildest mountains and least crowded trails in Europe. A practical first-timer's guide to when to go, where to start, and what to actually expect."
 categories: ["destinations"]

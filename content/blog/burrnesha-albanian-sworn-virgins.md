@@ -1,6 +1,6 @@
 ---
 title: "The Burrnesha: Albania's Sworn Virgins and a Tradition Fading from Memory"
-date: 2026-04-20
+date: 2026-04-20T13:31:00+00:00
 slug: "burrnesha-albanian-sworn-virgins"
 description: "The burrnesha were Albanian women who took an oath to live as men under the Kanun. Fewer than a dozen remain. Here is what the tradition was, and why."
 categories: ["culture"]

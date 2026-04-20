@@ -1,6 +1,6 @@
 ---
 title: "How Tirana Got Its Colors: The Mayor Who Painted a Communist City"
-date: 2026-04-20
+date: 2026-04-20T12:53:00+00:00
 slug: "how-tirana-got-its-colors"
 description: "In 2000, a painter became mayor of Tirana and started coloring the grey communist blocks. The story behind the city's most photographed walls, and the politics around them."
 categories: ["culture"]
