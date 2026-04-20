@@ -15,7 +15,7 @@ enableRobotsTXT = true
   noClasses = true
 
 [markup.goldmark.renderer]
-  unsafe = false
+  unsafe = true
 
 [outputs]
   home = ["HTML", "RSS"]

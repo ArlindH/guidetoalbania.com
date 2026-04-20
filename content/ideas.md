@@ -109,7 +109,7 @@ Write the pillar first, then the signature routes.
 
 ### Pillar
 
-68. [ ] **Hiking in Albania: A Complete First-Timer's Guide** — Pillar piece targeting "hiking albania" directly. Terrain types, seasons, Accursed Alps vs southern ranges, permits, typical costs, solo vs guided, maps/apps (OsmAnd, Wikiloc), rescue and safety. Internally links every spoke below.
+68. [x] **Hiking in Albania: A Complete First-Timer's Guide** — Pillar piece targeting "hiking albania" directly. Terrain types, seasons, Accursed Alps vs southern ranges, permits, typical costs, solo vs guided, maps/apps (OsmAnd, Wikiloc), rescue and safety. Internally links every spoke below.
 
 ### Signature routes
 
