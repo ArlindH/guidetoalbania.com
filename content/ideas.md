@@ -6,7 +6,7 @@ Researched 2026-04-06. Check off ideas as they get published.
 
 1. [ ] **A Local's Guide to Berat: Albania's City of a Thousand Windows** — Ottoman architecture, hilltop castle, Mangalem quarter, evening xhiro. High search volume, UNESCO authority.
 2. [ ] **Korçë: Albania's Most Underrated City (And Why You Should Visit)** — Old Bazaar, Resurrection Cathedral, beer festival, Voskopojë's frescoed churches. Huge coverage gap.
-3. [ ] **The Valbona to Theth Hike: Everything You Need to Know** — Route details, packing, accommodation, seasonal timing. Most-searched Albania hiking topic.
+3. [x] **The Valbona to Theth Hike: Everything You Need to Know** — Route details, packing, accommodation, seasonal timing. Most-searched Albania hiking topic.
 4. [ ] **Skip Ksamil: 7 Albanian Beaches That Haven't Been Ruined Yet** — Honest overtourism take plus alternatives (Gjipe, Palasë, Llamani, Bunec). Contrarian angle.
 5. [ ] **Përmet: Thermal Baths, Canyon Hikes, and Albania's Best-Kept Secret** — Benje thermal baths, Lengarica Canyon, local wine. Minimal English coverage.
 6. [ ] **Lin Village: A Forgotten Peninsula on Lake Ohrid** — Stone houses, cherry orchards, Byzantine mosaic, zero crowds. Almost no coverage online.
