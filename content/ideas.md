@@ -35,7 +35,7 @@ Researched 2026-04-06. Check off ideas as they get published.
 ## Travel Tips
 
 16. [x] **How to Use Furgons in Albania: A First-Timer's Guide to Minibus Travel** — Routes, prices, etiquette, when to rent a car instead. Most-asked practical question on Reddit.
-17. [ ] **How Much Does Albania Actually Cost? A Realistic Budget Breakdown for 2026** — Daily budgets at three levels, real prices. Top search, most articles outdated.
+17. [x] **How Much Does Albania Actually Cost? A Realistic Budget Breakdown for 2026** — Daily budgets at three levels, real prices. Top search, most articles outdated.
 18. [ ] **The Albanian Riviera Without a Car: A Complete Public Transport Guide** — Bus/furgon routes, Corfu ferry, Llogara Tunnel changes. Extremely common question.
 19. [ ] **15 Albanian Phrases That Will Change How Locals Treat You** — Practical phrases with pronunciation and context. Existing lists lack context.
 
@@ -89,7 +89,7 @@ Researched 2026-04-06. Check off ideas as they get published.
 
 54. [ ] **Driving in Albania: A Brutally Honest Guide for Foreigners** — Zero-tolerance alcohol, sheep on mountain roads, Llogara hairpins, when Google Maps lies. Most-searched practical query.
 55. [ ] **Albania for Solo Female Travelers: What I Wish Someone Had Told Me** — Safety realities, cultural context, practical advice for eating alone, booking guesthouses. High-volume, high-intent query.
-56. [ ] **How to Get a SIM Card and Stay Connected in Albania** — Vodafone vs. One, tourist packs, eSIM options, Balkan roaming zone, signal coverage. Constantly searched, existing guides outdated.
+56. [x] **How to Get a SIM Card and Stay Connected in Albania** — Vodafone vs. One, tourist packs, eSIM options, Balkan roaming zone, signal coverage. Constantly searched, existing guides outdated.
 57. [ ] **Albania by Campervan: Wild Camping, Regulations, and the Best Spots** — Wild camping tolerated in rural and coastal areas, 100+ registered campsites. Vanlife content booming, Albania is campervan-friendly.
 58. [ ] **Tipping in Albania: What Locals Actually Expect** — 5-10% at restaurants, round up for coffee, always use lek not euros. Quick, practical, constantly searched.
 59. [ ] **The Complete Albania Itinerary: 7, 10, and 14 Days** — Three itineraries with realistic driving times, furgon connections, where to linger vs. pass through. Top-5 Albania travel search.
@@ -144,5 +144,5 @@ ranks most easily. See `SEO_NOTES.md` for the full data.
 
 79. [x] **Renting a Car in Albania: What It Actually Costs and What Nobody Warns You About** — The next piece to write. Real 2026 daily rates by season, local agencies vs the international desks at Rinas, the deposit hold, what the green card covers, taking an Albanian rental into Kosovo, Montenegro and Greece, which roads genuinely need clearance and which are fine in a hatchback, fuel prices, parking in Tirana, the police stop etiquette. Pairs with and links to `is-albania-safe`, which already makes the case that Albania's real danger is the road.
 80. [ ] **Where to Stay in Albania: A Region-by-Region Guide** — Highest-value affiliate category after car rental. Tirana neighborhoods, Riviera villages vs Saranda, bujtina in the Alps, agroturizëm inland. Nothing on the site covers accommodation.
-81. [ ] **Tirana Airport to Anywhere: Every Transport Option from Rinas** — Airport transfer intent, the express bus, taxi fixed rates, the furgon connections, renting at arrivals. Short, practical, high commercial intent.
-82. [ ] **How Much Does Albania Cost? A Realistic 2026 Budget** — Expands idea 17 with current prices. Ranks for cost queries that already appear in Search Console across several languages.
+81. [x] **Tirana Airport to Anywhere: Every Transport Option from Rinas** — Airport transfer intent, the express bus, taxi fixed rates, the furgon connections, renting at arrivals. Short, practical, high commercial intent.
+82. [x] **How Much Does Albania Cost? A Realistic 2026 Budget** — Expands idea 17 with current prices. Ranks for cost queries that already appear in Search Console across several languages.
