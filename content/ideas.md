@@ -10,7 +10,7 @@ Researched 2026-04-06. Check off ideas as they get published.
 
 ## Destinations
 
-1. [ ] **A Local's Guide to Berat: Albania's City of a Thousand Windows** — Ottoman architecture, hilltop castle, Mangalem quarter, evening xhiro. High search volume, UNESCO authority.
+1. [x] **A Local's Guide to Berat: Albania's City of a Thousand Windows** — Ottoman architecture, hilltop castle, Mangalem quarter, evening xhiro. High search volume, UNESCO authority.
 2. [ ] **Korçë: Albania's Most Underrated City (And Why You Should Visit)** — Old Bazaar, Resurrection Cathedral, beer festival, Voskopojë's frescoed churches. Huge coverage gap.
 3. [x] **The Valbona to Theth Hike: Everything You Need to Know** — Route details, packing, accommodation, seasonal timing. Most-searched Albania hiking topic.
 4. [ ] **Skip Ksamil: 7 Albanian Beaches That Haven't Been Ruined Yet** — Honest overtourism take plus alternatives (Gjipe, Palasë, Llamani, Bunec). Contrarian angle.
