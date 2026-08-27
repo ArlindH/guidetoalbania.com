@@ -55,7 +55,7 @@ Researched 2026-04-06. Check off ideas as they get published.
 28. [ ] **The Blue Eye (Syri i Kalter): Albania's Most Mesmerizing Natural Spring** — 50-meter-deep karst spring, why you can no longer swim there, and what to do nearby. Rules recently changed, outdated info frustrates travelers.
 29. [ ] **Prespa National Park: Pelicans, Island Churches, and a Lake Shared by Three Countries** — World's largest Dalmatian pelican colony, 270 bird species, UNESCO biosphere reserve. Zero English practical guides.
 30. [ ] **The Shala River: Albania's "Thailand" Hidden in the Alps** — Turquoise water, canyon walls, boat access only from Koman Lake. Viral on social media but practical English info is nonexistent.
-31. [ ] **Day Trips from Tirana: 8 Escapes You Can Do Without a Car** — Mount Dajti, Pellumbas Cave, Kruje, Durres, Petrela Castle, all by bus or furgon. Top search query, most articles assume a rental car.
+31. [x] **Day Trips from Tirana: 8 Escapes You Can Do Without a Car** — Mount Dajti, Pellumbas Cave, Kruje, Durres, Petrela Castle, all by bus or furgon. Top search query, most articles assume a rental car.
 32. [ ] **Kruje: Skanderbeg's Fortress and Albania's Best Bazaar** — Hilltop castle where Albania's national hero held off the Ottomans, paired with 400-year-old bazaar. Every Tirana day-tripper goes here.
 33. [ ] **Himara and Dhermi: The Albanian Riviera's Best-Kept Villages** — Clifftop villages above the Ionian, hidden coves by boat, summer festival scene. Overtaking Saranda in popularity but far less coverage.
 34. [ ] **The Drino Valley: Albania's Most Beautiful Drive You've Never Heard Of** — Stone villages, Ottoman bridges, the road from Gjirokaster to Permet through southern Albania's most scenic corridor.
