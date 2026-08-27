@@ -59,7 +59,7 @@ This is where people get it wrong, so let me be blunt about each.
 
 ### Sarandë
 
-The Riviera's city. A horseshoe bay stacked with apartment blocks, a long promenade, the Corfu ferry, and by far the best transport links in the south. Butrint is thirty minutes away, Ksamil thirty, the Blue Eye forty-five.
+The Riviera's city. A horseshoe bay stacked with apartment blocks, a long promenade, the Corfu ferry, and by far the best transport links in the south. Butrint is thirty minutes away, Ksamil thirty, the Blue Eye twenty-five.
 
 **Stay here if** you are not driving. Sarandë is the one Riviera base that works properly without a car, and that is a real advantage.
 
