@@ -103,8 +103,8 @@ Is it worth it? Often yes, because the places that repay you most in Albania are
 If you do want one, book it early for summer and compare deposit terms rather than headline rates. The local Albanian agencies on <a class="affil" href="https://tp.media/r?campaign_id=87&marker=770798&p=2043&trs=567396&u=https%3A%2F%2Fwww.localrent.com%2Fen%2Falbania%2F&sub_id=albania-travel-cost-budget" target="_blank" rel="sponsored nofollow noopener">Localrent</a> are generally cheaper than the airport chains and show the deposit next to the price, which matters more than the daily rate: a 300 euro hold against your card is 300 euro you cannot spend on the trip. The [full breakdown of rental costs and traps](/blog/renting-a-car-in-albania/) is worth reading before you book anything.
 
 <figure>
-  <img src="/images/coast/dhermi-beach.jpg" alt="A pebble beach curving away below steep green hills, with clear turquoise water and a few sun loungers.">
-  <figcaption>Dhërmi in early season. The same stretch of pebbles, the same water, and roughly half the accommodation price of the second week of August. Timing is the cheapest upgrade available in Albania. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Dh%C3%ABrmi_-_Beach.JPG">Sietske2</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/coast/dhermi-beach.jpg" alt="Hotels and apartments strung along the coast below Dhërmi, with the Llogara ridge rising behind and turquoise sea in front.">
+  <figcaption>The coast below Dhërmi in early season, with Llogara behind it. The same water, the same pebbles, and roughly half the accommodation price of the second week of August. Timing is the cheapest upgrade available in Albania. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Dh%C3%ABrmi_Coast.jpg">Albinfo</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ### 3. The invisible costs

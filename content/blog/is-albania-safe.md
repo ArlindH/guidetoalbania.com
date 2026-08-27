@@ -152,8 +152,8 @@ If you came here worried about crime, you can stop. The statistics do not suppor
 Then get in a car on a mountain road and concentrate, because that is where this country will actually test you.
 
 <figure>
-  <img src="/images/safety/llogara-pass.jpg" alt="A view from a high mountain pass down over forested slopes to the sea, with islands visible on the horizon.">
-  <figcaption>The view from Llogara, looking south down the Ionian coast. The pass drops more than a thousand metres to the sea in a series of tight hairpins, and it is the stretch of road where I would most strongly advise you to take your time. The view is not going anywhere. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Llogara.jpg">godo godaj</a>, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/safety/llogara-pass.jpg" alt="A grassy ridge on the Llogara pass falling away steeply to a wide expanse of blue Ionian Sea far below.">
+  <figcaption>The view from Llogara, where the mountain drops more than a thousand metres to the Ionian in a series of tight hairpins. This is the stretch of road where I would most strongly advise you to take your time. The view is not going anywhere. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Llogara_-_The_Other_Side.jpg">Qen02</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 The most dangerous hour of my week is not a walk home through Blloku at two in the morning. It is the drive to my father's village, on a road I have known my whole life, where someone will come round a blind bend on my side of the white line at least once.

@@ -17,7 +17,7 @@ It is my favorite kind of Albanian trip, the kind where the destination fits in 
 
 <figure>
   <img src="/images/raki/osum-canyon-walls.jpg" alt="Limestone walls of the Osumi canyon curving around a bend of the river, seen from the rim with green hills behind.">
-  <figcaption>The Osumi canyon a few kilometers south of Çorovoda, where the river has cut a 26 kilometer trench through the limestone. The rim road has pull-offs like this one; the best of them are unmarked, so drive slowly and stop often. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Osum_Canyon,_2016-07_02.jpg">Pasztilla</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
+  <figcaption>The Osumi canyon a few kilometers south of Çorovoda, where the river has cut a 26 kilometer trench through the limestone. The rim road has pull-offs like this one; the best of them are unmarked, so drive slowly and stop often. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Kanjoni_i_Osumit_Arben_Llapashtica.jpg">Arben Llapashtica</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## Skrapar: The Gold Standard
@@ -72,8 +72,8 @@ Tasting here works the same way as in Skrapar: through people rather than storef
 Twenty minutes from Përmet, up the Lengarica river, the Ottoman-era Ura e Kadiut (the Kadi's bridge) arches over a set of natural thermal pools. Soaking is free; parking is about 200 lekë. The water is closer to warm bathwater than to a hot spring, which makes it perfect in the shoulder seasons, when you can sit in a pool below a 200-year-old bridge with the canyon walls going gold above you and nobody around but a few locals who have been coming since before it was on anyone's map.
 
 <figure>
-  <img src="/images/raki/benja-katiu-bridge.jpg" alt="Ottoman stone bridge arching over a river beside natural thermal pools where a few people are bathing, wooded hills behind.">
-  <figcaption>Ura e Kadiut over the Lengarica, with the thermal pools beside it. The bridge carried the old mule path toward the villages above; the pools have been used for as long as anyone has records, and entry is still free. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Banjat_e_Benj%C3%ABs_with_river_Lengarica_and_Ura_e_Kadiut.jpg">malenki</a>, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/raki/benja-katiu-bridge.jpg" alt="A single-arch Ottoman stone bridge spanning the pale turquoise Lengarica river, with wooded slopes rising on both banks.">
+  <figcaption>Ura e Kadiut over the Lengarica, with the thermal pools just downstream. The bridge carried the old mule path toward the villages above; the pools have been used for as long as anyone has records, and entry is still free. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Ura_e_Kadiut.jpg">Fabiola Muhollari</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## When to Go

@@ -15,8 +15,8 @@ They are called burrnesha, from the Albanian word burrë (man). English writers 
 Fewer than a dozen are thought to remain. When the last of them are gone, one of the strangest and most specific institutions of Albanian highland life will be gone with them.
 
 <figure>
-  <img src="/images/burrnesha/accursed-mountains-theth.jpg" alt="Sharp limestone peaks of the Accursed Mountains rising above the Theth valley in northern Albania.">
-  <figcaption>The valley of Theth, in the Accursed Mountains (Bjeshkët e Nemuna). For centuries these isolated highland villages lived under the Kanun of Lekë Dukagjini rather than state law, and it was here that the burrnesha tradition took root. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Mount_Arapit_from_Thethi.jpg">Jirka Dl</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/burrnesha/accursed-mountains-theth.jpg" alt="Sharp grey limestone peaks of the Accursed Mountains rising beyond a slope of red and gold autumn trees.">
+  <figcaption>The Accursed Mountains (Bjeshkët e Nemuna) above Theth in October. For centuries these isolated highland villages lived under the Kanun of Lekë Dukagjini rather than state law, and it was here that the burrnesha tradition took root. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:2024-10-14_Theth_National_Park_28.jpg">Alexkom000</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## Where the Tradition Came From
@@ -86,8 +86,8 @@ When the last of them die, there will be no replacements. No young woman in Alba
 There is no museum dedicated to the burrnesha. The tradition was lived in kitchens, courtyards, and mountain fields, not in institutions. But if you travel in the north, you are moving through the landscape the Kanun shaped.
 
 <figure>
-  <img src="/images/burrnesha/theth-village.jpg" alt="Stone houses with wooden-shingled roofs scattered across a green valley in Theth, surrounded by forested slopes.">
-  <figcaption>Stone houses in Theth. In villages like this the Kanun of Lekë Dukagjini was the real law for centuries. Inheritance rules, blood feud obligations, and the small door the code left open for a daughter to become a son were all lived out in homes like these. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Fshati_Theth_(1).jpg">Bunker92</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/burrnesha/theth-village.jpg" alt="The village of Theth spread along a green valley floor, with steep forested slopes and grey limestone walls rising on both sides.">
+  <figcaption>Theth from the slope above the village. In places like this the Kanun of Lekë Dukagjini was the real law for centuries. Inheritance rules, blood feud obligations, and the small door the code left open for a daughter to become a son were all lived out in the houses down there. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:2024-10-15_Theth.jpg">Alexkom000</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 In **Theth**, the Kulla e Ngujimit (the Lock-in Tower) is a square stone tower where men marked for killing in a blood feud could shelter, sometimes for years. It sits in the middle of the village. There is a small fee of around 150 LEK, paid to the caretaker who opens it on request. The rules the guide explains are the feud rules, inverted, that opened the door for a daughter to become the family's son.

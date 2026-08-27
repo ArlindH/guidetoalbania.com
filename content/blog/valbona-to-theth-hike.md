@@ -85,8 +85,8 @@ It was fully paved in 2021, and the drive now takes roughly two hours on proper 
 This is a summer trail. The realistic season runs from the middle of June to early October.
 
 <figure>
-  <img src="/images/hiking/accursed-mountains.jpg" alt="Jagged grey limestone peaks of the Accursed Mountains in northern Albania under a clear sky.">
-  <figcaption>The Accursed Mountains, Bjeshkët e Nemuna, the range the trail crosses. Snow sits on the higher peaks and on the pass itself well into June some years, which is why the hiking season does not really begin until the middle of that month. By September it is gone and the light is at its best. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:The_Accursed_Mountains_03.jpg">Leonitaagashi</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/hiking/accursed-mountains.jpg" alt="Ridges of the Accursed Mountains falling away into a deep valley, framed by pines and grey rock in autumn.">
+  <figcaption>The Accursed Mountains, Bjeshkët e Nemuna, the range the trail crosses. Snow sits on the higher peaks and on the pass itself well into June some years, which is why the hiking season does not really begin until the middle of that month. By September it is gone and the light is at its best. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:2024-10-14_Theth_National_Park_24.jpg">Alexkom000</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 The guesthouses at both ends mostly open in the second half of May and close again toward the end of October. July and August are the warmest and busiest months, though "busy" here would count as deserted almost anywhere else.
@@ -100,8 +100,8 @@ At both ends of the hike you sleep in a bujtina, a family-run guesthouse. This i
 The standard arrangement is half board: a bed, a cooked dinner, and breakfast, for somewhere around 30 to 45 euros per person. Dinner is whatever the family is making, often mountain trout, byrek, garden vegetables, local cheese and honey, and a glass of homemade raki you will be encouraged not to refuse. Breakfast is built to get you over a pass. Book a night in Valbona before your crossing and a night in Theth after it.
 
 <figure>
-  <img src="/images/hiking/theth-church.jpg" alt="The stone-built church of Theth standing in a green valley below limestone peaks.">
-  <figcaption>Theth, the end of the walk. The stone church in the middle of the valley, Kisha e Thethit, is the landmark you aim for on the long descent. The guesthouses are spread along the valley around it, most of them a short, flat walk from this spot. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Kisha_e_Thethit_-_2018_(8).jpg">Liridon</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/hiking/theth-church.jpg" alt="The stone church of Theth with its shingled spire standing in a green meadow below limestone peaks.">
+  <figcaption>Theth, the end of the walk. The stone church in the middle of the valley, Kisha e Thethit, is the landmark you aim for on the long descent. The guesthouses are spread along the valley around it, most of them a short, flat walk from this spot. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Church_in_Theth_(June_2024).jpg">Tom.whitehead337</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 A few notes on money and logistics. There are no ATMs in either Valbona or Theth, so bring all the cash, in lek, that you will need for guesthouses, furgons and the trail. The two cafes on the route are cash only. A small national park fee, a few hundred lek, is sometimes collected at a ranger post. And if you would rather not carry a full pack over the pass, guesthouses can send your main bag around by vehicle for roughly 25 to 45 euros, leaving you to walk with a daypack.

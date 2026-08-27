@@ -124,6 +124,33 @@ to break up text. Don't stack images back-to-back.
    Never use Google Images results, stock-site previews with watermarks,
    or random blog screenshots.
 
+**Freshness: pick a recent photo.** Albania is changing fast. Squares get
+rebuilt, promenades get poured, roads get paved, terminals get expanded.
+A 2010 photo of a coastal road or a city centre actively misleads the
+reader about what they will find.
+
+- **Hard rule: the photo must have been taken within the last 3 years.**
+  Not uploaded within 3 years, *taken* within 3 years. Many Commons files
+  are recent uploads of decades-old slides.
+- Check the date before downloading. On a File: page it is the "Date"
+  row in the summary table. Via the API:
+
+```bash
+UA="guidetoalbania.com/1.0 (reach@arlind.dev)"
+curl -sS -A "$UA" "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=timestamp|extmetadata&iiextmetadatafilter=DateTimeOriginal&titles=File:Example.jpg"
+```
+
+- Sort Commons category listings by date, and search for the year
+  ("Tirana 2025") to surface current photography.
+- **Only exception:** a photo used deliberately *as* a historical image,
+  where the caption makes the period explicit (an archival shot of a
+  1990s distillery, a communist-era street scene). Put the year in the
+  filename so the intent is obvious, e.g.
+  `raki-distilling-berat-1999.jpg`.
+- Timeless subjects still follow the rule. A 300-year-old stone tower
+  has not changed, but the road to it, the parking, and the signage have,
+  and a fresh photo costs nothing extra to find.
+
 **Download:** Wikimedia rejects requests without a User-Agent header.
 Always pass one with curl:
 

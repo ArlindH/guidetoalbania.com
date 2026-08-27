@@ -16,8 +16,8 @@ Albania is small. Three hundred and forty kilometres from the Montenegrin border
 So the routes below are built around real driving times, with a rule I have never regretted: **no more than one long transfer day per week, and never two nights in a row in different beds.**
 
 <figure>
-  <img src="/images/coast/llogara-viewpoint.jpg" alt="A view from a high mountain pass down onto a curving coastline, blue sea and hazy islands on the horizon.">
-  <figcaption>The view from Llogara, looking south along the Riviera towards Corfu. The tunnel underneath takes seven minutes, costs 250 lek for a car since spring 2026, and skips all of this. On a clear day, take the old pass road anyway; it is one of the great drives in Europe and it is still free. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Llogara_Viewing_platform_view.JPG">Albinfo</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/coast/llogara-viewpoint.jpg" alt="A grassy ridge at the top of the Llogara pass falling away to a vast expanse of blue Ionian Sea.">
+  <figcaption>The view from Llogara, where the ridge simply stops and the Ionian starts. The tunnel underneath takes seven minutes, costs 250 lek for a car since spring 2026, and skips all of this. On a clear day, take the old pass road anyway; it is one of the great drives in Europe and it is still free. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Llogara_-_The_Other_Side.jpg">Qen02</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## Real Driving Times
@@ -85,8 +85,8 @@ Same shape, three more days, and every one of them spent standing still rather t
 The temptation at ten days is to bolt on the Alps. Resist it. Shkodër and back plus the ferry is a minimum of three days done badly, and it will cost you the parts of the south that make the trip.
 
 <figure>
-  <img src="/images/gjirokaster/old-town.jpg" alt="Steep stone-roofed Ottoman houses stacked on a hillside beneath a large castle, mountains behind.">
-  <figcaption>Gjirokastër, where the roofs are slate laid like fish scales and the houses were built as fortified towers. It is a UNESCO site and it is also a working town, which is why it is more interesting after five in the afternoon than at midday. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Gjirokast%C3%ABr_-_Altstadt_7.jpg">Wolfgang Sauber</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/gjirokaster/old-town.jpg" alt="Stone-roofed Ottoman houses climbing a green hillside towards Gjirokastër castle, with the modern approach road curving below.">
+  <figcaption>The climb into Gjirokastër, with the castle on the ridge and the stone-roofed houses stacked below it. The roofs are slate laid like fish scales and the houses were built as fortified towers. It is a UNESCO site and it is also a working town, which is why it is more interesting after five in the afternoon than at midday. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:View_of_Gjirokaster_Castle.jpg">Jocelyn777</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## Fourteen Days: South Loop Plus the Alps

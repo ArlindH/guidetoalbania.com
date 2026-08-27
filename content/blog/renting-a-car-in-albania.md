@@ -145,8 +145,8 @@ Be specific about this rather than renting for the whole trip by default.
 **Groups of three or four.** The arithmetic flips completely. Once you are splitting the cost, a car is usually cheaper than four furgon fares and infinitely more flexible.
 
 <figure>
-  <img src="/images/driving/korce-erseke-road.jpg" alt="An empty asphalt road running straight through open farmland towards a long ridge of bare mountains.">
-  <figcaption>The road from Korçë to Ersekë, in the southeast. Nothing here is a headline sight, which is exactly why almost no bus goes where you want to go and why the car pays for itself. This is the Albania you only reach if you can stop when you feel like it. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Albania,_road_Korce-Erseke_1.jpg">Krzysztof Dudzik-Górnicki</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/driving/mountain-road-vlora.jpg" alt="A modern two-lane road curving down through empty hills towards a distant coastal plain.">
+  <figcaption>The road down towards Vlorë. Nothing on this stretch is a headline sight, which is exactly why almost no bus goes where you want to go and why the car pays for itself. This is the Albania you only reach if you can stop when you feel like it. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Road_from_Vlora_(P381).jpg">Zalasem1</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## Where It Does Not

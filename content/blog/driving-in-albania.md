@@ -16,8 +16,8 @@ It is also, on the right day, one of the great driving countries in Europe. The 
 Both things are true. This article is about how to get the second without the first.
 
 <figure>
-  <img src="/images/driving/korce-erseke-road.jpg" alt="An empty two-lane road running straight across a high plateau with bare mountains on either side.">
-  <figcaption>The road between Korçë and Ersekë in the southeast, which is the kind of Albanian driving nobody photographs: wide, empty, well surfaced, and about as demanding as a Sunday morning. Most of the country's main routes are now like this. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Albania,_road_Korce-Erseke_1.jpg">Krzysztof Dudzik-Górnicki</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/driving/mountain-road-vlora.jpg" alt="A wide, well surfaced road winding down a scrubby hillside in long curves, with a hazy coastal plain spread out below.">
+  <figcaption>The road down from the hills above Vlorë, which is the kind of Albanian driving nobody photographs: wide, well surfaced, properly engineered, and about as demanding as a Sunday morning. Most of the country's main routes now look like this. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Road_from_Vlora_(P381).jpg">Zalasem1</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## The Rules, As Written

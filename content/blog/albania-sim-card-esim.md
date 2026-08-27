@@ -76,8 +76,8 @@ This is the part the comparison sites cannot tell you, because it takes living h
 **The far northeast and the Korab border zone:** assume nothing.
 
 <figure>
-  <img src="/images/tirana/albanian-alps-from-air.jpg" alt="Aerial view of steep grey limestone peaks and deep green valleys stretching to the horizon.">
-  <figcaption>The Accursed Mountains from the air. Villages in these valleys have had mobile coverage for years now, but the ridges between them have not, and the gap is exactly where people get into difficulty. Offline maps, always. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Albanian_Alps_from_Air.jpg">Albinfo</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/hiking/valbona-peaks.jpg" alt="A jagged grey limestone ridge in the Valbona valley, with snow-flecked peaks behind it and the pale river bed far below.">
+  <figcaption>The ridges above Valbona. Villages down on the valley floor have had mobile coverage for years now, but the ground in between has not, and that gap is exactly where people get into difficulty. Offline maps, always. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:2024-10-14_Valbona_Valley_4.jpg">Alexkom000</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## Practical Details People Get Wrong

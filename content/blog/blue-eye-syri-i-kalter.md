@@ -16,8 +16,8 @@ You cannot swim in it any more. Not "officially discouraged", not "at your own r
 Which raises the fair question of whether it is still worth the trip. I think it is, but for different reasons than the internet suggests, and only if you go at the right hour.
 
 <figure>
-  <img src="/images/blue-eye/syri-i-kalter.jpg" alt="A deep circular pool of vivid blue water surrounded by green trees and pale rock, with a paler ring at the centre.">
-  <figcaption>Syri i Kaltër, the Blue Eye. The dark centre is the vent itself, a karst spring whose depth has never been established past about fifty metres, and the ring of paler blue around it is where the water spreads out and slows down. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Syri_i_kalter_(The_Blue_Eye),_Albania,_September_2022_04.jpg">Calistemon</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/blue-eye/syri-i-kalter.jpg" alt="A pool of vivid blue-green water ringed by dense green trees and overhanging branches, with pale rock beneath the surface.">
+  <figcaption>Syri i Kaltër, the Blue Eye. The dark centre is the vent itself, a karst spring whose depth has never been established past about fifty metres, and the ring of paler blue around it is where the water spreads out and slows down. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Albania_Blue_Eye.jpg">Holger Adams</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## What It Actually Is
@@ -58,8 +58,8 @@ Fifty lekë is about fifty cents. This is one of the cheapest paid attractions i
 **The issue is cash.** There is no ATM at the site and no card machine at the gate. Arriving with only a card means turning around. Bring small notes.
 
 <figure>
-  <img src="/images/blue-eye/syri-i-kalter-spring.jpg" alt="Clear turquoise water flowing over pale rocks and submerged branches below overhanging green trees.">
-  <figcaption>Downstream of the vent, where the spring becomes the Bistricë. This is the part most people walk straight past on the way to the famous circle, and on a busy day it is the better place to stand. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Syri_i_kalter_(The_Blue_Eye),_Albania,_September_2022_09.jpg">Calistemon</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/blue-eye/syri-i-kalter-spring.jpg" alt="Clear turquoise water shading to deep blue over a bed of pale pebbles, with green branches hanging over the far bank.">
+  <figcaption>Downstream of the vent, where the spring becomes the Bistricë. This is the part most people walk straight past on the way to the famous circle, and on a busy day it is the better place to stand. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:The_Most_Blue_Eye.jpg">LMPhotos1</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## Best Time to Visit

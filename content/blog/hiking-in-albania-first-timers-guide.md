@@ -14,8 +14,8 @@ Albania is one of the best hiking countries in Europe that almost nobody outside
 This guide is written for someone who has never hiked in Albania and is trying to figure out whether it is the right trip, when to come, and what to actually expect on the trail.
 
 <figure>
-  <img src="/images/hiking/accursed-mountains.jpg" alt="The Accursed Mountains in northern Albania seen from a pass in Valbona Valley, jagged limestone peaks under a clear sky.">
-  <figcaption>The Accursed Mountains, seen from a pass above Valbona Valley near the Montenegrin border. Albanians call this range Bjeshkët e Nemuna, literally "the cursed peaks", a name older than the country's borders. Most visitors meet them for the first time here, on the final climb out of Valbona, looking south toward Theth. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:The_Accursed_Mountains_03.jpg">Leonitaagashi</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/hiking/accursed-mountains.jpg" alt="A deep valley in the Accursed Mountains framed by pines and grey rock, with ridge after ridge receding into the haze.">
+  <figcaption>The Accursed Mountains, seen from a pass above Valbona Valley near the Montenegrin border. Albanians call this range Bjeshkët e Nemuna, literally "the cursed peaks", a name older than the country's borders. Most visitors meet them for the first time here, on the final climb out of Valbona, looking south toward Theth. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:2024-10-14_Theth_National_Park_24.jpg">Alexkom000</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## The Three Ranges You Actually Need to Know
@@ -78,8 +78,8 @@ If you are designing a first hiking trip, here is the honest answer.
 **Ten days:** Add Mount Korab as a day trip from Radomirë village with a local guide, or drive south and hike a few days in Llogara and the Karaburun peninsula for the coast-meets-mountain contrast.
 
 <figure>
-  <img src="/images/hiking/theth-church.jpg" alt="The stone-built Church of Theth in the valley, surrounded by meadows and limestone peaks.">
-  <figcaption>Kisha e Thethit, the 19th-century Catholic church in the middle of Theth valley. It was converted into a warehouse during communism, then restored by villagers after 1991 using the original stones. For most hikers walking down from the Valbona pass, this is the first sign that the long descent is nearly done, and the unofficial finish line of the day. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Kisha_e_Thethit_-_2018_(8).jpg">Liridon</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/hiking/theth-church.jpg" alt="The stone Church of Theth with its shingled spire standing in a meadow below steep green slopes and limestone peaks.">
+  <figcaption>Kisha e Thethit, the 19th-century Catholic church in the middle of Theth valley. It was converted into a warehouse during communism, then restored by villagers after 1991 using the original stones. For most hikers walking down from the Valbona pass, this is the first sign that the long descent is nearly done, and the unofficial finish line of the day. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Church_in_Theth_(June_2024).jpg">Tom.whitehead337</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## Solo Versus Guided

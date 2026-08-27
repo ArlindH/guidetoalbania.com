@@ -16,8 +16,8 @@ The short version, and then the long one: solo women travel here in large number
 The longer version is that "safe" and "comfortable" are not the same word, and Albania will hand you a fair amount of the second problem while almost never producing the first. That distinction is what this article is actually about.
 
 <figure>
-  <img src="/images/tirana/artificial-lake-park.jpg" alt="A tree-lined path beside a lake in a city park, with people walking in the late afternoon light.">
-  <figcaption>The Grand Park in Tirana at the end of the day. Albanian public space is busy well into the evening, and a woman walking alone in it is completely unremarkable in the capital. In a village of four hundred people it is noticed, which is a different thing from being unsafe. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Tirana_artificial_lake_park.jpg">Leeturtle</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/tirana/artificial-lake-park.jpg" alt="The artificial lake in Tirana's Grand Park, still enough to mirror the apartment towers along its far shore.">
+  <figcaption>The lake in Tirana's Grand Park, with the new towers of the city standing in the water. Albanian public space is busy well into the evening, and a woman walking alone in it is completely unremarkable in the capital. In a village of four hundred people it is noticed, which is a different thing from being unsafe. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Liqeni_Artificial_Tiran%C3%AB_-_%C2%A9_Shk%C3%ABlzen_Rexha.jpg">Shkelzen A. Rexha</a>, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## What You Will Actually Encounter
@@ -63,8 +63,8 @@ Not men in alleys. The alleys are fine.
 **Which is why insurance is the practical version of caring about this.** Not because Albania is dangerous, but because private care is billed on the spot, the public system is thin outside Tirana, and standard policies frequently exclude both driving and hiking, which are the two things most likely to put you in a clinic here. <a class="affil" href="https://tp.media/r?campaign_id=225&marker=770798&p=5869&trs=567396&u=https%3A%2F%2Fektatraveling.com%2F&sub_id=solo-female-travel-albania" target="_blank" rel="sponsored nofollow noopener">A policy that names them explicitly</a> costs a few euro a day and is the single most useful thing on any solo packing list.
 
 <figure>
-  <img src="/images/coast/himara.jpg" alt="A small coastal town on a green hillside above a curving bay, mountains rising steeply behind.">
-  <figcaption>Himarë, which is where I send solo women who want the Riviera without the Sarandë version of it. A working town with a permanent population behaves differently towards a visitor than a place that empties in October. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Himara_2021.jpg">Albinfo</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/coast/himara.jpg" alt="Himarë spread along a wide curving bay seen from the headland to the south, with steep mountains rising behind the town.">
+  <figcaption>Himarë from the headland to the south, which is where I send solo women who want the Riviera without the Sarandë version of it. A working town with a permanent population behaves differently towards a visitor than a place that empties in October. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Blick_auf_Himar%C3%AB_von_S%C3%BCden.jpg">Ekki3</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## Eating Alone, and the Cafe Question

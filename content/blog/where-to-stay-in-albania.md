@@ -16,8 +16,8 @@ Sarandë and Himarë are both on the Riviera. They are not remotely the same tri
 So this is not a hotel list. It is a guide to picking the right base, region by region, with the honest trade-offs of each.
 
 <figure>
-  <img src="/images/coast/himara.jpg" alt="A small coastal town on a hillside above a bay, with mountains rising steeply behind and clear blue sea in front.">
-  <figcaption>Himarë, sitting roughly at the midpoint of the Riviera. It is a functioning small Albanian town rather than a resort, which is precisely why it works as a base and why it does not photograph like Ksamil. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Himara_2021.jpg">Albinfo</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/coast/himara.jpg" alt="Himarë spread along a wide bay below steep mountains, with clear blue sea in the foreground.">
+  <figcaption>Himarë, sitting roughly at the midpoint of the Riviera. It is a functioning small Albanian town rather than a resort, which is precisely why it works as a base and why it does not photograph like Ksamil. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Blick_auf_Himar%C3%AB_von_S%C3%BCden.jpg">Ekki3</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## The Four Kinds of Albanian Accommodation
@@ -106,8 +106,8 @@ Theth and Valbona are guesthouse country and the model is the same in both: a fa
 **Theth or Valbona?** Theth has more to do without walking: the Blue Eye, the waterfall, the lock-in tower. Valbona is greener, gentler, and better if you want one big day. Most people do both, connected by [the pass hike](/blog/valbona-to-theth-hike/), which is the right answer.
 
 <figure>
-  <img src="/images/burrnesha/theth-village.jpg" alt="Stone and timber houses scattered across a green valley floor beneath high grey peaks.">
-  <figcaption>Theth, where almost every building you can see either is a bujtina or has a relative who runs one. Twenty years ago the road here was impassable for much of the year; the valley's entire tourism economy has been built since. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Fshati_Theth_(1).jpg">Bunker92</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/burrnesha/theth-village.jpg" alt="Houses scattered the length of a green valley floor in Theth, beneath high grey peaks.">
+  <figcaption>Theth, where almost every building you can see either is a bujtina or has a relative who runs one. Twenty years ago the road here was impassable for much of the year; the valley's entire tourism economy has been built since. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:2024-10-15_Theth.jpg">Alexkom000</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## The Ottoman Towns
