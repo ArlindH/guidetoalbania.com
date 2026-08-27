@@ -38,4 +38,4 @@ This is not a travel agency or a review site. It is one person's perspective, bu
 
 I hope this guide becomes a useful companion, whether you are planning your first trip or your fifth. Albania rewards curiosity, and there is always more to discover.
 
-Miresevini. Welcome.
+Mirësevini. Welcome.
