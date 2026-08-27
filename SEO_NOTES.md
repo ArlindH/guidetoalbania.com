@@ -93,9 +93,15 @@ high-volume-and-crowded on a domain this young.
    chasing head terms the domain cannot rank for yet.
 3. **Intent-match existing rankings.** Look for queries where position is
    already under 15 but no page actually answers the question.
-4. Safety piece (`is albania safe`), framed on the real risk being road
-   traffic rather than crime. Albania's homicide rate is 1.1/100k, below
-   France, while road fatalities run 3 to 4x the EU average.
+4. ~~Safety piece (`is albania safe`)~~ Published 2026-08-27 as
+   `is-albania-safe`, framed on the real risk being road traffic rather
+   than crime: homicide 1.4/100k (UNODC 2023) against a road death rate
+   of 10.8/100k, so roughly eight times more likely to die on the road
+   than be murdered. Note this one had almost no impressions to target,
+   unlike priority 3. It is a bet on demand Google cannot currently see
+   because no page existed. Worth checking in 90 days whether that bet
+   paid, since it is the counter-example to the position-based triage
+   rule above.
 
 ## Process notes
 
