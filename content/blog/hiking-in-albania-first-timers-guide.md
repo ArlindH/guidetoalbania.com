@@ -6,6 +6,7 @@ description: "Albania has some of the wildest mountains and least crowded trails
 categories: ["destinations"]
 tags: ["hiking", "albanian-alps", "theth", "valbona", "peaks-of-the-balkans", "outdoor-adventure", "trails"]
 draft: false
+affiliate: true
 ---
 
 Albania is one of the best hiking countries in Europe that almost nobody outside the Balkans has figured out yet. The mountains are genuinely wild, the trails are uncrowded even in August, and a week of hiking here still costs less than a weekend in the Dolomites. If you have done your alpine hiking in Austria, Switzerland, or northern Italy, you are going to find Albania rougher, quieter, and in places more beautiful than anything you have walked through before.
@@ -60,9 +61,9 @@ If your baseline is Switzerland or the Italian Dolomites, reset some expectation
 
 **Infrastructure is minimal in the mountains.** No gondolas taking you halfway up. No mountain huts with espresso machines. You stay in bujtina (family-run guesthouses), you eat what the family is cooking, and you leave with your water bottles refilled from the tap. The simplicity is part of the appeal, but come prepared for it.
 
-**Phone signal is patchy.** Vodafone covers the Theth valley reasonably well, Valbona less so, and most ridges not at all. This is not Austria. Tell someone your route.
+**Phone signal is patchy.** Vodafone covers the Theth valley reasonably well, Valbona less so, and most ridges not at all. This is not Austria. Tell someone your route. If your phone takes an eSIM, an Albanian data plan from <a href="https://tp.media/r?campaign_id=541&marker=770798&p=8310&trs=567396&u=https%3A%2F%2Fwww.airalo.com%2Falbania-esim&sub_id=hiking-first-timers" target="_blank" rel="sponsored nofollow noopener">Airalo</a> takes five minutes to set up before you fly, though no plan on earth reaches the ridges.
 
-**Roads into trailheads are rough.** The road from Shkodër to Theth is paved now, finally, but the road to Valbona still has sections that will make you question your rental car choice. Budget an extra hour. Use a 4x4 if you are going deeper than the main valleys.
+**Roads into trailheads are rough.** The road from Shkodër to Theth is paved now, finally, but the road to Valbona still has sections that will make you question your rental car choice. Budget an extra hour. Use a 4x4 if you are going deeper than the main valleys. If you are renting, the local agencies on <a href="https://tp.media/r?campaign_id=87&marker=770798&p=2043&trs=567396&u=https%3A%2F%2Fwww.localrent.com%2Fen%2Falbania%2F&sub_id=hiking-first-timers" target="_blank" rel="sponsored nofollow noopener">Localrent</a> stock proper 4x4s, not just city hatchbacks.
 
 **Trails are quieter than you expect.** On the Valbona-to-Theth day hike in high season you will pass maybe thirty other walkers over six hours. On almost any other trail in the country you will see no one.
 
@@ -125,7 +126,7 @@ Albania is a safe country to hike in. The real hazards are not people.
 
 **Water sources are inconsistent.** Some trails have reliable springs every hour or two. Others have none. Carry more than you think, and ask the guesthouse before setting off.
 
-**Rescue is limited.** There is no equivalent of the Austrian Bergrettung. In a genuine emergency you call 112 and the response depends heavily on where you are. Travel insurance with mountain rescue cover is sensible for multi-day routes and for Korab.
+**Rescue is limited.** There is no equivalent of the Austrian Bergrettung. In a genuine emergency you call 112 and the response depends heavily on where you are. Travel insurance with mountain rescue cover is sensible for multi-day routes and for Korab. A travel insurer like <a href="https://tp.media/r?campaign_id=225&marker=770798&p=5869&trs=567396&u=https%3A%2F%2Fektatraveling.com%2F&sub_id=hiking-first-timers" target="_blank" rel="sponsored nofollow noopener">EKTA</a> covers Albania and sells online in minutes; whichever you choose, confirm hiking is actually included.
 
 ## A Word on the South
 

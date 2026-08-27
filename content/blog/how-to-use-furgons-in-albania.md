@@ -6,6 +6,7 @@ description: "Furgons are Albania's informal minibus network with no schedules o
 categories: ["travel-tips"]
 tags: ["furgon", "public-transport", "budget-travel", "getting-around"]
 draft: false
+affiliate: true
 ---
 
 The first time I took a furgon, I stood at the wrong corner in Tirana for forty minutes, asked three people where the "bus station" was, and got three different answers. That was ten years ago. I have since taken hundreds of furgons across all twelve counties of Albania, and I can tell you this: once you understand the system, it is the cheapest, most authentic, and sometimes the only way to get around this country.
@@ -77,7 +78,7 @@ I love furgons. I also know when they are the wrong choice.
 
 **Groups of three or more.** Once you have three or four people, splitting a rental car or a private transfer often costs the same as furgon tickets combined, with far more flexibility.
 
-**Tight schedules.** If you have a flight to catch or a ferry to make, do not rely on a furgon. The "departs when full" system means unpredictable timing. Book a private transfer or leave a day early.
+**Tight schedules.** If you have a flight to catch or a ferry to make, do not rely on a furgon. The "departs when full" system means unpredictable timing. Book a private transfer or leave a day early. For airport runs specifically, <a href="https://tp.media/r?campaign_id=1&marker=770798&p=647&trs=567396&u=https%3A%2F%2Fkiwitaxi.com%2Fen%2Falbania&sub_id=how-to-use-furgons" target="_blank" rel="sponsored nofollow noopener">Kiwitaxi</a> lets you book a fixed-price car in advance, which is exactly the certainty a furgon cannot give you.
 
 ## Furgon vs. Bus vs. Rental Car
 
@@ -87,7 +88,7 @@ Albania has three main ways to get around, and each has its place.
 
 **Intercity buses** run on a few major routes (Tirana to Sarandë, Tirana to Gjirokastër) with fixed schedules and larger, more comfortable vehicles. They cost a little more than furgons but have set departure times. Check at the Terminali Lindor (Eastern Terminal) or Terminali Jugor (Southern Terminal) in Tirana.
 
-**Rental cars** are the best option if you want to explore the coast, visit remote areas, or travel on your own schedule. Expect to pay 25-40 EUR per day. Albanian driving is aggressive, roads outside main highways can be rough, and parking in cities like Berat and Gjirokastër is limited. But the freedom is unmatched.
+**Rental cars** are the best option if you want to explore the coast, visit remote areas, or travel on your own schedule. Expect to pay 25-40 EUR per day, with the local agencies listed on <a href="https://tp.media/r?campaign_id=87&marker=770798&p=2043&trs=567396&u=https%3A%2F%2Fwww.localrent.com%2Fen%2Falbania%2F&sub_id=how-to-use-furgons" target="_blank" rel="sponsored nofollow noopener">Localrent</a> at the cheaper end of that range. Albanian driving is aggressive, roads outside main highways can be rough, and parking in cities like Berat and Gjirokastër is limited. But the freedom is unmatched.
 
 My recommendation: use furgons for moving between major cities, and rent a car for the Riviera and the mountains.
 

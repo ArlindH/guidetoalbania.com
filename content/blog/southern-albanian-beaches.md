@@ -7,6 +7,7 @@ description: "From the wild cliffs of Palasa to the crowded sands of Saranda, a 
 categories: ["destinations"]
 tags: ["beaches", "southern-coast", "riviera", "dhermi", "himara", "saranda", "palasa"]
 draft: false
+affiliate: true
 ---
 
 I have driven the SH8 coastal road from Llogara Pass down to Ksamil more times than I can count, and every single time, the moment the Ionian Sea appears below the mountains, I pull over and just look. The water is so absurdly blue that first-time visitors think the photos are edited. They are not. That is just what the Albanian Riviera looks like.
@@ -85,7 +86,7 @@ I have written a full guide to Ksamil and its islands, so I will keep this brief
 
 The southern coast runs along the SH8 highway from Llogara Pass down to Saranda. If you are coming from Tirana, the drive takes about four to five hours to Himara, longer if you stop along the way (and you will stop). The road over Llogara is winding and narrow in places, spectacular but not fast.
 
-Renting a car gives you the most freedom. Public buses run from Tirana to Saranda with stops in Himara, but they are infrequent and will not get you to beaches like Palasa or Gjipe. I have written a separate guide on [getting around the Albanian coastline](/blog/how-to-explore-albanian-coastline-transport-means-to-get-around-transport-in-albania/) with more detail on buses, ferries, and driving tips.
+Renting a car gives you the most freedom, and the local agencies on <a href="https://tp.media/r?campaign_id=87&marker=770798&p=2043&trs=567396&u=https%3A%2F%2Fwww.localrent.com%2Fen%2Falbania%2F&sub_id=southern-beaches" target="_blank" rel="sponsored nofollow noopener">Localrent</a> will usually deliver the car to you in Saranda or Vlora. Public buses run from Tirana to Saranda with stops in Himara, but they are infrequent and will not get you to beaches like Palasa or Gjipe. I have written a separate guide on [getting around the Albanian coastline](/blog/how-to-explore-albanian-coastline-transport-means-to-get-around-transport-in-albania/) with more detail on buses, ferries, and driving tips.
 
 ## Practical Tips
 

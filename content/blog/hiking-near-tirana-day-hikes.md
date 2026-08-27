@@ -6,6 +6,7 @@ description: "Six hikes within an hour of Tirana, from the Dajti ridge to the Bl
 categories: ["destinations"]
 tags: ["tirana", "hiking", "outdoor-adventure", "trails", "day-trips", "dajti"]
 draft: false
+affiliate: true
 ---
 
 Tirana sits in a bowl. Stand anywhere on the boulevard, look east past the ministries, and there is a grey-green wall of mountain closing off the sky. Most visitors spend three days in this city, photograph the painted buildings, drink a great deal of coffee, and never once walk up into it.
@@ -25,7 +26,7 @@ A word on distance before you start planning. Albanian road distances are a poor
 
 The other thing worth understanding early: only two of these six are properly reachable by public transport. Tirana's municipal buses are cheap and frequent, but they stop where the city stops. Beyond that you are into furgon (minibus) territory, and furgons serve villages, not trailheads.
 
-If you have a car, all six are easy. If you do not, read the transport notes carefully and consider that a shared tour to Bovilla, at roughly 20 euros, sometimes costs less than the taxi.
+If you have a car, all six are easy. If you do not, renting one for a day or two solves most of this list. The local agencies on <a href="https://tp.media/r?campaign_id=87&marker=770798&p=2043&trs=567396&u=https%3A%2F%2Fwww.localrent.com%2Fen%2Falbania%2F&sub_id=hiking-near-tirana-day-hikes" target="_blank" rel="sponsored nofollow noopener">Localrent</a> start at around 25 euros a day for a small car and will usually bring it to your accommodation. Otherwise read the transport notes carefully and consider that a shared tour to Bovilla, at roughly 20 euros, sometimes costs less than the taxi.
 
 ## 1. Mount Dajti: The Ridge Above the City
 
