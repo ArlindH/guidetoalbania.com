@@ -22,6 +22,8 @@ Expect to pay between 25 and 40 EUR per day for a basic car from agencies in Tir
 
 The Llogara Pass (Qafa e Llogarasë) is the highlight and the challenge. You climb from sea level to over 1,000 meters in tight switchbacks through a national park thick with fir trees, then descend toward beaches so blue they look edited. It is genuinely one of Europe's great drives. Take it slowly, especially if there is fog, and pull over at the viewpoints rather than trying to gawk and steer at the same time.
 
+Since 2024 you also have a choice at the top of the map: the Llogara tunnel bores under the pass in seven minutes and, since spring 2026, costs 250 lekë for a car each way. Take the tunnel when you are in a hurry or the clouds sit low. Drive the old pass road at least once anyway; it is still free, and it is the reason people fall in love with this coast.
+
 Road conditions have improved enormously in recent years. The main SH8 coastal road is paved and mostly in good shape. Side roads to specific beaches (the turn down to Gjipe, for instance) can be unpaved and steep. In summer, parking in places like Ksamil and Dhermi becomes a real headache. Arrive before 10 AM or be prepared to walk.
 
 One important tip: check your rental insurance carefully. Many agencies offer basic coverage that excludes gravel roads. If you plan to explore beyond the main highway, pay the extra few euros per day for full coverage. Also confirm whether the car can cross into Greece if you are considering a Saranda-to-Corfu side trip.
@@ -46,9 +48,9 @@ I have written a full guide on how the furgon system works, including how to fin
 
 Actual scheduled buses (autobus) do exist on the coast, though the network is thinner than in northern Europe.
 
-The most reliable routes are Tirana to Vlora (multiple departures daily, around 4 hours, roughly 1,000 lekë), Vlora to Himara, and Himara to Saranda. These run on something closer to a fixed schedule than furgons, departing from actual bus stations. In summer, there are usually a few departures per day on each route.
+The most reliable routes are Tirana to Vlora (departures every half hour through the morning, around two and a half hours on the motorway, roughly 700 lekë), Vlora to Himara, and Himara to Saranda. These run on something closer to a fixed schedule than furgons, departing from actual bus stations. Note that Vlora's terminal moved in early 2026 to the northern entrance of the city, near the Kastrati fuel station, so do not trust older maps on this. In summer, there are usually a few departures per day on each coastal route.
 
-The buses are basic but functional. Air conditioning works sometimes. The views from the window, especially the descent from Llogara, are spectacular even from a bus seat. Just do not expect the driver to stop for photos.
+The buses are basic but functional. Air conditioning works sometimes. The views from the window are spectacular even from a bus seat, though many services now duck through the Llogara tunnel rather than climbing over the pass, so ask if the view matters to you. Just do not expect the driver to stop for photos.
 
 **Pros:** Cheapest option. More predictable than furgons. Comfortable enough for the distance.
 
@@ -60,7 +62,7 @@ In summer, small boat services open up along the coast, and this is one of my fa
 
 Water taxis operate between major beach areas, particularly Himara to Dhermi and along the Ksamil shoreline. Prices vary and are almost always negotiable, but expect to pay around 1,000 to 2,000 lekë per person for a short hop. From Ksamil, small boats shuttle visitors to the islands just offshore for 500 to 1,000 lekë round trip. These are informal operations. You will find them at the beach, not online.
 
-The Saranda to Corfu ferry is a different category entirely: a proper commercial service running multiple times daily in summer (less frequently off-season). Tickets run around 19 to 25 EUR one way, and the crossing takes about 30 minutes. Book a day ahead in August. It is also the back door to the whole coast: Corfu's airport has direct <a class="affil" href="https://tp.media/r?campaign_id=100&marker=770798&p=4114&trs=567396&u=https%3A%2F%2Faviasales.com&sub_id=coastline-transport" target="_blank" rel="sponsored nofollow noopener">flights</a> from most of Europe, often cheaper than flying to Tirana, and the boat lands you in Saranda half an hour after leaving Greece instead of five hours of driving from the capital.
+The Saranda to Corfu ferry is a different category entirely: a proper commercial service running many times daily in summer (less frequently off-season). Tickets run around 25 to 30 EUR one way; the fast boats cross in about half an hour, while the conventional ferry takes a little over an hour. Book a day ahead in August. It is also the back door to the whole coast: Corfu's airport has direct <a class="affil" href="https://tp.media/r?campaign_id=100&marker=770798&p=4114&trs=567396&u=https%3A%2F%2Faviasales.com&sub_id=coastline-transport" target="_blank" rel="sponsored nofollow noopener">flights</a> from most of Europe, often cheaper than flying to Tirana, and the boat lands you in Saranda half an hour after leaving Greece instead of five hours of driving from the capital.
 
 **Pros:** Stunning perspectives of the coastline. Access to beaches with no road. The Corfu ferry is fast and easy.
 
