@@ -43,7 +43,7 @@ Walk east away from the restaurant terraces and within ten minutes the crowds th
 
 **The honest version:** the summit is not dramatic. It is a rounded grassy top with a trig point and some litter. What is dramatic is the walk along the ridge to reach it, with Tirana falling away on one side and the empty interior mountains on the other.
 
-**Getting there:** take the municipal bus marked Porcelan from near the Clock Tower in the centre, around 40 lekë, then walk about ten minutes uphill to the lower cable car station. The cable car costs somewhere around 1,500 lekë return, roughly 15 euros, with a cheaper one way option if you intend to walk down. Prices have crept up steadily, so treat that as a guide and not a promise.
+**Getting there:** take the municipal bus marked Porcelan from near the Clock Tower in the centre, around 40 lekë, then walk about ten minutes uphill to the lower cable car station. The cable car costs somewhere around 1,500 lekë return, roughly 15 euros, with a cheaper one way option if you intend to walk down, and it rests on Tuesdays. Prices have crept up steadily, so treat that as a guide and not a promise.
 
 **Time:** three to four hours of walking from the top station, plus transport. A comfortable half day.
 
@@ -92,7 +92,7 @@ The better half of the day is below. Drop down from the village into the Erzen c
 
 Not really a hike. Include it anyway, because it pairs perfectly with Pëllumbas and because it is the right answer when you have half a day and no ambition.
 
-Petrela sits on a rock spur about 15 kilometres south of Tirana, an Illyrian and later Ottoman fortress with a commanding view down the Erzen valley. The walk up from the village car park takes fifteen minutes. There is a restaurant inside the walls with a terrace that has one of the better views near the city.
+Petrela sits on a rock spur about 15 kilometres south of Tirana, a fortress with foundations going back to the sixth century and a commanding view down the Erzen valley. The walk up from the village car park takes fifteen minutes. There is a restaurant inside the walls with a terrace that has one of the better views near the city.
 
 <figure>
   <img src="/images/tirana-hikes/petrela-castle.jpg" alt="A stone fortress with a round tower perched on a steep rocky hilltop above a green valley.">
@@ -109,7 +109,7 @@ This is karst country at its strangest. The ground is pocked with depressions, s
 
 There is no single defined route, which is both the appeal and the problem. Bring a map. OsmAnd or Wikiloc both have usable tracks downloaded in advance, and you should download them in advance, because the signal up there is unreliable.
 
-Nearby, in the village of Shëngjergj, there is a small waterfall and Liqeni i Lepurit, the Rabbit's Lake, ringed with pine. It makes a good second stop.
+Nearby, the village of Shëngjergj has a small waterfall a short walk from the road. It makes a good second stop.
 
 **Getting there:** car, realistically. The road over Qafë Mollë is paved but narrow and slow.
 
@@ -147,7 +147,7 @@ It is flat, it is easy, and after four days of driving mountain roads it is exac
 
 **Bring cash in lekë.** The cable car takes cards. Village cafés, furgon drivers, and the restaurant at Petrela largely do not.
 
-**Sundays are busy, weekdays are empty.** Dajti in particular transforms. If you want the ridge to yourself, go on a Tuesday.
+**Sundays are busy, weekdays are empty.** Dajti in particular transforms. If you want the ridge to yourself, go midweek, though not on a Tuesday, when the cable car takes its day off.
 
 ## One Last Thing
 
