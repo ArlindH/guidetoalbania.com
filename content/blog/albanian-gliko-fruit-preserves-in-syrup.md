@@ -32,7 +32,7 @@ Rush it and the fruit collapses into mush. Overcook the syrup and it crystallize
 
 Walk into any home in southern Albania and you might be offered one of a dozen different kinds of gliko. Each has its own season, its own preparation, its own personality.
 
-**Gliko arrë (walnut)** is the most famous, and arguably the most labor-intensive. The walnuts must be picked green and unripe, while the shell is still soft enough to pierce with a needle. They are soaked in cold water mixed with lime for about an hour and twenty minutes to firm them up, then boiled slowly in a copper pot (tenxhere bakri) over an open flame with sugar and lemon juice.
+**Gliko arrë (walnut)** is the most famous, and arguably the most labor-intensive. The walnuts must be picked green and unripe, while the shell is still soft enough to pierce with a needle. They are soaked first, traditionally in limewater, to firm them up, then boiled slowly in a copper pot (tenxhere bakri) over an open flame with sugar and lemon juice.
 
 Some families add almond extract, geranium flowers, or lemongrass. The result is a dark, complex preserve that tastes nothing like a regular walnut. It is sweet, slightly bitter, and perfumed.
 
@@ -44,7 +44,7 @@ The result is translucent cubes that taste purely of sugar and perfume, with a t
 
 **Gliko fiku i egër (wild fig)** is a specialty of the Përmet countryside, made from small figs gathered from uncultivated trees in late spring. The figs hold their shape beautifully and have a deeper, earthier sweetness than cultivated varieties. The Slow Food Foundation has included this variety in its Ark of Taste, recognizing it as a food heritage worth protecting.
 
-You will also find gliko made from quince (ftua), eggplant (patëllxhan), plum (kumbull), apricot (kajsi), rose petals (trëndafil), and bitter orange (portokall). Every family has a variety they are known for. Asking someone which gliko is best is like asking which of their children they love most.
+You will also find gliko made from quince (ftua), eggplant (patëllxhan), plum (kumbull), apricot (kajsi), rose petals (trëndafil), and bitter orange (nerënxë). Every family has a variety they are known for. Asking someone which gliko is best is like asking which of their children they love most.
 
 ## How It Is Served (And Why It Matters)
 
@@ -58,7 +58,7 @@ This sequence, gliko then water then coffee, is not a suggestion. It is how it i
 
 The tradition has roots in practical necessity. Before refrigeration, before supermarkets, before packaged sweets, gliko was the way families preserved summer fruit to have something sweet for guests through the long winter months. A jar of gliko in the pantry meant you were never caught unprepared when someone knocked on the door. In a culture where hospitality is as close to sacred as anything gets, being unprepared is not an option.
 
-Today, even in Tirana apartments with well-stocked kitchens, the ritual persists. My cousin in Blloku keeps three varieties of gliko in her cupboard year-round, all made by her mother in Përmet and shipped north in cardboard boxes. When I visit, the gliko appears before I have even taken off my shoes.
+Today, even in Tirana apartments with well-stocked kitchens, the ritual persists. My cousin in Blloku keeps three varieties of gliko in her cupboard year-round, shipped north in cardboard boxes from Donika's family in Përmet. When I visit, the gliko appears before I have even taken off my shoes.
 
 ## Përmet: Where Gliko Is a Way of Life
 
@@ -70,7 +70,7 @@ Making gliko is not a hobby in Përmet. It is seasonal labor, passed from mother
 
 The women of Përmet are famous for this. It is traditionally women's work, and the skill is taken seriously. A woman who makes exceptional gliko carries real social standing in the community.
 
-Eftali Qerimi and Odeta Nasi run the Almeg manufactory in the Mejden neighborhood, where more than twenty local women produce artisan gliko for commercial sale. Their walnut gliko has earned recognition from the Slow Food Foundation, which designated Përmet Gliko as a Slow Food Presidium, a protected heritage product worthy of international attention.
+Eftali Qerimi and Odeta Nasi run the Almeg manufactory in town, where more than twenty local women produce artisan gliko for commercial sale. Their walnut gliko has earned recognition from the Slow Food Foundation, which designated Përmet Gliko as a Slow Food Presidium, a protected heritage product worthy of international attention.
 
 You can taste and buy gliko in several places around Përmet. Local shops in the town center sell homemade varieties alongside honey, raki, and mountain herbs, and the Almeg shop itself is worth a visit. The restaurants Antigonea, Familjari, and Trifilia all serve gliko as a dessert course. But the best gliko you will taste is at someone's kitchen table, and in Përmet, an invitation is never far away.
 

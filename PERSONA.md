@@ -31,7 +31,10 @@ not listed here, add it here first, then use it.
 
 **Extended**
 - Great-aunt Donika, Përmet (maternal grandmother's sister). Taught Elena
-  to make gliko when she was 11.
+  to make gliko when she was 11. Passed away several years before 2026
+  (established in the gliko article). Her daughter-in-law keeps the
+  gliko tradition going in the same Përmet house and ships jars to the
+  Blloku cousin.
 - Aunt in Shkodër (reads Turkish coffee fortunes).
 - Aunt in Korçë (father's sister; makes sarma; hosted Elena's first xhiro
   in Korçë).
