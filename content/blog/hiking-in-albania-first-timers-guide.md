@@ -63,7 +63,7 @@ If your baseline is Switzerland or the Italian Dolomites, reset some expectation
 
 **Phone signal is patchy.** Vodafone covers the Theth valley reasonably well, Valbona less so, and most ridges not at all. This is not Austria. Tell someone your route. If your phone takes an eSIM, an Albanian data plan from <a class="affil" href="https://tp.media/r?campaign_id=541&marker=770798&p=8310&trs=567396&u=https%3A%2F%2Fwww.airalo.com%2Falbania-esim&sub_id=hiking-first-timers" target="_blank" rel="sponsored nofollow noopener">Airalo</a> takes five minutes to set up before you fly, though no plan on earth reaches the ridges.
 
-**Roads into trailheads are rough.** The road from Shkodër to Theth is paved now, finally, but the road to Valbona still has sections that will make you question your rental car choice. Budget an extra hour. Use a 4x4 if you are going deeper than the main valleys. If you are renting, the local agencies on <a class="affil" href="https://tp.media/r?campaign_id=87&marker=770798&p=2043&trs=567396&u=https%3A%2F%2Fwww.localrent.com%2Fen%2Falbania%2F&sub_id=hiking-first-timers" target="_blank" rel="sponsored nofollow noopener">Localrent</a> stock proper 4x4s, not just city hatchbacks.
+**Roads into trailheads are rough.** The road from Shkodër to Theth is paved now, finally, and so is the road up the Valbona valley as far as the village. The last stretch to the Rragam trailhead, though, runs on gravel through a dry riverbed and will make you question your rental car choice. Budget an extra hour. Use a 4x4 if you are going deeper than the main valleys. If you are renting, the local agencies on <a class="affil" href="https://tp.media/r?campaign_id=87&marker=770798&p=2043&trs=567396&u=https%3A%2F%2Fwww.localrent.com%2Fen%2Falbania%2F&sub_id=hiking-first-timers" target="_blank" rel="sponsored nofollow noopener">Localrent</a> stock proper 4x4s, not just city hatchbacks.
 
 **Trails are quieter than you expect.** On the Valbona-to-Theth day hike in high season you will pass maybe thirty other walkers over six hours. On almost any other trail in the country you will see no one.
 
@@ -107,7 +107,7 @@ Most hiking in Albania needs no permit. Exceptions:
 
 Nothing exotic. A normal three-season hiking kit covers most of what you need.
 
-Non-obvious items worth packing: a dog deterrent (a walking pole held firmly is usually enough; a pocket-sized air horn is overkill but reassuring the first time you meet a sheep-guarding kuçedër), a head torch with spare batteries, and more water capacity than you think you need for south-facing ridge walks in summer.
+Non-obvious items worth packing: a dog deterrent (a walking pole held firmly is usually enough; a pocket-sized air horn is overkill but reassuring the first time a sheep-guarding dog the size of a small bear announces you), a head torch with spare batteries, and more water capacity than you think you need for south-facing ridge walks in summer.
 
 For maps, install **OsmAnd** (OpenStreetMap) with the Albania region downloaded offline, and browse **Wikiloc** for GPX tracks of specific routes. Both work without signal.
 
