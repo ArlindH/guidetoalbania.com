@@ -36,13 +36,13 @@ Inside the castle, the Onufri Museum is housed in the Church of the Dormition of
 
 ### Visiting Berat
 
-Berat is about two hours by car from Tirana, or you can take a bus from the South Terminal (Terminali i Jugut) for around 400 lekë. The bus drops you in the new part of town, from which the old quarters are a fifteen-minute walk across the river. There is no entry fee for the town itself. The Onufri Museum charges 200 lekë. Give yourself at least half a day, and wear shoes with grip. The polished cobblestones become treacherous when wet. If you stay overnight, the evening light on Mangalem is worth every extra hour.
+Berat is about two hours by car from Tirana, or you can take a bus from the South Terminal (Terminali i Jugut) for around 400 lekë. The bus drops you in the new part of town, from which the old quarters are a fifteen-minute walk across the river. There is no entry fee for the town itself. The Onufri Museum charges 400 lekë. Give yourself at least half a day, and wear shoes with grip. The polished cobblestones become treacherous when wet. If you stay overnight, the evening light on Mangalem is worth every extra hour.
 
 ## Gjirokastra: The Stone City
 
 If Berat is soft and white, Gjirokastra is grey and dramatic. Built on the steep flanks of the Drino valley, it is a city made almost entirely of stone: stone roofs, stone walls, stone streets. The Albanians call it Qyteti i Gurte (the Stone City), and in the rain it gleams like slate.
 
-The castle above the town is one of the largest in the Balkans. Inside, you will find an old military museum, a collection of captured artillery, and a recovered American spy plane from the Cold War era that sits in the courtyard looking slightly absurd. But the real draw is the view. From the castle ramparts, you look out over the entire valley, across grey rooftops and minarets and the green mountains beyond.
+The castle above the town is one of the largest in the Balkans. Inside, you will find an old military museum, a collection of captured artillery, and an American T-33 jet that strayed into Albanian airspace in 1957, was forced down by MiG fighters, and has been displayed ever since as a captured spy plane. It sits in the courtyard looking slightly absurd. But the real draw is the view. From the castle ramparts, you look out over the entire valley, across grey rooftops and minarets and the green mountains beyond.
 
 Below the castle, the Old Bazaar (Pazari i Vjetër) is a cobblestone street lined with craft shops and small cafés. Gjirokastra is the birthplace of Ismail Kadare, Albania's most celebrated novelist, and his childhood home is now a museum. It is a traditional tower house, or kulla, and the interior gives you a real sense of how wealthy Ottoman-era families lived, with separate floors for guests, family, and storage.
 
@@ -70,7 +70,7 @@ Albania's fourth UNESCO listing is part of a multi-country inscription protectin
 
 I will be honest. These are not easy places to visit. There are no paved roads to the forest cores, no visitor centers, no cafés. Reaching them requires hiking, planning, and a willingness to be uncomfortable. But if you are the kind of traveler who wants to stand in a forest that has never been logged, where the trees are centuries old and the silence is enormous, these places exist and they are protected.
 
-Lumi i Gashit, in particular, is extraordinary. The valley is roadless and pristine, accessible from the village of Theth or Valbona with a guide. If you are already hiking the Valbona-Theth trail, ask locally about extending your route.
+Lumi i Gashit, in particular, is extraordinary. The valley is roadless and pristine, reached from the Valbona side of the Alps with a guide. If you are already hiking in the Valbona area, ask locally about extending your route toward it.
 
 ## Practical Tips
 
