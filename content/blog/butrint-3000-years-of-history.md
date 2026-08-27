@@ -19,7 +19,7 @@ Butrint's origin story reaches back to the fall of Troy. According to the Roman 
 
 Whether or not you believe Trojan refugees settled here, the archaeology confirms that people did. The earliest remains date to between the 10th and 8th centuries BC. By the 4th century BC, Butrint had grown into a significant center for the Chaonians, one of the three major tribes of ancient Epirus. It had a theatre, a sanctuary dedicated to Asclepius (the god of healing), and an agora.
 
-Defensive walls stretching 870 meters, built around 380 BC, enclosed the hilltop city with bastions and five gates. Two of those gates still stand. The Italian archaeologist Luigi Maria Ugolini, who excavated Butrint in the 1920s and 1930s, named them the Lion Gate and the Scaean Gate, deliberately echoing Troy. He believed he had found the city Virgil described.
+Defensive walls stretching 870 meters, built around 380 BC, enclosed the hilltop city with bastions and six gates, several of which still stand. The Italian archaeologist Luigi Maria Ugolini, who excavated Butrint in the 1920s and 1930s, gave two of them the names they carry today, the Lion Gate and the Scaean Gate, deliberately echoing Troy. He believed he had found the city Virgil described.
 
 ## Rome Arrives
 
@@ -57,7 +57,7 @@ The mosaic is currently protected under a layer of sand and gravel to prevent de
 
 After the Byzantine period, Butrint changed hands repeatedly. Charles of Anjou seized it in 1267 and restored the walls and basilica. Venice purchased the territory in 1386 but treated it as a minor outpost, focusing on nearby Corfu. The Venetians built the triangular fortress that still guards the narrowest point of the Vivari Channel, along with the castle tower on the acropolis that now houses the museum.
 
-By the 1500s, Butrint was in steep decline. Warfare left the city in ruins, and the acropolis was abandoned. The marshes that would later become Lake Butrint crept in, swallowing lower sections of the city. Ali Pasha Tepelena captured Butrint in 1798, and it remained part of the Ottoman Empire until Albanian independence in 1912.
+By the 1500s, Butrint was in steep decline. Warfare left the city in ruins, and the acropolis was abandoned. The marshes around the lake crept in, swallowing lower sections of the city. Ali Pasha Tepelena captured Butrint in 1798, and it remained part of the Ottoman Empire until Albanian independence in 1912.
 
 When Ugolini arrived in 1928, the ruins were tangled in forest. Trees grew through Roman walls. The theatre was buried under centuries of soil. What he uncovered stunned the archaeological world, and excavation has continued, on and off, ever since.
 
