@@ -46,7 +46,7 @@ Ksamil is about 14 kilometers south of Saranda, which is the main transport hub 
 
 **From Tirana:** The drive takes around four and a half to five hours via the SH8 highway through Gjirokastra and the Muzina Pass. The road is good by Albanian standards, two lanes and well-paved, but the mountain sections have sharp curves and the occasional goat standing in your lane looking unbothered. If you would rather drive it yourself, the local agencies on <a class="affil" href="https://tp.media/r?campaign_id=87&marker=770798&p=2043&trs=567396&u=https%3A%2F%2Fwww.localrent.com%2Fen%2Falbania%2F&sub_id=ksamil-beach" target="_blank" rel="sponsored nofollow noopener">Localrent</a> deliver cars in both Tirana and Saranda. Buses run daily from Tirana's South Terminal to Saranda, costing around 2000 to 2500 leke one way. From Saranda, local buses and furgons (minibuses) head to Ksamil regularly in summer, less so in the off-season.
 
-**From Corfu:** A ferry runs from Corfu to Saranda, taking about 30 to 45 minutes depending on the vessel. This is a popular route for day-trippers and backpackers island-hopping through Greece. Ferry tickets cost around 20 to 25 euros each way.
+**From Corfu:** A ferry runs from Corfu to Saranda, taking about 30 to 45 minutes depending on the vessel. This is a popular route for day-trippers and backpackers island-hopping through Greece. Ferry tickets cost around 20 to 25 euros each way. In fact, if you are still deciding how to reach Ksamil from elsewhere in Europe, price <a class="affil" href="https://tp.media/r?campaign_id=100&marker=770798&p=4114&trs=567396&u=https%3A%2F%2Faviasales.com&sub_id=ksamil-beach" target="_blank" rel="sponsored nofollow noopener">flights to Corfu</a> before you price flights to Tirana. Corfu's airport has far more direct routes, and with the ferry it can put you on this beach hours earlier for less money.
 
 **From Saranda:** The coastal road to Ksamil is short but can be painfully slow in August. What should take fifteen minutes can stretch to forty-five when the road clogs with rental cars, scooters, and tour buses. If you are driving, leave early.
 
@@ -71,6 +71,8 @@ May and October are gambles. You might get perfect weather, or you might get rai
 **Water shoes:** The rocky areas between beaches can be sharp. A pair of basic water shoes saves your feet and lets you explore the coves that most people skip.
 
 **Cash:** Bring leke. Some places accept euros, and a few accept cards, but cash is still king in Ksamil, especially at the smaller bars and boat operators.
+
+**Phone data:** Albania sits outside the EU roaming zone, and this close to the border your phone will happily drift onto a Greek network and bill you for the privilege. An Albanian eSIM like <a class="affil" href="https://tp.media/r?campaign_id=541&marker=770798&p=8310&trs=567396&u=https%3A%2F%2Fwww.airalo.com%2Falbania-esim&sub_id=ksamil-beach" target="_blank" rel="sponsored nofollow noopener">Airalo</a> costs a few euros, and once it is active, select the Albanian network manually and the drift stops being your problem.
 
 **Crowds:** For the best experience on a summer day, arrive before 9 a.m. or come after 4 p.m. The midday hours from 11 to 3 are the busiest and the hottest. The late afternoon light at Ksamil is beautiful, warm and amber, and the water takes on an almost emerald tint. That is my favorite time to swim.
 

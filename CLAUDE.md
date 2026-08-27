@@ -198,15 +198,33 @@ https://tp.media/r?campaign_id=<C>&marker=770798&p=<P>&trs=567396&u=<URL-ENCODED
 | Kiwitaxi (transfers) | 1 | 647 | `https://kiwitaxi.com/en/albania` |
 | Airalo (eSIM) | 541 | 8310 | `https://www.airalo.com/albania-esim` |
 | EKTA (travel insurance) | 225 | 5869 | `https://ektatraveling.com/` |
+| Aviasales (flights) | 100 | 4114 | `https://aviasales.com` |
+| Welcome Pickups (TIA airport pickup) | 627 | 8919 | `https://www.welcomepickups.com/tirana/` |
+| GetTransfer (transfers alt) | 147 | 4439 | `https://gettransfer.com` |
+| GetRentacar (car rental alt, 90d cookie) | 222 | 5996 | `https://getrentacar.com/en/albania` |
+| Yesim (eSIM alt, 18%/90d) | 224 | 5998 | `https://yesim.tech` (no Albania deep link, verify before use) |
+| Saily (eSIM alt) | 629 | 8979 | `https://saily.com` |
+
+Verified working deep links: `localrent.com/en/albania/saranda/`,
+`kiwitaxi.com/en/albania/tirana-airport`, `welcomepickups.com/tirana/`.
+
+**Do not use (ids captured, but zero Albania inventory as of Aug 2026):**
+Tiqets (89/2074), Klook (137/4110), WeGoTrip (150/4487). Their Albania
+searches return Alanya/Oaxaca-grade junk. Re-check before ever linking.
 
 URL-encode the `u=` target fully (`:` → `%3A`, `/` → `%2F`). The `u=`
 can point at any page on the partner's domain, so deep-link when a more
-specific page fits the context. More connected programs (Klook, Tiqets,
-Welcome Pickups, GetTransfer, Aviasales, Saily, Yesim, Go City) are in
-the dashboard; grab their ids from Create link → Show full link.
-GetYourGuide, DiscoverCars, Viator, Booking.com and Hostelworld are
-pending Travelpayouts' project review. Check the dashboard occasionally
-and add their ids here once unlocked.
+specific page fits the context.
+
+**Locked programs (checked Aug 2026).** Booking.com, DiscoverCars,
+GetYourGuide, Viator, Trip.com, Expedia, Hostelworld, Omio, 12Go and
+others are locked with the reason "not enough traffic; resubmit once
+the site has stable monthly traffic for three consecutive months"
+(resubmission possible after 28 Aug 2026). Priorities once traffic
+qualifies: **DiscoverCars (23-54%, 365-day cookie)** for cars,
+**GetYourGuide/Viator (8%)** for tours. No currently available program
+has real Albania tours inventory, so the tours category stays
+unmonetized until then.
 
 **Placement rules:**
 
@@ -214,8 +232,10 @@ and add their ids here once unlocked.
   transport, hiking logistics, destination "Getting There" sections,
   practical guides. Never in food, culture, or history pieces unless a
   section is explicitly practical.
-- 1 to 3 links per article, inline in Elena's prose, at the exact moment
-  the need arises. No link walls, no deal boxes.
+- 2 to 3 links per article where booking intent exists (1 is fine for
+  history/food pieces with a single practical section), inline in
+  Elena's prose, at the exact moment the need arises. No link walls,
+  no deal boxes.
 - Elena recommends honestly. If the furgon is the better option, the
   furgon stays the recommendation and the affiliate link is framed as
   the alternative for those who want certainty or comfort.

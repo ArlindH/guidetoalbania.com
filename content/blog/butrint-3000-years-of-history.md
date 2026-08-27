@@ -81,7 +81,7 @@ Butrint is 18 kilometers south of Sarandë (Saranda), about a 25-minute drive on
 
 **By taxi:** A taxi from Sarandë costs 1,500 to 2,500 LEK depending on season and negotiation. Some drivers will wait and bring you back for a fixed round-trip price. Agree on everything before you get in.
 
-**By car:** The road is straightforward and well-signed. Parking at the site is free.
+**By car:** The road is straightforward and well-signed. Parking at the site is free. If you do not have wheels yet, the local agencies on <a class="affil" href="https://tp.media/r?campaign_id=87&marker=770798&p=2043&trs=567396&u=https%3A%2F%2Fwww.localrent.com%2Fen%2Falbania%2Fsaranda%2F&sub_id=butrint" target="_blank" rel="sponsored nofollow noopener">Localrent</a> deliver cars in Sarandë, and having one turns Butrint, the Blue Eye and Ksamil into a single unhurried day.
 
 A cable-pulled ferry crosses the Vivari Channel just south of the site. The crossing takes two minutes and is a small adventure in itself.
 

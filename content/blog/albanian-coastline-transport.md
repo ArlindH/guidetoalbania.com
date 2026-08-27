@@ -60,7 +60,7 @@ In summer, small boat services open up along the coast, and this is one of my fa
 
 Water taxis operate between major beach areas, particularly Himara to Dhermi and along the Ksamil shoreline. Prices vary and are almost always negotiable, but expect to pay around 1,000 to 2,000 lekë per person for a short hop. From Ksamil, small boats shuttle visitors to the islands just offshore for 500 to 1,000 lekë round trip. These are informal operations. You will find them at the beach, not online.
 
-The Saranda to Corfu ferry is a different category entirely: a proper commercial service running multiple times daily in summer (less frequently off-season). Tickets run around 19 to 25 EUR one way, and the crossing takes about 30 minutes. Book a day ahead in August.
+The Saranda to Corfu ferry is a different category entirely: a proper commercial service running multiple times daily in summer (less frequently off-season). Tickets run around 19 to 25 EUR one way, and the crossing takes about 30 minutes. Book a day ahead in August. It is also the back door to the whole coast: Corfu's airport has direct <a class="affil" href="https://tp.media/r?campaign_id=100&marker=770798&p=4114&trs=567396&u=https%3A%2F%2Faviasales.com&sub_id=coastline-transport" target="_blank" rel="sponsored nofollow noopener">flights</a> from most of Europe, often cheaper than flying to Tirana, and the boat lands you in Saranda half an hour after leaving Greece instead of five hours of driving from the capital.
 
 **Pros:** Stunning perspectives of the coastline. Access to beaches with no road. The Corfu ferry is fast and easy.
 

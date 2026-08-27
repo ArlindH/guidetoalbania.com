@@ -139,7 +139,7 @@ It is flat, it is easy, and after four days of driving mountain roads it is exac
 
 ## Practical Tips
 
-**Download offline maps before you leave the city.** Coverage on Dajti is fine and coverage almost everywhere else is not. OsmAnd and Wikiloc both work well for this region.
+**Download offline maps before you leave the city.** Coverage on Dajti is fine and coverage almost everywhere else is not. OsmAnd and Wikiloc both work well for this region. If you are on roaming, remember Albania sits outside the EU cap; an Albanian eSIM (<a class="affil" href="https://tp.media/r?campaign_id=541&marker=770798&p=8310&trs=567396&u=https%3A%2F%2Fwww.airalo.com%2Falbania-esim&sub_id=hiking-near-tirana-day-hikes" target="_blank" rel="sponsored nofollow noopener">Airalo</a> has them from a few euros) makes the data question go away for the whole trip.
 
 **Shepherd dogs are real and you will meet them.** They guard flocks and they take the job seriously. Stop moving, do not run, do not turn your back, let them come and assess you, and wait for the shepherd. Picking up a stone is understood as a threat by both dog and shepherd. There is more on this in our [first-timer's guide to hiking in Albania](/blog/hiking-in-albania-first-timers-guide/).
 

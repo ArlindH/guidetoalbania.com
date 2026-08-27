@@ -68,7 +68,7 @@ I first climbed Tomorr on a clear October day when the beech trees on the lower 
 
 **Best season:** May through October. August for the Bektashi festival.
 
-**Getting there:** From Berat, drive south toward the mountain. The road is rough but passable with a decent car. Some sections may require 4WD in wet conditions.
+**Getting there:** From Berat, drive south toward the mountain. The road is rough but passable with a decent car. Some sections may require 4WD in wet conditions. The local agencies on <a class="affil" href="https://tp.media/r?campaign_id=87&marker=770798&p=2043&trs=567396&u=https%3A%2F%2Fwww.localrent.com%2Fen%2Falbania%2F&sub_id=highest-mountains" target="_blank" rel="sponsored nofollow noopener">Localrent</a> list proper 4x4s alongside the city cars, and this is the mountain where that difference earns its money.
 
 ## Mount Çika, 2,044m
 
@@ -108,7 +108,7 @@ I go up Dajt at least once a month, often on weekday mornings when it is quiet. 
 
 **Weather:** Albanian mountain weather changes fast. Clear mornings can turn to thunderstorms by early afternoon, especially in July and August. Start early and be prepared to turn back. Lightning above the treeline is genuinely dangerous.
 
-**Maps and navigation:** Offline maps are essential. Download OpenStreetMap data or the Albania hiking trails from Wikiloc before you leave your accommodation. Phone signal disappears quickly in the mountains.
+**Maps and navigation:** Offline maps are essential. Download OpenStreetMap data or the Albania hiking trails from Wikiloc before you leave your accommodation. Phone signal disappears quickly in the mountains. For the stretches where it does exist, an Albanian eSIM like <a class="affil" href="https://tp.media/r?campaign_id=541&marker=770798&p=8310&trs=567396&u=https%3A%2F%2Fwww.airalo.com%2Falbania-esim&sub_id=highest-mountains" target="_blank" rel="sponsored nofollow noopener">Airalo</a> is a few euros well spent against a roaming bill.
 
 **Insurance:** Rescue up here is limited, and standard travel policies often exclude mountain hiking. Check yours before you fly, or pick up cover from a travel insurer like <a class="affil" href="https://tp.media/r?campaign_id=225&marker=770798&p=5869&trs=567396&u=https%3A%2F%2Fektatraveling.com%2F&sub_id=highest-mountains" target="_blank" rel="sponsored nofollow noopener">EKTA</a> and confirm hiking is included.
 

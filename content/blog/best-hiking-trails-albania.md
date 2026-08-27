@@ -122,7 +122,7 @@ I did the full circuit in 2023 with two friends from Shkodër. By day three my f
 
 ## Before You Go: Practical Tips for Hiking in Albania
 
-**Maps and navigation.** Trail marking in Albania is inconsistent. Some popular routes (Valbona to Theth) are well marked with red-and-white blazes. Others have nothing. Download offline maps before you go. I use a combination of Komoot and OSMAnd, and I always carry a backup.
+**Maps and navigation.** Trail marking in Albania is inconsistent. Some popular routes (Valbona to Theth) are well marked with red-and-white blazes. Others have nothing. Download offline maps before you go. I use a combination of Komoot and OSMAnd, and I always carry a backup. Do the downloading over wifi in town, and if you want mobile data out here at all, an Albanian eSIM like <a class="affil" href="https://tp.media/r?campaign_id=541&marker=770798&p=8310&trs=567396&u=https%3A%2F%2Fwww.airalo.com%2Falbania-esim&sub_id=famous-hiking-trails" target="_blank" rel="sponsored nofollow noopener">Airalo</a> beats paying roaming rates for it. Just never plan around having signal in the valleys.
 
 **Water.** Mountain springs (burime) are common in the Alps but unreliable on coastal hikes. Carry more than you think you need. On any hike longer than three hours, bring at least two liters per person.
 

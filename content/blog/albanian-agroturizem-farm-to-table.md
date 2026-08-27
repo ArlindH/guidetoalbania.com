@@ -86,6 +86,7 @@ A few practical things I tell friends:
 - Book ahead. A phone call is often better than email. Many places do not accept cards. Bring cash.
 - Do not rush the meal. Two hours is a minimum. Three is normal. The waiter is not forgetting you. You are supposed to be sitting there.
 - Drive carefully. Most agroturizem places are down roads that are kind to tractors and less kind to rental cars. A small SUV helps in the north, and the local agencies on <a class="affil" href="https://tp.media/r?campaign_id=87&marker=770798&p=2043&trs=567396&u=https%3A%2F%2Fwww.localrent.com%2Fen%2Falbania%2F&sub_id=agroturizem" target="_blank" rel="sponsored nofollow noopener">Localrent</a> rent exactly those.
+- Decide who is drinking before you leave. The wine flight and the barrel raki are half the point, and Albania has zero tolerance for drink driving. If everyone at the table wants to taste, book the ride out and back through <a class="affil" href="https://tp.media/r?campaign_id=1&marker=770798&p=647&trs=567396&u=https%3A%2F%2Fkiwitaxi.com%2Fen%2Falbania&sub_id=agroturizem" target="_blank" rel="sponsored nofollow noopener">Kiwitaxi</a> and let someone else manage the tractor roads home.
 - Go hungry. Really hungry. Decline the bread basket until the third or fourth course, or you will regret it.
 
 ## Why It Matters

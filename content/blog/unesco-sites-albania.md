@@ -50,7 +50,7 @@ I first visited Gjirokastra in November, when the streets were nearly empty and 
 
 ### Getting to Gjirokastra
 
-Gjirokastra is roughly four hours south of Tirana by car, or you can catch a bus from the South Terminal for around 1,000-1,200 lekë. The road is good and passes through the Llogara pass if you take the coastal route, which is spectacular but adds time. Castle entry costs 400 lekë. The Kadare house and the Skenduli House (another beautifully restored kulla) each charge a small fee. Budget a full day, and prepare your knees for the hills.
+Gjirokastra is roughly four hours south of Tirana by car, or you can catch a bus from the South Terminal for around 1,000-1,200 lekë. The road is good and passes through the Llogara pass if you take the coastal route, which is spectacular but adds time. If you are pairing Berat and Gjirokastra with luggage in tow, a prebooked car through <a class="affil" href="https://tp.media/r?campaign_id=1&marker=770798&p=647&trs=567396&u=https%3A%2F%2Fkiwitaxi.com%2Fen%2Falbania&sub_id=unesco-sites" target="_blank" rel="sponsored nofollow noopener">Kiwitaxi</a> is the middle option: pricier than the bus, door to door, and the driver waits while you drop your bags. Castle entry costs 400 lekë. The Kadare house and the Skenduli House (another beautifully restored kulla) each charge a small fee. Budget a full day, and prepare your knees for the hills.
 
 ## Natural and Cultural Heritage of the Ohrid Region
 
