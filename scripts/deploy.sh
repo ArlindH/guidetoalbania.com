@@ -28,6 +28,6 @@ else
     logger -t "$LOG_TAG" "Rebuilding: output stale at ${LOCAL:0:7}"
 fi
 
-hugo --minify --destination "$OUTPUT_DIR"
+hugo --minify --destination "$OUTPUT_DIR" --cleanDestinationDir
 
 logger -t "$LOG_TAG" "Deploy OK: now at $(git rev-parse --short HEAD)"
