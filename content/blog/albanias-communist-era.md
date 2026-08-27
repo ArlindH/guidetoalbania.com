@@ -23,7 +23,7 @@ My grandfather was an engineer. A good one, by all accounts. He once told my fat
 
 ## 170,000 Bunkers for a War That Never Came
 
-The most visible legacy of Hoxha's paranoia is the bunkers. Over 170,000 of them were built across Albania between the 1960s and 1980s, a staggering number for a country smaller than Maryland. They are everywhere. On beaches, in farmers' fields, along mountain passes, in the middle of residential neighborhoods. Small mushroom-shaped concrete domes (known as zjarri, or "fire" bunkers) dot the landscape like strange mushrooms. Larger ones were built into hillsides to shelter military commanders or even entire government ministries.
+The most visible legacy of Hoxha's paranoia is the bunkers. Over 170,000 of them were built across Albania between the 1960s and 1980s, a staggering number for a country smaller than Maryland. They are everywhere. On beaches, in farmers' fields, along mountain passes, in the middle of residential neighborhoods. Small mushroom-shaped concrete domes, the QZ type (qendër zjarri, "firing position"), dot the landscape. Larger ones were built into hillsides to shelter military commanders or even entire government ministries.
 
 The idea was that every Albanian needed to be ready to repel a foreign invasion at any moment. The invasion never came, of course. But the bunkers consumed enormous resources in a country where people often lacked basic food and medicine.
 
@@ -55,7 +55,7 @@ The building itself is beautiful in a faded, Ottoman-meets-Mediterranean way. In
 
 Enver Hoxha died in 1985. His daughter and a team of architects designed this pyramid-shaped building as a museum dedicated to his legacy. After communism fell, it served various purposes: a convention center, a NATO base during the Kosovo War, a nightclub, a television station. For years it sat abandoned, its marble cladding stripped, its concrete slopes turned into an improvised slide by local teenagers.
 
-Now it is being transformed into a technology and culture center. The renovation has been controversial, as everything involving this building tends to be. But whatever you think of the new design, standing in front of the Piramida and knowing its history gives you a concentrated dose of how Albania processes its past. Not by erasing it, but by arguing about it, repurposing it, and refusing to let it sit comfortably.
+In October 2023, after years of works, it reopened as a technology and culture hub, home to the TUMO creative-tech school for teenagers, its stepped concrete slopes rebuilt so that anyone can climb to the top for a view over the city. The renovation was controversial, as everything involving this building tends to be. But whatever you think of the new design, standing on the Piramida and knowing its history gives you a concentrated dose of how Albania processes its past. Not by erasing it, but by arguing about it, repurposing it, and refusing to let it sit comfortably.
 
 ### Blloku: From Forbidden Zone to Coffee Culture
 
@@ -69,7 +69,7 @@ Today, Blloku is the heart of Tirana's cafe and nightlife scene. The streets are
 
 High in the mountains of northern Albania, the former prison and labor camp of Spac held political prisoners from the 1960s through 1991. Getting there requires effort. The road is rough, the site is remote, and there are no facilities. The prison buildings are crumbling, exposed to weather and neglect.
 
-But if you are someone who travels to understand rather than just to see, Spac is worth the difficulty. Walking through the ruined cells, seeing the quarry where prisoners were forced to work, standing in that silence, it stays with you. There have been efforts to preserve it as a memorial site, though progress has been slow. Go with a guide who can provide context. The physical remains alone do not tell you enough.
+But if you are someone who travels to understand rather than just to see, Spac is worth the difficulty. Walking through the ruined cells, seeing the copper mine where prisoners were forced to work, standing in that silence, it stays with you. There have been efforts to preserve it as a memorial site, though progress has been slow. Go with a guide who can provide context. The physical remains alone do not tell you enough.
 
 ### Bunkers Along the Coast
 
@@ -91,10 +91,10 @@ Albania's communist past is not a chapter that ended neatly. It is a presence, f
 
 ## Practical Tips
 
-- **Bunk'Art 1**: Open daily (except Mondays), 9:00 to 16:00. Entry 500 lek (about 5 euros). Take the public bus toward Sauk/Linzë or a taxi.
-- **Bunk'Art 2**: Open daily (except Mondays), 9:00 to 18:00. Entry 500 lek. Right on Skanderbeg Square.
-- **House of Leaves**: Open Tuesday through Saturday, 9:00 to 16:00. Entry 700 lek. Located on Rruga e Dibres, a short walk from the center.
-- **The Pyramid**: Exterior always accessible. Interior access depends on renovation progress. Check locally for current status.
+- **Bunk'Art 1**: Open daily, 9:30 to 17:30 in summer, an hour shorter in winter. Entry 900 lek (about 9 euros), cash only. Take the public bus toward Porcelan/Linzë or a taxi.
+- **Bunk'Art 2**: Open daily, 9:30 to 18:30. Entry 900 lek, cash only. Right on Skanderbeg Square.
+- **House of Leaves**: Open daily, 9:00 to 19:00. Entry 700 lek, cash. Just behind the Orthodox cathedral, a short walk from the square.
+- **The Pyramid**: The stepped exterior is climbable around the clock, free. The interior belongs to the TUMO school and cultural spaces, so wander in during weekday hours if you are curious.
 - **Spac Prison**: No regular hours or entry fee. Accessible by car via a rough mountain road from Rrëshen. A local guide is strongly recommended.
 - **Photography**: All museums allow photography. At Spac, be respectful of what is essentially a site of suffering.
 - **Combine visits**: Bunk'Art 2 and House of Leaves can be done in a single morning. Save Bunk'Art 1 for a half-day trip combined with a walk on Mount Dajt.
