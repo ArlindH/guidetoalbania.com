@@ -75,13 +75,13 @@ Berat is the centre of Albanian wine, and Albanian wine is genuinely one of the 
 
 **Çobo** and **Nurellari** are the two estates most set up for visitors, both a short drive from town, both doing tastings with food. Ninety minutes to two hours is the right length. Nurellari's Montemeca took the prize for best Albanian wine back in 2011 and the estate has traded on it comfortably ever since, which is fair enough.
 
-Here is the confession. My father is from a village outside Berat, and my grandfather still runs the raki courtyard there, distilling every autumn as he has done my whole life. I grew up understanding this region through the still rather than the barrel. So when I tell you Berat's wine is worth your afternoon, take it as the opinion of someone whose family would probably rather you drank something else.
+Here is the confession. My father is from a village outside Berat, and my grandfather still runs [the raki courtyard](/blog/albanian-raki-guide-how-its-made/) there, distilling every autumn as he has done my whole life. I grew up understanding this region through the still rather than the barrel. So when I tell you Berat's wine is worth your afternoon, take it as the opinion of someone whose family would probably rather you drank something else.
 
 Both, ideally. The order matters and it is wine first.
 
 ## Beyond the City
 
-**The Osum canyon**, about an hour southeast. Twenty-six kilometres of gorge, up to eighty metres deep in places. Rafting in spring when the water is high, swimming and scrambling in summer when it drops. This is a full day and one of the better ones in central Albania.
+**The Osum canyon**, about an hour southeast. Twenty-six kilometres of gorge, up to eighty metres deep in places. Rafting in spring when the water is high, swimming and scrambling in summer when it drops. This is a full day and one of the better ones in central Albania. Keep going past the canyon and you are in Skrapar's raki country; [the raki trail](/blog/raki-trail-skrapar-permet/) turns that into a two or three day loop through Çorovoda and on to Përmet.
 
 **Mount Tomorr**, the mountain you can see from everywhere in Berat, is a sacred site to the Bektashi order with a pilgrimage every August to the tekke near the summit. If your dates fall in the last week of August, it is an extraordinary thing to witness, and it deserves more respect than a photo opportunity.
 

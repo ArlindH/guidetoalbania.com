@@ -81,6 +81,6 @@ The scene here is emerging. Younger Shkodrans are opening creative bars and cafe
 
 ## One Last Thing
 
-The best night out I ever had in Albania wasn't at a fancy rooftop bar or a beach club. It was at a tiny place in Tirana's old neighborhood near the castle walls, sitting outside on mismatched chairs, drinking raki with friends, watching the city below us slowly light up. Someone brought a guitar. We stayed until the muezzin's call echoed across the rooftops at dawn.
+The best night out I ever had in Albania wasn't at a fancy rooftop bar or a beach club. It was at a tiny place in Tirana's old neighborhood near the castle walls, sitting outside on mismatched chairs, [drinking raki](/blog/albanian-raki-guide-how-its-made/) with friends, watching the city below us slowly light up. Someone brought a guitar. We stayed until the muezzin's call echoed across the rooftops at dawn.
 
 That's Albanian nightlife at its best. Not a scene, but a feeling. Go find yours.

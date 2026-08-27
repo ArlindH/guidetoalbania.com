@@ -1,8 +1,8 @@
 ---
-title: "Albanian Raki: How It's Made, Where to Drink It, and Why Every Family Has a Recipe"
+title: "Albanian Raki: How It's Made, and How Not to Drink It"
 date: 2026-04-10
 slug: "albanian-raki-guide-how-its-made"
-description: "A deep guide to Albanian raki: how it's distilled in copper kazanë, the regional varieties from Skrapar to Tropoja, and the etiquette of drinking it right."
+description: "I grew up on my grandfather's raki. What it's actually made of, why Skrapar bottles are the serious gift, and the etiquette nobody explains to visitors."
 categories: ["food-and-drink"]
 tags: ["raki", "albanian-drinks", "skrapar", "permet", "traditional-cuisine", "distillation", "hospitality"]
 draft: false
@@ -28,7 +28,12 @@ If you spend time in different corners of Albania, you learn that raki is not on
 
 **Skrapar** is the most famous name in Albanian raki, and for good reason. The town of Çorovoda and the surrounding villages in the south-central highlands produce grape raki that is considered the gold standard. Skrapar raki is clean, strong, and surprisingly smooth for its proof, with a minerality you can taste if you slow down and let it sit on your tongue. When Albanians give raki as a serious gift, it is usually Skrapar.
 
-**Përmet**, further south in the Vjosa valley, is mulberry country. Raki mani, made from wild black mulberries that grow along the riverbanks, has a deeper, almost jammy quality. It is my personal favorite, though I know this is a controversial opinion in grape-raki households. The best Përmet raki tastes faintly of dried fruit and summer heat.
+<figure>
+  <img src="/images/raki/osum-canyon-gorge.jpg" alt="Narrow limestone gorge with sheer layered walls carved by the Osumi river.">
+  <figcaption>Skrapar's landscape is the raki's backstory: the Osumi river has cut a 26 kilometer canyon through the limestone south of Çorovoda, and the vineyards grow on the stony hills either side. That mineral edge in a good Skrapar glass is not your imagination. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Osum_Canyon,_2016-07_01.jpg">Pasztilla</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
+</figure>
+
+**Përmet**, further south in the Vjosa valley, is mulberry country. Raki mani, made from wild black mulberries that grow along the riverbanks, has a deeper, almost jammy quality. It is my personal favorite, though I know this is a controversial opinion in grape-raki households. The best Përmet raki tastes faintly of dried fruit and summer heat. Përmet also makes Albania's best [gliko](/blog/albanian-gliko-fruit-preserves-in-syrup/), and the two share a table beautifully: a sip of raki mani, a spoonful of syrup-dark walnut, repeat.
 
 **Korça** and the surrounding southeast make solid grape raki, and in the orchard villages you will also find cherry and plum versions, poured with the long Korça winters and the heavy food that goes with them in mind.
 
@@ -57,6 +62,11 @@ Knowing when fermentation is done is a judgment call. My uncle says when the bub
 The distillation happens in a kazan, which is a copper still. A traditional kazan is a squat copper pot with a domed lid, sealed with flour paste or dough where the lid meets the pot, and a long curved tube that leads from the top of the lid into a barrel of cold water. Inside that cold water sits a coiled copper pipe called the worm, and it is in the worm that the magic happens.
 
 You pour the fermented mash into the kazan, light a wood fire underneath, and wait for the mash to heat up. As the temperature rises, the alcohol in the mash begins to evaporate before the water does. The alcohol vapor rises, travels through the tube at the top, enters the cold worm, and condenses back into liquid. The liquid that drips out the far end is raki.
+
+<figure>
+  <img src="/images/raki/raki-distilling-berat-1999.jpg" alt="A woman crouches beside a wood fire under a blackened pot still in a smoky stone room, tending the embers with her hand.">
+  <figcaption>Distilling raki in a village near Berat in 1999, photographed by a German traveler. Look at the pale ring where the lid meets the pot: that is the dough seal, exactly as described below. A quarter century later, the scene in my grandfather's courtyard looks the same, down to the smoke. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:1999-Kienzle-Dia_(28).jpg">Helmut Kienzle</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</span></figcaption>
+</figure>
 
 The fire needs to be slow and steady. Too hot, and you boil water as well as alcohol, and the raki comes out weak. Too cool, and nothing happens at all. This is where experience matters, and where a raki maker earns their reputation. A good distiller tends the fire for six hours or more, adjusting constantly, tasting the output in small sips to judge its strength.
 
@@ -95,6 +105,8 @@ Raki is served in small glasses, usually around 30 to 50 milliliters, and it is 
 ## Where to Try Raki in Albania
 
 For a real introduction, visit a bujtina (a traditional guesthouse) in the mountains, especially around Përmet, Skrapar, or Theth. The hosts will almost always pour their own raki and will talk you through what you are drinking if you show interest. In Tirana, Oda and Mullixhiu are restaurants where the raki selection is taken seriously. The farmers' market at Pazari i Ri in Tirana has vendors selling regional rakis by the bottle, and they are usually happy to let you taste before buying. If you are passing through Skrapar, the small producers around Çorovoda sometimes welcome visitors for a tour and a tasting, though it is worth calling ahead.
+
+If that last idea is the one that made you sit up, I eventually turned it into a whole trip and wrote it down: [the raki trail through Skrapar and Përmet](/blog/raki-trail-skrapar-permet/) covers the producers, the Osumi canyon, the October raki festival in Çorovoda, and how to get a bottle home in one piece.
 
 My favorite place to drink raki, though, is still a courtyard at the end of a long day, with a plate of white cheese and tomatoes on a low table and someone's grandfather pouring. No bar will ever beat that. And if you are lucky enough to be invited into a home where they make their own, say yes. Bring a small gift. Show up hungry. Stay late.
 

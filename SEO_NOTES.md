@@ -392,3 +392,35 @@ carries traffic on weekdays; the everyday pedonale is Murat Toptani).
 promenade-entity queries without pulling the parent off position 7 for
 "xhiro". If the parent slips, the fix is sharpening the title/intent
 split, not merging.
+
+## Raki follow-up play (2026-08-27)
+
+The raki guide is the site's biggest impression driver (6,322 impr, 29
+clicks, position 7 to 11, 0.46% CTR on definitional queries that AI
+Overviews eat) and it was a dead end in the link graph: zero inbound
+internal links despite 17 articles mentioning raki, zero outbound
+links, zero images. Three changes shipped together:
+
+1. **New article `raki-trail-skrapar-permet`.** Converts definitional
+   raki traffic into travel intent the SERP summary cannot finish:
+   Çorovoda producers, Festa e Rakisë (October, "Skrapari në gotë"),
+   Osumi canyon rafting seasons and prices, the unpaved
+   Çorovodë–Piskovë 4x4 crossing vs the paved Vjosa loop, Bënja baths,
+   and a bringing-raki-home section (customs allowances, the 70% rule).
+   Named-entity targets with thin English competition: skrapar raki,
+   çorovoda, osumi canyon, festa e rakisë, bogovë waterfall, raki mani.
+   Monetized: Localrent + EKTA inline, `sub_id=raki-trail`, strip on.
+2. **Raki guide retitled for CTR** (priority #1 above): "Albanian
+   Raki: How It's Made, and How Not to Drink It", description
+   rewritten first-person with a curiosity hook. The page also gained
+   its first two images (including a 1999 Berat distilling photo from
+   Commons) and its first internal links (trail piece + gliko).
+3. **Six inbound links added** across berat-guide (x2), cuisine guide
+   (x2), agroturizëm, and nightlife, pointing at the raki guide and
+   the trail piece.
+
+Watch from late September: raki guide CTR against the 0.46% baseline
+(the title change is the isolated variable), whether the trail piece
+picks up skrapar/osumi/festa impressions at all, and `raki-trail`
+sub_id clicks in Travelpayouts. If the retitle moves CTR, repeat the
+treatment on beaches, burrnesha, and nightlife per priority #1.

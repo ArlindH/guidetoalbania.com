@@ -95,11 +95,11 @@ Baklava is deeply connected to Bajram (Eid), when Muslim families across Albania
 
 ## Raki: The Spirit of Albania
 
-No guide to Albanian food is complete without raki. This clear fruit brandy, most commonly made from grapes (rrush) or plums (kumbulla), is distilled in homes across the country every autumn. The smell of raki being distilled, sweet and sharp and faintly smoky, is the smell of Albanian October.
+No guide to Albanian food is complete without [raki](/blog/albanian-raki-guide-how-its-made/). This clear fruit brandy, most commonly made from grapes (rrush) or plums (kumbulla), is distilled in homes across the country every autumn. The smell of raki being distilled, sweet and sharp and faintly smoky, is the smell of Albanian October.
 
 Raki is served before meals, with meals, after meals, and at every significant life event from births to funerals. It is offered to guests the moment they sit down. Refusing is technically possible, but it will confuse your host. A small glass, neat, at room temperature. You sip. You do not shoot it.
 
-In the south, raki is taken very seriously. Skrapar grape raki is the name Albanians treat as the gold standard, the bottle you bring when you want to show respect, while around Përmet the wild mulberry raki (raki mani) has a devoted following of its own. Families guard their recipes and their copper stills like heirlooms. If someone in Skrapar or Përmet offers you homemade raki, say yes. Then say yes again when they refill your glass.
+In the south, raki is taken very seriously. Skrapar grape raki is the name Albanians treat as the gold standard, the bottle you bring when you want to show respect, while around Përmet the wild mulberry raki (raki mani) has a devoted following of its own. Families guard their recipes and their copper stills like heirlooms. If someone in Skrapar or Përmet offers you homemade raki, say yes. Then say yes again when they refill your glass. And if you would rather not wait for an invitation, [the raki trail through Skrapar and Përmet](/blog/raki-trail-skrapar-permet/) is the trip built around exactly that glass.
 
 ## Kafe Turke: The Ritual
 

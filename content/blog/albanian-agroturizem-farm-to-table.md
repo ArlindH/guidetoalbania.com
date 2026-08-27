@@ -19,7 +19,7 @@ What I did not know then was that I was witnessing the beginning of a quiet revo
 
 The Albanian word is agroturizem, and you will see it on roadside signs across the country, from the hills of Lezhe in the north to the Drino Valley in the south. It translates loosely to "agrotourism," but in practice it describes a specific kind of place: a working farm that feeds you from its own land, and often lets you sleep a night or two between vineyards and orchards.
 
-This is not a concept invented for tourists. Until the 1990s, nearly every Albanian family ate this way by necessity. You raised a pig, you made your own raki, you traded a jar of honey for your neighbor's wheel of gjizë. What changed is that a handful of chefs and farmers decided, in the 2010s, that this way of eating was worth preserving and sharing, not replacing with chain restaurants and imported produce.
+This is not a concept invented for tourists. Until the 1990s, nearly every Albanian family ate this way by necessity. You raised a pig, you [made your own raki](/blog/albanian-raki-guide-how-its-made/), you traded a jar of honey for your neighbor's wheel of gjizë. What changed is that a handful of chefs and farmers decided, in the 2010s, that this way of eating was worth preserving and sharing, not replacing with chain restaurants and imported produce.
 
 The Albanian government formalized the term in 2018, with a certification standard requiring that at least thirty percent of the food served be grown on the farm itself, and a tax break to sweeten it. Only a few dozen places have completed the full certification so far, but well over two hundred farms across the country now operate as agroturizem in practice, and the number grows every year.
 
