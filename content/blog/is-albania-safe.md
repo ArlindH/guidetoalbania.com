@@ -6,6 +6,7 @@ description: "Albania's murder rate is lower than France's. Its road death rate 
 categories: ["travel-tips"]
 tags: ["safety", "driving", "solo-travel", "practical-info", "first-time-visitors"]
 draft: false
+affiliate: true
 ---
 
 I get asked this more than any other question, usually in a slightly apologetic tone, as though the person is embarrassed to be asking. Someone has told them Albania is dangerous. They cannot remember who, or why, but the impression is there and they would like it either confirmed or removed.
@@ -134,7 +135,7 @@ Catcalling exists at roughly southern European levels. Ignoring it works. The ho
 
 **112** is the emergency number and the one to remember. The older direct lines, 129 for police, 127 for ambulance and 128 for fire, are still in use.
 
-**Get travel insurance that covers driving and hiking.** Given everything above, this is the least optional recommendation in this article. Public healthcare is limited outside Tirana and serious cases are often referred abroad.
+**Get travel insurance that covers driving and hiking.** Given everything above, this is the least optional recommendation in this article. A travel insurer like <a href="https://tp.media/r?campaign_id=225&marker=770798&p=5869&trs=567396&u=https%3A%2F%2Fektatraveling.com%2F&sub_id=is-albania-safe" target="_blank" rel="sponsored nofollow noopener">EKTA</a> covers Albania and sells online in minutes. Public healthcare is limited outside Tirana and serious cases are often referred abroad.
 
 **Carry cash in lekë.** Not a safety issue exactly, but being stuck in a village with only a card is its own small emergency.
 

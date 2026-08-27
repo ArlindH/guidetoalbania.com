@@ -18,6 +18,9 @@
       {{ range . }}<a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>{{ end }}
     </div>
     {{ end }}
+    {{ if .Params.affiliate }}
+    <p class="affiliate-disclosure">Some booking links in this guide are affiliate links. If you book through one, this site earns a small commission at no extra cost to you. <a href="/affiliate-disclosure/">How this works</a>.</p>
+    {{ end }}
   </header>
 
   <div class="article-content">

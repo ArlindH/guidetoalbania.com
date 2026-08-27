@@ -114,3 +114,119 @@ high-volume-and-crowded on a domain this young.
   "ranks well, wrong page" is a writing job.
 - Titles and descriptions are the direct levers for CTR. Revisit them
   when an article is getting impressions but no clicks.
+
+## Full query pull (2026-08-27, second pass, last 90 days)
+
+Pulled the complete query report rather than the top rows. The picture
+is more consistent than the earlier summary suggested.
+
+### The domain splits cleanly in two
+
+**Named entities rank. Categories do not.** There is no exception to
+this in the data.
+
+| Ranks at position 6 to 13 | Ranks at position 24 to 80 |
+|---|---|
+| gliko, xhiro, burrnesha, furgon, besa, tavë kosi, raki, south albania beaches, "most bunkers" trivia | albanian food, albanian cuisine, hiking albania, albanian mountains, nightlife albania, communist albania, butrint, best time to visit albania |
+
+The lesson is not "write more". It is "write about a named thing with
+thin English competition". Head terms on this domain are a waiting
+game, not a writing task.
+
+### The two biggest zero-click pages
+
+| Page | Impr. | Clicks | Position |
+|------|------:|-------:|---------:|
+| albanian-highest-mountains | 1,541 | **0** | 34.6 |
+| albanian-cuisine | 1,377 | **0** | 36.1 |
+
+Together 2,918 impressions and zero clicks. Both are 2023 WordPress-era
+pages sitting at position 35 on head terms. Note that
+`albanian-cuisine` is already titled "15 Dishes You Need to Try (And
+Where to Find Them)" and already covers byrek, fërgesë, qofte, flija,
+japrak, trileçe and the rest. **Do not write another Albanian food
+roundup.** It would cannibalize, not add.
+
+### Query clusters, sized
+
+| Cluster | ~Impr. | Position | Clicks | Verdict |
+|---------|-------:|---------:|-------:|---------|
+| Raki (how made, alcohol %) | ~1,500 | 7-11 | 29 | CTR job. AI Overview territory |
+| South Albania beaches | ~1,300 | 7-9 | 32 | CTR job |
+| Near-me hiking / walking | ~1,200 | 6-10 | 1 | Mostly unconvertible, searcher is not in Albania |
+| Albanian food / cuisine | ~1,000 | 36-49 | 0 | Authority job, page already exists |
+| Nightlife | ~800 | 16-33 | 9 | Middling |
+| Bunkers trivia | ~380 | 9-14 | 1 | AI Overview territory |
+| Highest mountains | ~250 | 9-80 | 0 | Authority job |
+| Tavë kosi restaurant intent | ~150 | 8-11 | 0 | Small but high intent |
+
+Almost every high-impression query already has a page ranking at a
+decent position and returning nothing. That is the CTR finding again,
+now with the full dataset behind it.
+
+### Arithmetic worth keeping in view
+
+37.8K impressions at 0.7% returns 278 clicks. The xhiro page converts
+at 2.5% and gliko at 1.7% at similar positions, so the ceiling is real
+rather than theoretical. Lifting the site to 2% would return roughly
+750 clicks with no new content at all. A single new article, ranking
+well, realistically adds 500 to 2,000 impressions over 90 days, which
+is 10 to 30 clicks at current CTR.
+
+**Titles and descriptions on the existing top ten pages are worth more
+than the next five articles.** Write for other reasons, but do not
+expect a new post to move the total.
+
+## Monetization changed the target (2026-08-27)
+
+Travelpayouts tracking went live in `layouts/partials/head.html`. Traffic
+is no longer equal in value. A reader searching "which country has the
+most bunkers" cannot be monetized. A reader searching "car rental
+Tirana airport" is one click from a booking.
+
+Reprioritize toward commercial intent: car rental, accommodation,
+transfers, tours, insurance. The existing transport content already
+proves the domain ranks here.
+
+| Page | Impr. | Clicks | CTR | Position |
+|------|------:|-------:|----:|---------:|
+| how-to-use-furgons-in-albania | 521 | 6 | **1.2%** | 8.1 |
+| how-to-explore-albanian-coastline-transport | 234 | 1 | 0.4% | 10.4 |
+
+The furgon guide converts at nearly twice the site average and is the
+only dedicated transport piece on the site. Car rental exists only as
+one H2 inside the 2022 coastline article.
+
+## Next article: renting a car / driving in Albania
+
+Reasoning, in order of weight:
+
+1. **No page exists.** Nothing to cannibalize. Every other big cluster
+   is already covered by a page ranking at 8 to 11.
+2. **Commercial intent.** Car rental is the highest-value Travelpayouts
+   category that fits a guide site, ahead of everything except hotels.
+3. **The domain ranks practical transport content.** Furgons at 8.1,
+   coastline transport at 10.4, both without much effort.
+4. **AI Overview resistant.** Deposit holds, the green card, the
+   Kosovo and Montenegro cross-border rules, which roads actually need
+   clearance, local agencies versus the international desks, real 2026
+   daily rates. A summary cannot finish this job.
+5. **Internal linking is already in place.** `is-albania-safe` argues
+   that Albania's real danger is the road, with the crash statistics
+   to support it. A driving guide is the natural next click, and each
+   strengthens the other.
+
+Runner-up: Albanian coffee culture (idea 9). Same named-entity shape
+that made gliko and xhiro work, and the "most coffee bars per capita in
+the world" statistic is the kind of superlative this domain already
+ranks at position 9 to 12 for on bunkers. No commercial intent, though.
+
+### Process notes, updated
+
+- Pull the **full** query report, not the top 10 rows. The rows-per-page
+  control in Search Console does not respond to a direct click. Open it
+  with Enter, then arrow to the size. Or read the whole table off the
+  page at once, which is faster.
+- Check whether a page already covers the angle before recommending it.
+  The "write a dish guide" idea died on contact with
+  `albanian-cuisine-guide.md`, which had already done it.

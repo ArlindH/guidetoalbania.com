@@ -7,6 +7,7 @@ description: "Rental cars, furgons, boats, and local guides. A practical compari
 categories: ["travel-tips"]
 tags: ["transport", "riviera", "getting-around", "rental-car", "budget-travel", "coastline"]
 draft: false
+affiliate: true
 ---
 
 The first time I drove the Albanian Riviera, I white-knuckled my way over the Llogara Pass with my windows down, the smell of pine forests mixing with salt air a thousand meters below. By the time I reached Dhermi, my hands ached and my heart was full. That drive changed how I think about coastal travel in Albania: how you get around here is not just logistics. It is part of the experience.
@@ -17,7 +18,7 @@ The stretch from Vlora to Saranda is roughly 130 kilometers. On a map, that look
 
 This is the most flexible way to explore the coast, and it is what I recommend for most travelers who are comfortable driving in southern Europe.
 
-Expect to pay between 25 and 40 EUR per day for a basic car from agencies in Tirana, Vlora, or Saranda. In peak summer, book at least two weeks ahead or prices climb. A compact car with decent clearance works best. You do not need a full SUV, but you will appreciate something slightly raised for the occasional rough patch.
+Expect to pay between 25 and 40 EUR per day for a basic car from agencies in Tirana, Vlora, or Saranda. In peak summer, book at least two weeks ahead or prices climb. The international chains cluster at the airport; the local agencies are usually cheaper, more relaxed, and mostly listed on <a href="https://tp.media/r?campaign_id=87&marker=770798&p=2043&trs=567396&u=https%3A%2F%2Fwww.localrent.com%2Fen%2Falbania%2F&sub_id=coastline-transport" target="_blank" rel="sponsored nofollow noopener">Localrent</a>, where you can compare cars and deposit terms before you commit. A compact car with decent clearance works best. You do not need a full SUV, but you will appreciate something slightly raised for the occasional rough patch.
 
 The Llogara Pass (Qafa e Llogarasë) is the highlight and the challenge. You climb from sea level to over 1,000 meters in tight switchbacks through a national park thick with fir trees, then descend toward beaches so blue they look edited. It is genuinely one of Europe's great drives. Take it slowly, especially if there is fog, and pull over at the viewpoints rather than trying to gawk and steer at the same time.
 
@@ -71,7 +72,7 @@ Taxis are available in every coastal town, and hiring one for a point-to-point t
 
 A taxi from Saranda to Ksamil runs around 1,500 to 2,000 lekë. Saranda to Himara might cost 4,000 to 5,000 lekë. From Vlora to Dhermi, expect around 3,500 to 4,500 lekë. These are approximate, and you should negotiate politely but firmly. Some drivers will quote higher prices to obvious tourists.
 
-Ride-hailing apps exist in Albania, but coverage along the coast is thin. In Saranda you might find a driver on an app, but in Himara or Dhermi, you are asking at your hotel or flagging someone down on the street. Your accommodation host is often the best resource for arranging a reliable driver.
+Ride-hailing apps exist in Albania, but coverage along the coast is thin. In Saranda you might find a driver on an app, but in Himara or Dhermi, you are asking at your hotel or flagging someone down on the street. Your accommodation host is often the best resource for arranging a reliable driver. For the fixed legs you know about in advance, Tirana airport to Vlora, say, a prebooked transfer through <a href="https://tp.media/r?campaign_id=1&marker=770798&p=647&trs=567396&u=https%3A%2F%2Fkiwitaxi.com%2Fen%2Falbania&sub_id=coastline-transport" target="_blank" rel="sponsored nofollow noopener">Kiwitaxi</a> costs about what you would negotiate on the street, with none of the negotiating.
 
 **Pros:** Door-to-door convenience. Good for airport transfers or one-off trips. No driving stress.
 

@@ -6,6 +6,7 @@ description: "How to hike Albania's most famous trail, the Valbona to Theth cros
 categories: ["destinations"]
 tags: ["hiking", "albanian-alps", "valbona", "theth", "trails", "outdoor-adventure"]
 draft: false
+affiliate: true
 ---
 
 There is a moment on this hike, maybe three hours up from the Valbona side, when the trail finally stops climbing. You come over a lip of rock, the wind changes, and a second valley opens up below you. It is green and deep and looks nothing like the one you left after breakfast. That saddle is Qafa e Valbonës, the Valbona pass, and it is the whole reason people come.
@@ -69,6 +70,8 @@ The classic route has three legs. A morning minibus, or furgon, runs from Shkod�
 
 In practice this is easier to arrange than it sounds. Most Shkodër guesthouses will book the entire chain for you the day before, and several transport operators sell it as one connected ticket. The ferry is the part to reserve ahead in July and August. The Fierza to Valbona furgon costs around 8 euros. For more on the boat itself, which deserves its own day in any Albania trip, see our guide to the [Koman Lake ferry](/blog/koman-lake-ferry-albania/). If you want to understand how minibus travel works here in general, the [furgon guide](/blog/how-to-use-furgons-in-albania/) covers the etiquette and the quirks.
 
+One note on reaching Shkodër itself. Furgons run there from Tirana all day and cost a few euros. If you are landing at Tirana airport with bags and a dawn ferry to catch, a fixed-price transfer straight from the airport to Shkodër (<a href="https://tp.media/r?campaign_id=1&marker=770798&p=647&trs=567396&u=https%3A%2F%2Fkiwitaxi.com%2Fen%2Falbania&sub_id=valbona-to-theth-hike" target="_blank" rel="sponsored nofollow noopener">Kiwitaxi</a> lists the route) costs more than the furgon, obviously, but it is door to door and worth splitting between three or four hikers.
+
 There is a road to Valbona that avoids the ferry, looping inland through Bajram Curri, and drivers with their own car sometimes use it. It is longer, far less beautiful, and I would not choose it unless I had to.
 
 ## Getting Out of Theth
@@ -109,13 +112,15 @@ Add it up, with two nights of half board, the transport chain and a little spend
 
 A handful of things worth knowing before you set off.
 
-**You do not need a guide.** In season, this is the one Albanian hike that is genuinely fine to walk solo or in a pair. The trail is marked with red-and-white blazes and has enough other walkers that you will rarely be alone. Still, download an offline map on OsmAnd or a GPX track from Wikiloc, because phone signal on the pass is unreliable.
+**You do not need a guide.** In season, this is the one Albanian hike that is genuinely fine to walk solo or in a pair. The trail is marked with red-and-white blazes and has enough other walkers that you will rarely be alone. Still, download an offline map on OsmAnd or a GPX track from Wikiloc, because phone signal on the pass is unreliable. If your phone takes an eSIM, sort an Albanian data plan like <a href="https://tp.media/r?campaign_id=541&marker=770798&p=8310&trs=567396&u=https%3A%2F%2Fwww.airalo.com%2Falbania-esim&sub_id=valbona-to-theth-hike" target="_blank" rel="sponsored nofollow noopener">Airalo's</a> before you travel. It will not save you on the pass, but it means maps, ferry timetables and guesthouse WhatsApp messages work everywhere else.
 
 **Carry enough water.** Refill at the guesthouses and the two cafes, and start with at least a litre and a half. Parts of the climb are open and exposed, and it is warmer up there than the cool morning suggests.
 
 **Shepherd dogs are not a reason to panic.** You may pass summer pastures with large livestock-guarding dogs. Do not run and do not make eye contact. Keep a walking pole or your pack between you and the dog, and move in a wide, calm arc around the flock. They are working, not hunting, and the shepherd is usually nearby.
 
 **Weather turns quickly.** A clear morning can build into an afternoon thunderstorm. Start early, aim to be over the pass by lunchtime, and pack a layer and a waterproof even when the forecast looks kind.
+
+**Insurance that actually covers hiking.** Rescue in these mountains means a long carry by volunteers or a helicopter from Tirana, and a standard travel policy does not always pay for either. Check the small print before you go, or pick up a policy from a travel insurer like <a href="https://tp.media/r?campaign_id=225&marker=770798&p=5869&trs=567396&u=https%3A%2F%2Fektatraveling.com%2F&sub_id=valbona-to-theth-hike" target="_blank" rel="sponsored nofollow noopener">EKTA</a> and make sure mountain hiking is included.
 
 Good footwear matters more than anything else on this list. The descent is loose and stony in places, and trainers will leave you sore. Beyond that, this is a normal three-season hiking day. If you can manage a long walk with one sustained climb at home, you can manage this.
 

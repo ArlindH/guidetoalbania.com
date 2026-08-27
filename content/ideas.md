@@ -1,3 +1,9 @@
+---
+build:
+  render: never
+  list: never
+---
+
 # Article Ideas
 
 Researched 2026-04-06. Check off ideas as they get published.
@@ -126,3 +132,17 @@ Write the pillar first, then the signature routes.
 76. [ ] **Bujtina: Staying in Mountain Guesthouses on Albania's Trails** — The bujtina culture, what to expect (half-board, shared meals, rakia at dinner), booking direct vs through tours, Theth/Valbona/Çerem/Dobërdol specifics.
 77. [x] **Day Hikes from Tirana: Dajti, Bovilla, and Pëllumbas Cave** — Capital-based hub piece for travelers staying in the city. Transport, difficulty, combining with a meal, what the cable car actually costs.
 78. [ ] **Guided vs Solo Hiking in Albania: An Honest Take** — When you really do need a guide (Korab, some Peaks of the Balkans sections), when you don't (Valbona-Theth in season, Theth park trails), what a local guide actually costs.
+
+## Commercial-intent cluster (SEO priority, added 2026-08-27)
+
+Travelpayouts affiliate tracking is live. Traffic value is no longer
+flat: a reader searching bunker trivia cannot be monetized, a reader
+searching car rental is one click from a booking. The furgon guide
+already converts at 1.2%, nearly twice the site average, at position
+8.1, which suggests practical transport content is where this domain
+ranks most easily. See `SEO_NOTES.md` for the full data.
+
+79. [ ] **Renting a Car in Albania: What It Actually Costs and What Nobody Warns You About** — The next piece to write. Real 2026 daily rates by season, local agencies vs the international desks at Rinas, the deposit hold, what the green card covers, taking an Albanian rental into Kosovo, Montenegro and Greece, which roads genuinely need clearance and which are fine in a hatchback, fuel prices, parking in Tirana, the police stop etiquette. Pairs with and links to `is-albania-safe`, which already makes the case that Albania's real danger is the road.
+80. [ ] **Where to Stay in Albania: A Region-by-Region Guide** — Highest-value affiliate category after car rental. Tirana neighborhoods, Riviera villages vs Saranda, bujtina in the Alps, agroturizëm inland. Nothing on the site covers accommodation.
+81. [ ] **Tirana Airport to Anywhere: Every Transport Option from Rinas** — Airport transfer intent, the express bus, taxi fixed rates, the furgon connections, renting at arrivals. Short, practical, high commercial intent.
+82. [ ] **How Much Does Albania Cost? A Realistic 2026 Budget** — Expands idea 17 with current prices. Ranks for cost queries that already appear in Search Console across several languages.

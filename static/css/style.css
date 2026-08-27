@@ -799,3 +799,37 @@ hr {
     grid-template-columns: 1fr;
   }
 }
+
+/* ===== Affiliate ===== */
+
+.affiliate-disclosure {
+  margin-top: 0.85rem;
+  font-size: 0.78rem;
+  color: var(--text-secondary);
+  opacity: 0.85;
+  font-style: italic;
+}
+
+.affiliate-disclosure a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+}
+
+.book-box {
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--primary);
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+  margin: 1.75rem 0;
+  font-size: 0.95rem;
+}
+
+.book-box p {
+  margin-bottom: 0.5rem;
+}
+
+.book-box p:last-child {
+  margin-bottom: 0;
+}

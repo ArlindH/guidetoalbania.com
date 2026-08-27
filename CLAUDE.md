@@ -180,6 +180,53 @@ Rules for captions:
 - CC BY-SA and CC BY require both attribution and a license link.
   CC0 / public domain still needs a source link as courtesy.
 
+### Affiliate links (Travelpayouts)
+
+The site monetizes through Travelpayouts (account marker `770798`,
+traffic source `trs=567396`, dashboard: app.travelpayouts.com). The
+verification script in `layouts/partials/head.html` must stay.
+
+**Link format.** Construct links directly, no dashboard needed:
+
+```
+https://tp.media/r?campaign_id=<C>&marker=770798&p=<P>&trs=567396&u=<URL-ENCODED-TARGET>&sub_id=<short-article-id>
+```
+
+| Program | campaign_id | p | Default target |
+|---------|-------------|---|----------------|
+| Localrent (car rental) | 87 | 2043 | `https://www.localrent.com/en/albania/` |
+| Kiwitaxi (transfers) | 1 | 647 | `https://kiwitaxi.com/en/albania` |
+| Airalo (eSIM) | 541 | 8310 | `https://www.airalo.com/albania-esim` |
+| EKTA (travel insurance) | 225 | 5869 | `https://ektatraveling.com/` |
+
+URL-encode the `u=` target fully (`:` → `%3A`, `/` → `%2F`). The `u=`
+can point at any page on the partner's domain, so deep-link when a more
+specific page fits the context. More connected programs (Klook, Tiqets,
+Welcome Pickups, GetTransfer, Aviasales, Saily, Yesim, Go City) are in
+the dashboard; grab their ids from Create link → Show full link.
+GetYourGuide, DiscoverCars, Viator, Booking.com and Hostelworld are
+pending Travelpayouts' project review. Check the dashboard occasionally
+and add their ids here once unlocked.
+
+**Placement rules:**
+
+- Only in articles where the reader has a genuine booking need:
+  transport, hiking logistics, destination "Getting There" sections,
+  practical guides. Never in food, culture, or history pieces unless a
+  section is explicitly practical.
+- 1 to 3 links per article, inline in Elena's prose, at the exact moment
+  the need arises. No link walls, no deal boxes.
+- Elena recommends honestly. If the furgon is the better option, the
+  furgon stays the recommendation and the affiliate link is framed as
+  the alternative for those who want certainty or comfort.
+- Every affiliate link needs `target="_blank"
+  rel="sponsored nofollow noopener"` and a `sub_id` identifying the
+  article, for per-article tracking in Travelpayouts reports.
+- Set `affiliate: true` in the front matter of any article containing
+  affiliate links. This renders a disclosure line in the article header
+  (via `layouts/_default/single.html`) linking to
+  `/affiliate-disclosure/`. Required for FTC/EU compliance; do not skip.
+
 ### SEO notes
 
 Every article generates:
