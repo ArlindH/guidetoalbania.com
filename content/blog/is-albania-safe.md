@@ -86,7 +86,7 @@ The FCDO adds one more, which I mention because visitors find it startling: mino
 
 Real, but low grade, and mostly financial rather than physical.
 
-**Taxi overcharging** is the most common way visitors lose money, and Tirana airport is where it happens. The official fixed fare into the city is around 2,500 lekë. Unlicensed drivers in the arrivals area will quote 3,000 to 5,000. A Bolt ride is usually 1,100 to 1,500. Use the app, or use the official rank, and agree the fare before you get in anywhere else. If you would rather have the whole question settled before you land, a prebooked pickup through <a class="affil" href="https://tp.media/r?campaign_id=627&marker=770798&p=8919&trs=567396&u=https%3A%2F%2Fwww.welcomepickups.com%2Ftirana%2F&sub_id=is-albania-safe" target="_blank" rel="sponsored nofollow noopener">Welcome Pickups</a> is a fixed price with a named driver waiting in arrivals. It costs more than Bolt and considerably less than the men shouting taxi.
+**Taxi overcharging** is the most common way visitors lose money, and Tirana airport is where it happens. The official fixed fare into the city is around 2,500 lekë. Unlicensed drivers in the arrivals area will quote 3,000 to 5,000. A ride on one of the local apps, Patoko or Clust, usually runs 1,100 to 1,500; there is no Uber or Bolt here. Use an app, or use the official rank, and agree the fare before you get in anywhere else. If you would rather have the whole question settled before you land, a prebooked pickup through <a class="affil" href="https://tp.media/r?campaign_id=627&marker=770798&p=8919&trs=567396&u=https%3A%2F%2Fwww.welcomepickups.com%2Ftirana%2F&sub_id=is-albania-safe" target="_blank" rel="sponsored nofollow noopener">Welcome Pickups</a> is a fixed price with a named driver waiting in arrivals. It costs more than Bolt and considerably less than the men shouting taxi.
 
 **Pickpocketing** happens in the usual places: crowded markets, bus stations, the busier stretches of the Riviera in August, nightlife areas late on. Ordinary precautions are sufficient.
 
@@ -139,7 +139,7 @@ Catcalling exists at roughly southern European levels. Ignoring it works. The ho
 
 **Carry cash in lekë.** Not a safety issue exactly, but being stuck in a village with only a card is its own small emergency.
 
-**Sort your phone data before you fly.** Albania is outside EU free roaming, and the first phone bill after an unprepared week here is its own minor incident. An Albanian eSIM like <a class="affil" href="https://tp.media/r?campaign_id=541&marker=770798&p=8310&trs=567396&u=https%3A%2F%2Fwww.airalo.com%2Falbania-esim&sub_id=is-albania-safe" target="_blank" rel="sponsored nofollow noopener">Airalo</a> costs a few euros and means Bolt and your maps work from the arrivals hall, which is exactly where you need them.
+**Sort your phone data before you fly.** Albania is outside EU free roaming, and the first phone bill after an unprepared week here is its own minor incident. An Albanian eSIM like <a class="affil" href="https://tp.media/r?campaign_id=541&marker=770798&p=8310&trs=567396&u=https%3A%2F%2Fwww.airalo.com%2Falbania-esim&sub_id=is-albania-safe" target="_blank" rel="sponsored nofollow noopener">Airalo</a> costs a few euros and means the taxi apps and your maps work from the arrivals hall, which is exactly where you need them.
 
 **Tell someone your route** if you are hiking alone. Mobile coverage in the mountains is patchy.
 
