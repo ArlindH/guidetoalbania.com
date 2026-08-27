@@ -46,7 +46,7 @@ Summer also brings festivals. The Kala Festival in Dhërmi draws international D
 
 ## Autumn (September to October): The Season I Recommend Most
 
-If someone tells me they are flexible on dates, I tell them September. Every time. The sea is still warm, often 24 to 25°C through mid-October in Saranda. The summer crowds have gone home. The light turns golden and soft, and the whole country seems to exhale.
+If someone tells me they are flexible on dates, I tell them September. Every time. The sea is still warm, around 24 to 25°C in Saranda through September and still swimmable well into October. The summer crowds have gone home. The light turns golden and soft, and the whole country seems to exhale.
 
 September on the Riviera is a dream. You get the same beautiful water, the same open-air restaurants, but with space to breathe. Dhërmi and Himara feel like they belong to you again. Prices start dropping, and the locals are more relaxed, more willing to chat over a coffee.
 
@@ -64,7 +64,7 @@ But if you come with the right expectations, winter has its own quiet charm.
 
 The coast stays mild. Saranda rarely drops below 10 to 15°C, and you can walk the waterfront in a light jacket on sunny days. Vlorë is similar. Tirana gets grey and rainy through December and January, but it is a real city with good cafés, restaurants, and a growing cultural scene. A rainy afternoon at Bunk'Art or the National History Museum is time well spent.
 
-The mountains get properly cold. Korçë, sitting at altitude in the southeast, is Albania's unofficial winter capital. Its Christmas market (Pazari i Korçës) has become a beloved tradition, with mulled wine, local crafts, and a festive atmosphere that feels genuine rather than commercial. The town is beautiful under a dusting of snow.
+The mountains get properly cold. Korçë, sitting at altitude in the southeast, is Albania's unofficial winter capital. Its Christmas market, set up around the old bazaar, has become a beloved tradition, with mulled wine, local crafts, and a festive atmosphere that feels genuine rather than commercial. The town is beautiful under a dusting of snow.
 
 Skiing exists, but set your expectations accordingly. Dardha and Voskopojë offer basic facilities, more like ski-touring and cross-country terrain than groomed resort runs. If you are an adventurous skier who enjoys backcountry exploration, you might love it. If you want lifts and après-ski bars, look elsewhere.
 
