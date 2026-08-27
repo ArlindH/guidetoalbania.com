@@ -81,7 +81,7 @@ Both, ideally. The order matters and it is wine first.
 
 ## Beyond the City
 
-**The Osum canyon**, about an hour southeast. Twenty-six kilometres of gorge, up to a hundred metres deep in places. Rafting in spring when the water is high, swimming and scrambling in summer when it drops. This is a full day and one of the better ones in central Albania.
+**The Osum canyon**, about an hour southeast. Twenty-six kilometres of gorge, up to eighty metres deep in places. Rafting in spring when the water is high, swimming and scrambling in summer when it drops. This is a full day and one of the better ones in central Albania.
 
 **Mount Tomorr**, the mountain you can see from everywhere in Berat, is a sacred site to the Bektashi order with a pilgrimage every August to the tekke near the summit. If your dates fall in the last week of August, it is an extraordinary thing to witness, and it deserves more respect than a photo opportunity.
 

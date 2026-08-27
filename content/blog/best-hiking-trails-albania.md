@@ -22,9 +22,9 @@ Here are ten hikes I come back to again and again, organized from the easiest to
 
 This is where Tirana goes to breathe. The Dajti Ekspres cable car lifts you above the city in fifteen minutes, and from the top station you have a network of gentle trails through beech forest. On clear days, you can see all the way to the Adriatic.
 
-I used to hike Dajti on Sunday mornings with my father before we moved to Italy. It is not wilderness. There is a restaurant at the top and families picnicking everywhere. But the views of Tirana spreading across the plain below are genuinely stunning, and it costs almost nothing.
+I used to hike Dajti on Sunday mornings with my father before I moved to Italy. It is not wilderness. There is a restaurant at the top and families picnicking everywhere. But the views of Tirana spreading across the plain below are genuinely stunning, and it costs almost nothing.
 
-**Getting there:** The cable car departs from the eastern edge of Tirana. A taxi from the city center costs around 500-700 lekë. **Bring:** Comfortable shoes, sunscreen, water. Nothing technical required.
+**Getting there:** The cable car departs from the eastern edge of Tirana and rests on Tuesdays, so plan around it. A taxi from the city center costs around 500-700 lekë. **Bring:** Comfortable shoes, sunscreen, water. Nothing technical required.
 
 ## 2. Bovilla Lake from Tirana
 
@@ -44,7 +44,7 @@ The village of Theth sits in a valley so green and enclosed it feels like a secr
 
 I first did this hike in late June, when the wildflowers were at their peak. Entire hillsides of yellow and purple. The trail is mostly flat, well worn, and impossible to lose.
 
-**Getting there:** Theth is reached by minibus from Shkodër (3-4 hours on a rough but improving road). **Bring:** Swimsuit, towel, sandals for wading. The rocks around the Blue Eye are slippery.
+**Getting there:** Theth is reached by minibus from Shkodër, about two hours now that the road is fully paved. **Bring:** Swimsuit, towel, sandals for wading. The rocks around the Blue Eye are slippery.
 
 ## 4. Llogara Pass to Dhermi
 
@@ -104,7 +104,7 @@ The upper slopes are bare rock and scree. The wind can be ferocious. But from th
 
 The Karaburun Peninsula juts out into the Adriatic south of Vlorë. It is essentially uninhabited, covered in low scrub, and surrounded by some of the clearest water in the Mediterranean. Most people visit by boat, but you can hike in from Orikum along old military roads left over from the communist era.
 
-The landscape is stark, dry, and windswept. There is no water, no shade, and no help if something goes wrong. This is not a hike for beginners. But the isolation is profound, and the abandoned bunkers and submarine tunnels scattered along the coast give the walk a haunting quality unlike anything else in Albania.
+The landscape is stark, dry, and windswept. There is no water, no shade, and no help if something goes wrong. This is not a hike for beginners. But the isolation is profound, and the abandoned bunkers and military tunnels scattered along the coast give the walk a haunting quality unlike anything else in Albania.
 
 **Getting there:** From Orikum (south of Vlorë, reachable by bus), follow the coastal track south. Alternatively, hire a boat from Vlorë. **Bring:** GPS device or offline maps, minimum 3 liters of water per person, sun protection, camping gear if staying overnight.
 
@@ -118,7 +118,7 @@ This is not a casual hike. You will cross passes above 2,000 meters, ford stream
 
 I did the full circuit in 2023 with two friends from Shkodër. By day three my feet were destroyed. By day five I did not want to stop. By day ten, sitting in a café in Theth with a cold Korça beer, I understood something about these mountains I could not have learned any other way.
 
-**Getting there:** Most people start from Theth or Valbona. Book guesthouses in advance during July and August. **Bring:** Everything. Good boots, rain gear, layers, first aid kit, water purification, offline GPS maps, cash in three currencies.
+**Getting there:** Most people start from Theth or Valbona. Book guesthouses in advance during July and August, and arrange the cross-border permits for Montenegro and Kosovo a few weeks ahead; local agencies and guesthouses handle the paperwork for a small fee. **Bring:** Everything. Good boots, rain gear, layers, first aid kit, water purification, offline GPS maps, cash in lekë and euros (Montenegro and Kosovo both use the euro).
 
 ## Before You Go: Practical Tips for Hiking in Albania
 
