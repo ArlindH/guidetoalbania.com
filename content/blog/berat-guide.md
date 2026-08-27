@@ -47,7 +47,7 @@ So when you walk through the main gate you are not entering a monument, you are 
 - **The ruins of the Red Mosque** and its standalone minaret.
 - **The viewing platform** at the western end, looking down over Mangalem, the Osum, and out to Mount Tomorr.
 
-Twenty-odd churches survive within the walls in various states, which tells you something about how Berat worked: an Ottoman-governed town whose fortress quarter stayed largely Christian, with the mosque quarter below it, for four hundred years.
+Of the dozens of churches that once stood within the walls, fewer than ten survive in various states, which still tells you something about how Berat worked: an Ottoman-governed town whose fortress quarter stayed largely Christian, with the mosque quarter below it, for four hundred years.
 
 <figure>
   <img src="/images/berat/kala-lane.jpg" alt="A cobbled lane between stone walls inside a castle, with houses and greenery and a woman walking ahead.">
@@ -62,7 +62,7 @@ The two old quarters face each other across the Osum, connected by a stone footb
 
 **Gorica**, on the far bank, is where you should sleep. It is quieter, the guesthouses are cheaper, and crucially **you get the view instead of being in it.** Standing in Mangalem, you cannot see Mangalem.
 
-**The Gorica bridge** is the connective tissue. Seven arches, stone, originally wooden and rebuilt in the early 1900s, and the single best place in the city at dusk. Cross it at seven in the evening in September and the whole hillside is on.
+**The Gorica bridge** is the connective tissue. Seven arches, first built in wood in 1780, rebuilt in stone in the 1920s, and the single best place in the city at dusk. Cross it at seven in the evening in September and the whole hillside is on.
 
 <figure>
   <img src="/images/berat/gorica-bridge.jpg" alt="A stone arched footbridge crossing a shallow river, with wooded hills and old houses on the far bank.">
@@ -71,7 +71,7 @@ The two old quarters face each other across the Osum, connected by a stone footb
 
 ## Wine, and a Confession
 
-Berat is the centre of Albanian wine, and Albanian wine is genuinely one of the country's better-kept secrets. The indigenous grapes are the interesting part: **Shesh i Zi** and **Shesh i Bardhë**, black and white, grown here for centuries and grown almost nowhere else on earth.
+Berat is the centre of Albanian wine, and Albanian wine is genuinely one of the country's better-kept secrets. The indigenous grapes are the interesting part: **Shesh i Zi** and **Shesh i Bardhë**, black and white, Albanian natives grown almost nowhere else on earth.
 
 **Çobo** and **Nurellari** are the two estates most set up for visitors, both a short drive from town, both doing tastings with food. Ninety minutes to two hours is the right length. Nurellari's Montemeca took the prize for best Albanian wine back in 2011 and the estate has traded on it comfortably ever since, which is fair enough.
 
