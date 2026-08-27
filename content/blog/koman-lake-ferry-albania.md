@@ -55,7 +55,7 @@ Potholes, narrow stretches, sections where the asphalt gives up entirely. The mi
 
 The Berisha ferry company runs a minibus from Shkodër that departs at 6:45 in the morning from near Hotel Rozafa. It costs around 800 LEK (roughly 8 euros) and reaches Koman in time to board before the 9:00 departure. You can book the bus through the ferry company's website when you reserve your ferry ticket.
 
-If you are driving, the road is manageable in a regular car but slow. Allow at least an hour and a half from Shkodër. There is parking at the dock. And if you are renting for the northern loop, the local agencies on <a href="https://tp.media/r?campaign_id=87&marker=770798&p=2043&trs=567396&u=https%3A%2F%2Fwww.localrent.com%2Fen%2Falbania%2F&sub_id=koman-lake-ferry-albania" target="_blank" rel="sponsored nofollow noopener">Localrent</a> stock plenty of Duster-class small SUVs, which is exactly what this road wants.
+If you are driving, the road is manageable in a regular car but slow. Allow at least an hour and a half from Shkodër. There is parking at the dock. And if you are renting for the northern loop, the local agencies on <a class="affil" href="https://tp.media/r?campaign_id=87&marker=770798&p=2043&trs=567396&u=https%3A%2F%2Fwww.localrent.com%2Fen%2Falbania%2F&sub_id=koman-lake-ferry-albania" target="_blank" rel="sponsored nofollow noopener">Localrent</a> stock plenty of Duster-class small SUVs, which is exactly what this road wants.
 
 The early alarm is worth it. By the time you are standing on the deck with the engine warming up and the canyon walls beginning to glow in the morning light, the predawn alarm will feel like a reasonable trade.
 
@@ -99,7 +99,7 @@ October is quiet and atmospheric. The trees along the upper ridges turn amber an
 
 **Seating:** Head straight for the upper deck when you board. That is where the views are. The lower deck is for vehicles and offers almost no visibility.
 
-**Phone signal:** You will lose it shortly after leaving Koman and may not get it back until Fierza. Download offline maps before you go. An Albanian eSIM sorted in advance (<a href="https://tp.media/r?campaign_id=541&marker=770798&p=8310&trs=567396&u=https%3A%2F%2Fwww.airalo.com%2Falbania-esim&sub_id=koman-lake-ferry-albania" target="_blank" rel="sponsored nofollow noopener">Airalo</a> has plans from a few euros) makes the rest of the day's logistics easier, but nothing reaches into the canyon.
+**Phone signal:** You will lose it shortly after leaving Koman and may not get it back until Fierza. Download offline maps before you go. An Albanian eSIM sorted in advance (<a class="affil" href="https://tp.media/r?campaign_id=541&marker=770798&p=8310&trs=567396&u=https%3A%2F%2Fwww.airalo.com%2Falbania-esim&sub_id=koman-lake-ferry-albania" target="_blank" rel="sponsored nofollow noopener">Airalo</a> has plans from a few euros) makes the rest of the day's logistics easier, but nothing reaches into the canyon.
 
 **Photography:** Morning light hits the east-facing canyon walls first. Sit on the left side of the boat (heading toward Fierza) for the best light in the first hour. A polarizing filter cuts the glare off the water and brings out the turquoise.
 

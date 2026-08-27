@@ -7,6 +7,7 @@ description: "Albania's best season depends on what you want to do. Here is what
 categories: ["travel-tips"]
 tags: ["best-time-to-visit", "weather", "planning", "budget-travel", "summer", "shoulder-season"]
 draft: false
+affiliate: true
 ---
 
 People always ask me the same question: "Elena, when should I visit Albania?" And I always answer with another question: "What do you want to do?" Because this small country somehow manages to offer a completely different experience depending on the month you arrive.

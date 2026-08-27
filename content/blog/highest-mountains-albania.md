@@ -7,6 +7,7 @@ description: "From Mount Korab at 2,764 meters to the sacred slopes of Tomorr, h
 categories: ["destinations"]
 tags: ["mountains", "hiking", "albanian-alps", "korab", "jezerca", "tomorr", "outdoor-adventure"]
 draft: false
+affiliate: true
 ---
 
 Most people picture Albania as a Mediterranean beach destination, and yes, the coastline is gorgeous. But step inland and you will find a country defined by its mountains. Over 70 percent of Albania is mountainous terrain. Peaks above 2,000 meters line the borders, cut through the interior, and shape the culture of nearly every region.
@@ -108,6 +109,8 @@ I go up Dajt at least once a month, often on weekday mornings when it is quiet. 
 **Weather:** Albanian mountain weather changes fast. Clear mornings can turn to thunderstorms by early afternoon, especially in July and August. Start early and be prepared to turn back. Lightning above the treeline is genuinely dangerous.
 
 **Maps and navigation:** Offline maps are essential. Download OpenStreetMap data or the Albania hiking trails from Wikiloc before you leave your accommodation. Phone signal disappears quickly in the mountains.
+
+**Insurance:** Rescue up here is limited, and standard travel policies often exclude mountain hiking. Check yours before you fly, or pick up cover from a travel insurer like <a class="affil" href="https://tp.media/r?campaign_id=225&marker=770798&p=5869&trs=567396&u=https%3A%2F%2Fektatraveling.com%2F&sub_id=highest-mountains" target="_blank" rel="sponsored nofollow noopener">EKTA</a> and confirm hiking is included.
 
 **Shepherds and hospitality:** In the high pastures you may encounter shepherds (barinj) with their flocks. They are almost always friendly and sometimes insistent on offering you a glass of dhalle (a salted yogurt drink). Accept it. It is one of the best things you will ever taste at altitude, and refusing would be rude.
 

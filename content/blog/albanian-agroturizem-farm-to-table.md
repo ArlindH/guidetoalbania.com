@@ -6,6 +6,7 @@ description: "From Mrizi i Zanave to mountain tavernas above Korce, Albania has 
 categories: ["food-and-drink"]
 tags: ["agroturizem", "farm-to-table", "mrizi-i-zanave", "mullixhiu", "uka-farm", "slow-food", "albanian-wine"]
 draft: false
+affiliate: true
 ---
 
 The first time I ate at Mrizi i Zanave, I did not look at a menu because there is no menu. A young woman, Altin Prenga's niece I think, came to our table with a small notebook and asked what we did not eat. That was the only question. Allergies, dislikes, religious restrictions, she wrote it all down. An hour later, food started arriving and did not stop for three hours.
@@ -84,7 +85,7 @@ A few practical things I tell friends:
 
 - Book ahead. A phone call is often better than email. Many places do not accept cards. Bring cash.
 - Do not rush the meal. Two hours is a minimum. Three is normal. The waiter is not forgetting you. You are supposed to be sitting there.
-- Drive carefully. Most agroturizem places are down roads that are kind to tractors and less kind to rental cars. A small SUV helps in the north.
+- Drive carefully. Most agroturizem places are down roads that are kind to tractors and less kind to rental cars. A small SUV helps in the north, and the local agencies on <a class="affil" href="https://tp.media/r?campaign_id=87&marker=770798&p=2043&trs=567396&u=https%3A%2F%2Fwww.localrent.com%2Fen%2Falbania%2F&sub_id=agroturizem" target="_blank" rel="sponsored nofollow noopener">Localrent</a> rent exactly those.
 - Go hungry. Really hungry. Decline the bread basket until the third or fourth course, or you will regret it.
 
 ## Why It Matters

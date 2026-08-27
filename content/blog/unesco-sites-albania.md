@@ -7,6 +7,7 @@ description: "Albania has four UNESCO World Heritage sites spanning 3,000 years 
 categories: ["history"]
 tags: ["unesco", "butrint", "berat", "gjirokastra", "heritage"]
 draft: false
+affiliate: true
 ---
 
 Albania is a small country with a long memory. Within its borders sit four UNESCO World Heritage Sites that together span more than three thousand years of human history, from the stone foundations of an ancient Greek colony to the untouched beech forests that predate civilization itself. I have visited each of them more than once, in different seasons and different moods, and every return teaches me something new.
@@ -23,7 +24,7 @@ The path loops through the site and takes you past the Venetian tower, the basil
 
 ### Getting to Butrint
 
-From Saranda, Butrint is about 18 kilometers south. Local buses run along the road but schedules are unreliable, so a taxi (around 2,000-2,500 lekë one way) or a rental car is easier. The entrance fee is 1,000 lekë for adults. The site opens at 8:00 and closes at dusk, though I recommend going early in the morning before the cruise ship groups arrive from Corfu. The small museum near the entrance is worth the extra few minutes.
+From Saranda, Butrint is about 18 kilometers south. Local buses run along the road but schedules are unreliable, so a taxi (around 2,000-2,500 lekë one way) or a rental car is easier. If you are doing the full southern loop by car anyway, the local agencies on <a class="affil" href="https://tp.media/r?campaign_id=87&marker=770798&p=2043&trs=567396&u=https%3A%2F%2Fwww.localrent.com%2Fen%2Falbania%2F&sub_id=unesco-sites" target="_blank" rel="sponsored nofollow noopener">Localrent</a> deliver cars in both Tirana and Saranda. The entrance fee is 1,000 lekë for adults. The site opens at 8:00 and closes at dusk, though I recommend going early in the morning before the cruise ship groups arrive from Corfu. The small museum near the entrance is worth the extra few minutes.
 
 ## Berat: The City of a Thousand Windows
 

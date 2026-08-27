@@ -6,6 +6,7 @@ description: "From Greek colony to Roman city to Byzantine bishopric, Butrint la
 categories: ["history"]
 tags: ["butrint", "saranda", "unesco", "archaeology", "greek", "roman", "byzantine", "southern-albania"]
 draft: false
+affiliate: true
 ---
 
 The sound that stays with me from Butrint is not what you would expect. Not a guide's voice or the click of cameras. It is the silence. I walked through the Lion Gate on an October morning with fog still hanging over the Vivari Channel, and the only sound was water dripping from oak branches onto two-thousand-year-old stone. For a moment I forgot what century I was in.

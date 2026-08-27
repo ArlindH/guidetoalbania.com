@@ -7,6 +7,7 @@ description: "Albania's hiking trails pass through accursed mountains, hidden ca
 categories: ["destinations"]
 tags: ["hiking", "valbona", "theth", "peaks-of-the-balkans", "outdoor-adventure", "trails"]
 draft: false
+affiliate: true
 ---
 
 I love our beaches. I really do. But every summer I watch tourists fly into Tirana, transfer straight to Ksamil, and leave without ever seeing the Albania that made me fall in love with this country in the first place. The mountains.
@@ -127,9 +128,11 @@ I did the full circuit in 2023 with two friends from Shkodër. By day three my f
 
 **Guides.** For the Peaks of the Balkans or any multi-day route, consider a local guide. They know the trails, they know the weather patterns, and they can arrange guesthouse stays. In Theth and Valbona, ask at your guesthouse for recommendations.
 
+**Getting to trailheads.** Half of these hikes have no public transport option at all. A rental car for the mountain days solves it, and the local agencies on <a class="affil" href="https://tp.media/r?campaign_id=87&marker=770798&p=2043&trs=567396&u=https%3A%2F%2Fwww.localrent.com%2Fen%2Falbania%2F&sub_id=famous-hiking-trails" target="_blank" rel="sponsored nofollow noopener">Localrent</a> stock 4x4s for the rougher approaches, not just city cars.
+
 **Trail conditions.** Many trails double as shepherds' paths and can be muddy, overgrown, or washed out after rain. Flexible plans are wise. If a local tells you a trail is not passable, listen to them.
 
-**Safety.** Mobile phone coverage is limited or absent in mountain areas. Tell someone where you are going and when you expect to return. Carry a basic first aid kit and know how to use it.
+**Safety.** Mobile phone coverage is limited or absent in mountain areas. Tell someone where you are going and when you expect to return. Carry a basic first aid kit and know how to use it. And carry insurance that actually covers hiking, because mountain rescue here is not the Alpine service you may be used to. A travel insurer like <a class="affil" href="https://tp.media/r?campaign_id=225&marker=770798&p=5869&trs=567396&u=https%3A%2F%2Fektatraveling.com%2F&sub_id=famous-hiking-trails" target="_blank" rel="sponsored nofollow noopener">EKTA</a> covers Albania; whichever you use, check the hiking clause.
 
 **Best overall months.** July and August offer the most reliable weather, but also the most crowded trails (by Albanian standards, "crowded" still means you might see twenty people all day). June and September are ideal for those who prefer solitude and do not mind the occasional afternoon thunderstorm.
 

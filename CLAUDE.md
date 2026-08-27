@@ -219,13 +219,19 @@ and add their ids here once unlocked.
 - Elena recommends honestly. If the furgon is the better option, the
   furgon stays the recommendation and the affiliate link is framed as
   the alternative for those who want certainty or comfort.
-- Every affiliate link needs `target="_blank"
+- Every affiliate link needs `class="affil" target="_blank"
   rel="sponsored nofollow noopener"` and a `sub_id` identifying the
-  article, for per-article tracking in Travelpayouts reports.
+  article, for per-article tracking in Travelpayouts reports. The
+  `affil` class styles the link with a gold underline and an arrow so
+  readers can tell booking links from internal ones.
 - Set `affiliate: true` in the front matter of any article containing
-  affiliate links. This renders a disclosure line in the article header
-  (via `layouts/_default/single.html`) linking to
-  `/affiliate-disclosure/`. Required for FTC/EU compliance; do not skip.
+  affiliate links. This renders two things automatically: a disclosure
+  line in the article header (FTC/EU compliance; do not skip) and the
+  "Plan the practical bits" card strip after the article body
+  (`layouts/partials/trip-strip.html`, one card each for Localrent,
+  Kiwitaxi, Airalo, EKTA with `sub_id=strip-<filename>`). Because the
+  strip always renders, keep inline links to the 1 to 3 that fit the
+  prose; do not hand-build link lists at the end of articles.
 
 ### SEO notes
 
