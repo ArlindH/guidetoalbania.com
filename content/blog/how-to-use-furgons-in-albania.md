@@ -23,7 +23,7 @@ You will not find furgons on Google Maps. There is no app. There are no printed 
 
 ## How Furgons Work: The Basics
 
-**Finding the departure point.** Every city has an informal furgon station, usually near the main bus terminal but sometimes a completely different location. In Tirana, most furgons to the south leave from near the old Dogana area, while northern routes leave from near Zogu i Zi roundabout. Ask your hotel or guesthouse the night before. The question you need is: "Ku nisin furgonët për [destination]?" (Where do the furgons to [destination] leave from?)
+**Finding the departure point.** Every city has an informal furgon station, usually near the main bus terminal but sometimes a completely different location. In Tirana, most northern and southern routes now leave from the combined regional terminal out near Casa Italia, Durrës services run from Zogu i Zi, and eastern routes go from the terminal at Tirana East Gate. Ask your hotel or guesthouse the night before anyway, because departure points have a habit of moving. The question you need is: "Ku nisin furgonët për [destination]?" (Where do the furgons to [destination] leave from?)
 
 **Departure times.** Morning is king. Most furgons start running between 6:00 and 7:00 AM, with the most frequent departures before 10:00 AM. By early afternoon, service thins out. After 3:00 or 4:00 PM, you may not find one at all on less popular routes. There is no last furgon, there is just a point in the day when drivers go home.
 
@@ -39,16 +39,16 @@ Prices are remarkably consistent and rarely negotiated. Here are the routes trav
 
 | Route | Duration | Price (LEK) | Price (approx. EUR) |
 |-------|----------|-------------|---------------------|
-| Tirana → Berat | 2.5 hours | 400 | ~3.50 |
-| Tirana → Gjirokastër | 4.5 hours | 800 | ~7.00 |
-| Tirana → Sarandë | 5-6 hours | 800-1000 | ~7-9 |
-| Tirana → Shkodër | 2 hours | 300 | ~2.50 |
-| Tirana → Durrës | 40 minutes | 150 | ~1.30 |
-| Shkodër → Theth | 3 hours | 1000 | ~9.00 |
-| Sarandë → Gjirokastër | 1.5 hours | 300 | ~2.50 |
-| Sarandë → Ksamil | 20 minutes | 100 | ~0.90 |
-| Berat → Përmet | 3 hours | 500 | ~4.50 |
-| Korçë → Pogradec | 1 hour | 200 | ~1.75 |
+| Tirana → Berat | 2.5 hours | 400-500 | ~4.50 |
+| Tirana → Gjirokastër | 3.5-4 hours | 1,200 | ~13 |
+| Tirana → Sarandë | 4.5-5.5 hours | 1,300-1,600 | ~14-17 |
+| Tirana → Shkodër | 2 hours | 300-400 | ~3.50 |
+| Tirana → Durrës | 40 minutes | 150-200 | ~2 |
+| Shkodër → Theth | 2 hours | 1,000-1,200 | ~12 |
+| Sarandë → Gjirokastër | 1.5 hours | 300 | ~3.20 |
+| Sarandë → Ksamil | 20 minutes | 100-150 | ~1.30 |
+| Berat → Përmet | 3 hours | 500 | ~5.50 |
+| Korçë → Pogradec | 1 hour | 200 | ~2.20 |
 
 These prices change slightly by season and are a little higher in summer when demand spikes. But you will never be overcharged by much. Furgon drivers are honest about fares because their regulars would call them out immediately.
 
