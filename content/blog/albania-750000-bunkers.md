@@ -106,7 +106,7 @@ That attitude, the refusal to be defeated by the remnants of a terrible era, is 
 - **Photography**: Bunkers are everywhere and always accessible. The small QZ domes make striking foreground subjects with beaches or mountains behind them.
 - **Going inside**: Most small bunkers are open and you can step in, but watch your footing. The interiors are dark, often damp, and sometimes used by animals or as informal trash dumps. Bring a phone flashlight.
 - **Context**: If you want to understand the bunkers before you see them, visit Bunk'Art 2 first. It is central, manageable in an hour, and will change how you look at every bunker you encounter afterward.
-- **Combine with**: The existing communist-era sites in Tirana pair well. Do Bunk'Art 2 and the House of Leaves (Shtëpia e Gjetheve) in a morning, then spot bunkers in the wild as you travel the country.
+- **Combine with**: The existing communist-era sites in Tirana pair well. Do Bunk'Art 2 and the House of Leaves (Shtëpia me Gjethe) in a morning, then spot bunkers in the wild as you travel the country.
 
 ## A Final Image
 

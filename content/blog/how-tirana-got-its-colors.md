@@ -22,7 +22,7 @@ When communism fell in 1991, nothing coherent replaced that system for almost a 
 
 ## The Artist Who Ran for Mayor
 
-Edi Rama was not a typical politician. He had been a painter and a basketball player, taught at the Academy of Arts, and had exhibited in Paris and New York. When he ran for mayor of Tirana in 2000, he was 35 years old and had held more art shows than public offices.
+Edi Rama was not a typical politician. He had been a painter and a basketball player, taught at the Academy of Arts, and had exhibited in Paris and New York. When he ran for mayor of Tirana in 2000, he was 36 years old and had held more art shows than public offices.
 
 Within weeks of taking power he started doing two things at once. He tore down illegal buildings that had been thrown up along the river Lana, opening the riverbanks back to the city. And he started painting the pallate.
 
@@ -48,9 +48,9 @@ What is harder to dispute is the visual effect. A city that had looked abandoned
 
 This is the part that usually gets left out of the colorful-walls story.
 
-Rama left the mayor's office in 2011 and became leader of the Socialist Party. He has been prime minister of Albania since 2013, which at the time of writing makes him the longest-serving head of government in the country's modern history. He is a polarizing figure. Opposition parties, and a meaningful share of Albanian voters, accuse his government of entrenching one-party control of state institutions, tolerating high-level corruption, and pushing through urban demolitions and redevelopment in Tirana that have benefited politically connected developers. Multiple former ministers and officials in his governments have been investigated or charged by SPAK, Albania's special anti-corruption prosecutor. Protests against his government have been a regular feature of Tirana life for several years.
+Rama took over the leadership of the Socialist Party in 2005, while still mayor, and left the mayor's office in 2011 after losing his re-election bid by a famously thin margin. He has been prime minister of Albania since 2013, which at the time of writing makes him the longest-serving prime minister since the fall of communism. He is a polarizing figure. Opposition parties, and a meaningful share of Albanian voters, accuse his government of entrenching one-party control of state institutions, tolerating high-level corruption, and pushing through urban demolitions and redevelopment in Tirana that have benefited politically connected developers. Multiple former ministers and officials in his governments have been investigated or charged by SPAK, Albania's special anti-corruption prosecutor. Protests against his government have been a regular feature of Tirana life for several years.
 
-None of this erases what the painting program did for the look of the city. But anyone walking past a rainbow facade should know that the man behind it is not a uncomplicated reformer from a storybook. He is a serving politician with a long and contested record, and opinions of him in Albania run strongly in both directions.
+None of this erases what the painting program did for the look of the city. But anyone walking past a rainbow facade should know that the man behind it is not an uncomplicated reformer from a storybook. He is a serving politician with a long and contested record, and opinions of him in Albania run strongly in both directions.
 
 ## Where to See the Painted Buildings Today
 

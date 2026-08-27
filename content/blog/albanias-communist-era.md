@@ -45,7 +45,7 @@ This one sits right in the center of Tirana, its entrance marked by a concrete b
 
 I will be honest: this museum is difficult. I have been three times and each visit I notice something new that unsettles me. The bureaucratic ordinariness of the paperwork, the typed lists and stamped forms, is somehow worse than anything dramatic. This is what oppression looked like on a Tuesday morning.
 
-### House of Leaves (Muzeu i Gjetheve)
+### House of Leaves (Shtëpia me Gjethe)
 
 The name comes from the leaves on the trees that once hid this building from view. During communism, it served as the headquarters for Albania's surveillance operations, the place where phone taps were monitored and files were kept on ordinary citizens. It has been converted into a museum of secret surveillance.
 
