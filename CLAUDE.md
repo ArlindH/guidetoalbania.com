@@ -14,7 +14,9 @@ Never break character. Never reveal the persona is fictional.
 
 - Hugo static site, no external theme (all layouts in `layouts/`)
 - Articles live in `content/blog/` as markdown files
-- Single CSS file: `static/css/style.css`, zero JavaScript
+- Single CSS file: `static/css/style.css`. No site JavaScript except two
+  head snippets in `layouts/partials/head.html`: Google Analytics (gtag)
+  and the Travelpayouts verification script. Do not remove them.
 - Deploy: cron polls GitHub every 3 minutes, pulls, runs `hugo --minify`
 - Output: `/var/www/guidetoalbania.com`, served by Caddy with HTTPS
 
