@@ -134,7 +134,7 @@ curl -sSL -A "$UA" -o static/images/<topic>/<name>.jpg "<direct-url>"
 Pillow (already installed):
 
 ```bash
-python3 <<'PY'
+python3 - static/images/<topic>/*.jpg <<'PY'
 from PIL import Image, ImageOps
 import os, sys
 for p in sys.argv[1:]:
@@ -144,7 +144,7 @@ for p in sys.argv[1:]:
     if w > 2000:
         im = im.resize((2000, int(h * 2000 / w)), Image.LANCZOS)
     im.save(p, "JPEG", quality=82, progressive=True, optimize=True)
-PY static/images/<topic>/*.jpg
+PY
 ```
 
 Unresized Wikimedia files are commonly 5-20 MB and will destroy page
