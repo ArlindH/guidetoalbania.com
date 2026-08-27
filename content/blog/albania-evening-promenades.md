@@ -14,8 +14,8 @@ Every Albanian city keeps one street for the evening. Not always the widest stre
 Treat it as a field guide. None of these places charge admission, none need booking, and the only planning required is arriving before sunset with a little cash in your pocket for ice cream.
 
 <figure>
-  <img src="/images/promenades/korce-boulevard-cathedral.jpg" alt="Tree-lined boulevard in Korçë leading to the domed Resurrection Cathedral, with a statue, strolling people, and mountains behind the city.">
-  <figcaption>Bulevardi Shën Gjergji in Korçë runs straight to the Resurrection Cathedral. The city's original cathedral was demolished in the atheist campaign of 1968; this one went up in 1995, so the evening walk now ends, literally, at a resurrection. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Kor%C3%A7a_02.jpg">ShkelzenRexha</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/promenades/shkoder-kole-idromeno.jpg" alt="Aerial view of Shkodra's pedestrian Kolë Idromeno street with cafe umbrellas and stalls, the dome of a mosque on the left and a clock tower behind.">
+  <figcaption>Shkodra's Rruga Kolë Idromeno from above in spring 2025: one street, no cars, and the full evening economy of cafes and stalls that a xhiro needs. Every city in this guide keeps a street like this one. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Kol%C3%AB_Idromeno_St._Shkodra_02.jpg">Arianit Dobroshi</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## How the evening works
@@ -33,8 +33,8 @@ The biggest seafront walk in Albania starts at Sheshi i Flamurit (Flag Square), 
 On a July evening the Lungomare is less a walk than a slow river: families five across, joggers weaving, vendors selling misër i pjekur (grilled corn) off charcoal carts, an amphitheatre facing the water, kids treating the circular concrete platform by the shore as a stage. The path gives out toward Uji i Ftohtë, the Cold Water district at the south end, and construction pushes it further toward Radhimë and Orikum every year. The Lungomare is still growing.
 
 <figure>
-  <img src="/images/promenades/vlore-lungomare-palms.jpg" alt="Young palm trees in a row along Vlora's wide seafront promenade, with the bay and mountains in the distance.">
-  <figcaption>The Lungomare in the dead calm of mid-afternoon. Come back at eight on a summer evening and every meter of this pavement is claimed. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Lungomare_area_in_Vlor%C3%AB,_south_Albania.jpg">Leeturtle</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/promenades/vlore-lungomare-walk.jpg" alt="Mosaic-paved promenade in Vlorë lined with pine trees, people strolling and a man cycling, with the town beach and the bay alongside.">
+  <figcaption>The Lungomare's mosaic paving and pines, the town beach running alongside. This is the quiet shoulder-season version; on a July evening every meter of it is claimed. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Coastal_walk_in_Vlore_-_Albania,_2023.jpg">Melissamarzo</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ### Durrës: the Vollga
@@ -44,8 +44,8 @@ Officially the seafront here is Shetitorja Taulantia, a kilometer and a half of 
 This is the loudest, most carnival xhiro in the country. Stalls, popcorn, candy floss, fairground rides, and, near the water, the improbable bronze quartet of John Lennon, Mick Jagger, Bob Dylan, and Tina Turner, which every teenager in Durrës treats as a photo backdrop. Durrës sits barely half an hour from Tirana's airport, so if you land in the late afternoon you can drop your bags and be on the Vollga for your first Albanian sunset. A <a class="affil" href="https://tp.media/r?campaign_id=1&marker=770798&p=647&trs=567396&u=https%3A%2F%2Fkiwitaxi.com%2Fen%2Falbania%2Ftirana-airport&sub_id=albania-evening-promenades" target="_blank" rel="sponsored nofollow noopener">prebooked transfer from the airport</a> makes that painless with luggage; the furgon from Tirana works fine without it.
 
 <figure>
-  <img src="/images/promenades/durres-vollga-promenade.jpg" alt="Wide brick-paved seafront promenade in Durrës with a palm tree, an Albanian flag, strolling people, and a fairground carousel at the edge.">
-  <figcaption>The Vollga warming up in the late afternoon. The carousel on the left is not an accident; the Durrës xhiro comes with fairground rides, and the whole city out at once. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Durr%C3%ABs_sea_promenade.jpg">Gertjan R.</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/promenades/durres-vollga-fisherman.jpg" alt="Bronze statue of a seated fisherman holding a rod on white rocks at the Durrës waterfront, with boats, a modern pier and the city in the background.">
+  <figcaption>The bronze Fisherman keeps his line in the water off the Vollga, photographed in July 2026. The pier curving out over the bay behind him is the promenade's newest chapter. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:The_Fisherman,_Vollga_Waterfront,_Durr%C3%ABs,_Albania_by_Roy_Lindman.jpg">Roy Lindman</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ### Sarandë: Bulevardi Hasan Tahsini
@@ -63,8 +63,8 @@ Pogradec's lakeside promenade is my favorite antidote to the coast. Two kilomete
 The cafes here hang wooden jetties out over the lake, the restaurants serve koran (the Ohrid trout, order it grilled), and the wooden pavilions along the shore fill with pensioners playing cards from mid-afternoon, warming up hours before the walkers arrive. At dusk the light goes low and pink across the water and the mountains of North Macedonia turn purple on the far shore. Nobody hurries. Nobody has anywhere to be. It is the xhiro reduced to its essence.
 
 <figure>
-  <img src="/images/promenades/pogradec-lakeside-pavilions.jpg" alt="Elderly men playing cards on benches under two wooden pavilions beside Lake Ohrid, with autumn trees above and a man walking toward them.">
-  <figcaption>The pavilions on Pogradec's shore, where the day's first shift of the evening ritual is played out in cards and dominoes long before the walking starts. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Pogradec,_Albania_%E2%80%93_Promenade_2018_20.jpg">Pasztilla aka Attila Terbócs</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/promenades/pogradec-lakefront-summer.jpg" alt="Aerial view of Pogradec's shoreline in summer, with a town beach full of umbrellas and swimmers, a jetty, apartment blocks and dry mountains behind.">
+  <figcaption>Pogradec's lakefront in high summer, beach and promenade sharing the same strip of shore. By evening the umbrellas fold away and the walkers take over. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Pogradec,_Albania_2023.jpg">Killographer</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## The inland cities
@@ -74,6 +74,11 @@ The cafes here hang wooden jetties out over the lake, the restaurants serve kora
 My favorite xhiro in the country, and I have said so before. The boulevard is pedestrian end to end, lined with trees and cafes, running from the red-brick viewing tower by the Old Bazaar straight down to the Resurrection Cathedral. Korçë sits high, so the evening air is cool even in August, and in autumn the whole walk smells of gështenja të pjekura (roasted chestnuts) sold in paper cones from carts.
 
 Listen as you walk. If you hear men singing in close harmony somewhere off the boulevard, that is the serenata korçare, the city's own tradition of strolling love songs, still alive at weddings and on warm nights. An aunt of mine lives here and hosted my first proper xhiro years ago, so I am biased. I am also right. Korçë walks its boulevard with a seriousness no other city matches.
+
+<figure>
+  <img src="/images/promenades/korce-resurrection-cathedral.jpg" alt="Front steps of the Resurrection Cathedral in Korçë, a red carpet running up white stone stairs toward twin bell towers and a dome under a deep blue sky.">
+  <figcaption>The Resurrection Cathedral, where the boulevard ends. The city's original cathedral was dynamited in the atheist campaign of 1968; this one rose in 1995, so Korçë's evening walk now finishes, literally, at a resurrection. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Katedralja_Kor%C3%A7%C3%AB_%E2%80%9CNgjallja_e_Krishtit%E2%80%9D.jpg">Arbenllapashtica</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</span></figcaption>
+</figure>
 
 ### Berat: Bulevardi Republika
 
@@ -89,11 +94,6 @@ Locals just say Pedonalja, the walking street. It is named for Kolë Idromeno, t
 
 When the street feels done, go ten minutes west to Shiroka on Lake Shkodra for the lakeside second act, where the sun sets behind the water and the fish restaurants take over the evening.
 
-<figure>
-  <img src="/images/promenades/shkoder-kole-idromeno.jpg" alt="Aerial view of Shkodra's pedestrian Kolë Idromeno street with cafe umbrellas and stalls, the dome of a mosque on the left and a clock tower behind.">
-  <figcaption>Pedonalja from above, with the Ebu Bekr Mosque on the left and the clock tower behind. By early evening the space between those umbrellas disappears entirely. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Kol%C3%AB_Idromeno_St._Shkodra_02.jpg">Arianit Dobroshi</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
-</figure>
-
 ## Tirana: choose your xhiro
 
 The capital refuses to pick one street, so you have to pick for yourself.
@@ -103,8 +103,8 @@ The capital refuses to pick one street, so you have to pick for yourself.
 Blloku is something else: less walking, more being seen, and by ten the xhiro there has dissolved into [Tirana's nightlife](/blog/nightlife-in-albania/) proper. My advice is to walk the square at sunset, then eat at Pazari i Ri, the rebuilt new bazaar ringed with grills and raki bars, ten minutes away on foot.
 
 <figure>
-  <img src="/images/promenades/tirana-skanderbeg-evening.jpg" alt="Skanderbeg Square in Tirana at dusk, with people walking and cycling across the open paving past the Opera building, clock tower, and minaret.">
-  <figcaption>Skanderbeg Square at dusk, mid-xhiro. Cars were pushed out in 2017; the walkers, cyclists, and rented toy cars moved in the same evening and never left. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Skanderbeg_Square_at_evening_(OSCAL19_trip).jpg">albinfo</a>, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, via Wikimedia Commons.</span></figcaption>
+  <img src="/images/promenades/tirana-skanderbeg-night.jpg" alt="Skanderbeg Square in Tirana at night, wet paving reflecting the lights of the Opera, the Tirana International Hotel and an illuminated tower.">
+  <figcaption>Skanderbeg Square after dark in 2025, rain-glazed and still in use. Since cars were pushed out in 2017, the square has been the capital's walking ground at every hour and in every weather. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Tirana_2025_Skanderbeg-Square_at_night.jpg">Albinfo</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## Stringing them together
