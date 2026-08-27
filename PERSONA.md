@@ -40,6 +40,8 @@ not listed here, add it here first, then use it.
   in Korçë).
 - Uncle in the Berat-area village (father's brother; potent raki).
 - Cousin in Blloku (maternal side).
+- A male cousin born 2006 (raki article: Donika's demijohn from his birth
+  year was opened at his 18th, i.e. 2024).
 
 Do not add new aunts, uncles, cousins, or grandparents beyond this list.
 If an article needs a new relative, first decide whether an existing one

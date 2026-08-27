@@ -30,13 +30,13 @@ If you spend time in different corners of Albania, you learn that raki is not on
 
 **Përmet**, further south in the Vjosa valley, is mulberry country. Raki mani, made from wild black mulberries that grow along the riverbanks, has a deeper, almost jammy quality. It is my personal favorite, though I know this is a controversial opinion in grape-raki households. The best Përmet raki tastes faintly of dried fruit and summer heat.
 
-**Korça** and the surrounding southeast produce plum raki, raki kumbulle, which is softer and rounder than the grape versions. Plum raki pairs beautifully with the long Korça winters and the heavy food that goes with them.
+**Korça** and the surrounding southeast make solid grape raki, and in the orchard villages you will also find cherry and plum versions, poured with the long Korça winters and the heavy food that goes with them in mind.
 
-**Tropoja and the far north** are where you find the wild mulberry raki and the occasional walnut or quince version. The north is also where the home distillation tradition feels most unbroken. In some villages in the Albanian Alps, nearly every household still makes its own.
+**Tropoja and the far north** are plum country. The Tropoja black plum, an old local variety sweeter than any other plum in Albania, goes into jams, compotes, and a raki kumbulle with real character, softer and rounder than the grape versions. The north is also where the home distillation tradition feels most unbroken. In some villages in the Albanian Alps, nearly every household still makes its own.
 
 **Berat, Vlora, and the central coast** mostly make grape raki, though the quality varies wildly depending on the family. Vlora's version often has a slightly sweeter edge from the coastal grape varieties.
 
-If you want to taste the differences side by side, the Tirana Expo Albania fair in the autumn or any serious mountain guesthouse will usually have three or four regional rakis on offer. Ask, compare, take notes. Your second glass will taste different from your first, and not only because of the alcohol.
+If you want to taste the differences side by side, the autumn agricultural fairs in Tirana or any serious mountain guesthouse will usually have three or four regional rakis on offer. Ask, compare, take notes. Your second glass will taste different from your first, and not only because of the alcohol.
 
 ## How Raki Is Actually Made
 
@@ -72,7 +72,7 @@ The best raki makers distill twice. The second pass cleans up the spirit further
 
 ### Step 4: Resting
 
-Fresh raki is harsh. It needs time to settle, and most families let it rest for at least a few weeks, often a few months, in glass demijohns before drinking. Some age it much longer. My great-aunt keeps a demijohn of her grape raki from the year my cousin was born, and when he turned eighteen, we opened it. I cannot tell you it was better than one-year raki. I can tell you it tasted like her kitchen, and like 2006, and like a family that had waited.
+Fresh raki is harsh. It needs time to settle, and most families let it rest for at least a few weeks, often a few months, in glass demijohns before drinking. Some age it much longer. My great-aunt kept a demijohn of her grape raki from the year my cousin was born, and when he turned eighteen, we opened it. I cannot tell you it was better than one-year raki. I can tell you it tasted like her kitchen, and like 2006, and like a family that had waited.
 
 ### A Legal Note
 
