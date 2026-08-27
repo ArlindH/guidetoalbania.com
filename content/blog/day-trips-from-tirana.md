@@ -55,7 +55,7 @@ The **Roman amphitheatre** is the reason to go: the largest in the Balkans, buil
 
 The Dajti Ekspres cable car starts at the eastern edge of Tirana and climbs to about 1,050 metres in fifteen minutes, and the view back over the city and the plain to the Adriatic is the best in central Albania.
 
-**Cost:** around 1,500 lekë return, so roughly 16 euro, which makes it the most expensive thing per minute in this article and still worth it once.
+**Cost:** around 1,500 lekë return, so roughly 16 euro, which makes it the most expensive thing per minute in this article and still worth it once. Note that the cable car rests on Tuesdays, so do not save it for the wrong day.
 
 **Getting to the bottom station:** any taxi from the centre, fifteen minutes. There is also a city bus to Porcelan and a short walk.
 
