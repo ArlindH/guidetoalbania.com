@@ -92,7 +92,7 @@ Researched 2026-04-06. Check off ideas as they get published.
 56. [x] **How to Get a SIM Card and Stay Connected in Albania** — Vodafone vs. One, tourist packs, eSIM options, Balkan roaming zone, signal coverage. Constantly searched, existing guides outdated.
 57. [ ] **Albania by Campervan: Wild Camping, Regulations, and the Best Spots** — Wild camping tolerated in rural and coastal areas, 100+ registered campsites. Vanlife content booming, Albania is campervan-friendly.
 58. [ ] **Tipping in Albania: What Locals Actually Expect** — 5-10% at restaurants, round up for coffee, always use lek not euros. Quick, practical, constantly searched.
-59. [ ] **The Complete Albania Itinerary: 7, 10, and 14 Days** — Three itineraries with realistic driving times, furgon connections, where to linger vs. pass through. Top-5 Albania travel search.
+59. [x] **The Complete Albania Itinerary: 7, 10, and 14 Days** — Three itineraries with realistic driving times, furgon connections, where to linger vs. pass through. Top-5 Albania travel search.
 60. [ ] **Working Remotely from Albania: Digital Nomad Guide to Tirana** — Coworking for $100-150/month, 50+ Mbps internet, apartments $300-500, cafe culture, visa rules. Europe's best-value nomad base.
 61. [ ] **Albania vs. Greece vs. Croatia: An Honest Comparison for Beach Lovers** — Same water, fraction of the price, tenth of the crowds, less infrastructure. Comparison content ranks for multiple country searches.
 62. [ ] **What No One Tells You About Albania: 20 Surprises for First-Time Visitors** — Head nod means no, power cuts happen, coffee is a two-hour event, cash is king. Addresses "what I wish I knew" search intent.
