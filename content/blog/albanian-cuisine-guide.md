@@ -39,7 +39,7 @@ It is particularly associated with Tirana, and in September when the peppers are
 
 Qofte are small, oblong grilled meatballs made from a mix of beef and lamb, seasoned with onion, parsley, cumin, and sometimes a pinch of dried mint. They come off the grill charred on the outside and juicy within, served on a plate with raw onion, bread, and a squeeze of lemon.
 
-Korçë is the undisputed capital of qofte in Albania. The city has an entire culture around its qoftore, grill shops where the charcoal burns all day and the qofte are shaped by hand each morning. My favorite is Taverna Korca on the main boulevard, where the smoke from the grill meets you a full block before you arrive. Two portions of qofte, a tomato salad, bread, and a Korça beer will cost you around 800 LEK and leave you needing a walk.
+Korçë is the undisputed capital of qofte in Albania. The city has an entire culture around its qoftore, grill shops where the charcoal burns all day and the qofte are shaped by hand each morning. My favorite is Taverna Vasili, tucked a street back from the boulevard, where the smoke from the grill reaches you before you can see the door. Two portions of qofte, a tomato salad, bread, and a Korça beer will cost you around 800 LEK and leave you needing a walk.
 
 ## Flija: A Labor of Love
 
@@ -95,15 +95,15 @@ Baklava is deeply connected to Bajram (Eid), when Muslim families across Albania
 
 ## Raki: The Spirit of Albania
 
-No guide to Albanian food is complete without raki. This clear fruit brandy, most commonly made from grapes (rrushi) or plums (kumbulle), is distilled in homes across the country every autumn. The smell of raki being distilled, sweet and sharp and faintly smoky, is the smell of Albanian October.
+No guide to Albanian food is complete without raki. This clear fruit brandy, most commonly made from grapes (rrush) or plums (kumbulla), is distilled in homes across the country every autumn. The smell of raki being distilled, sweet and sharp and faintly smoky, is the smell of Albanian October.
 
 Raki is served before meals, with meals, after meals, and at every significant life event from births to funerals. It is offered to guests the moment they sit down. Refusing is technically possible, but it will confuse your host. A small glass, neat, at room temperature. You sip. You do not shoot it.
 
-In the south, especially around Përmet, raki is taken very seriously. Përmet raki made from local plums is considered the finest in the country, and families guard their recipes and their copper stills like heirlooms. If someone in Përmet offers you homemade raki, say yes. Then say yes again when they refill your glass.
+In the south, raki is taken very seriously. Skrapar grape raki is the name Albanians treat as the gold standard, the bottle you bring when you want to show respect, while around Përmet the wild mulberry raki (raki mani) has a devoted following of its own. Families guard their recipes and their copper stills like heirlooms. If someone in Skrapar or Përmet offers you homemade raki, say yes. Then say yes again when they refill your glass.
 
 ## Kafe Turke: The Ritual
 
-Albanians drink more coffee per capita than almost any country in Europe, and the day begins and ends with it. Kafe turke (Turkish coffee) is the traditional preparation: finely ground coffee simmered in a small copper pot called a xhezve, poured unfiltered into a small cup, grounds and all.
+Albania has more coffee bars per person than almost any country on earth, and the day begins and ends with coffee. Kafe turke (Turkish coffee) is the traditional preparation: finely ground coffee simmered in a small copper pot called a xhezve, poured unfiltered into a small cup, grounds and all.
 
 You drink it slowly. You let the grounds settle. You never stir after pouring. And you never, ever rush. Coffee in Albania is not fuel. It is a social act, an invitation to sit and talk, a reason to spend an hour at a table with a friend. When someone says "do pimë një kafe?" (shall we have a coffee?), they are not asking about the drink. They are asking for your time.
 
