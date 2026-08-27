@@ -24,7 +24,7 @@ The good news is that solving it costs somewhere between three and thirty euro d
 
 Three separate things get confused here, so let me separate them.
 
-**EU Roam Like At Home does not cover Albania.** Not in 2026. The European Commission proposed extending the scheme to the Western Balkans in February 2026, and negotiations are authorised, but a proposal is not a policy. Until something is actually adopted and in force, your German or Italian or Irish plan treats Albania as a foreign country, because it is one.
+**EU Roam Like At Home does not cover Albania.** Not in 2026. The European Commission proposed opening negotiations to extend the scheme to the Western Balkans in February 2026, but a proposal is not a policy. Until something is actually adopted and in force, your German or Italian or Irish plan treats Albania as a foreign country, because it is one.
 
 **The Western Balkans have their own agreement, and it is real.** Since July 2021, a SIM from any of the six, meaning Albania, Kosovo, Montenegro, Serbia, North Macedonia and Bosnia and Herzegovina, roams across all six at domestic rates. This matters enormously if you are doing a Balkan circuit. Buy one Albanian SIM and it works in Kosovo and Montenegro too, at no extra cost.
 
@@ -38,8 +38,8 @@ You will need your passport. SIM registration is mandatory here and the shop wil
 
 | Pack | Data | Validity | Price |
 |---|---|---|---|
-| Vodafone tourist | 40 GB + 1,000 min | 15 days | 2,300 lekë (~23 EUR) |
-| Vodafone tourist | 100 GB + unlimited min | 21 days | 2,900 lekë (~29 EUR) |
+| Vodafone Tourist Pack | 40 GB + 1,000 min | 21 days | 2,500 lekë (~25 EUR) |
+| Vodafone Tourist Giga | 100 GB + unlimited min | 21 days | 2,900 lekë (~29 EUR) |
 | One Tourist Pro | 40 GB + 1,000 min | 21 days | 2,600 lekë (~26 EUR) |
 | One Tourist Ultra | 100 GB + 4,000 min | 21 days | 2,900 lekë (~29 EUR) |
 
