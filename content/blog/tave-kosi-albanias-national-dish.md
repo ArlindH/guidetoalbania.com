@@ -8,7 +8,7 @@ tags: ["tave-kosi", "albanian-food", "elbasan", "tirana", "traditional-cuisine",
 draft: false
 ---
 
-The first time I truly understood tavë kosi, I was not in a restaurant. I was standing in my gjyshe's kitchen in Elbasan, watching her pull a clay dish from the oven. The yogurt top had puffed up like a golden cloud, trembling slightly as she set it on the counter. "Prit, prit," she said. Wait. We watched it slowly sink in the center, releasing a wave of garlic and oregano that filled the room. That smell is Albania to me.
+The first time I truly understood tavë kosi, I was not in a restaurant. I was standing in my gjyshe's kitchen in my father's village outside Berat, watching her pull a clay dish from the oven. She grew up in Elbasan, and the dish came with her when she married. The yogurt top had puffed up like a golden cloud, trembling slightly as she set it on the counter. "Prit, prit," she said. Wait. We watched it slowly sink in the center, releasing a wave of garlic and oregano that filled the room. That smell is Albania to me.
 
 Tavë kosi (literally "yogurt casserole") is the dish Albanians will name when you ask what to eat first. It is comfort food, celebration food, and identity food all at once. Tender pieces of lamb baked beneath a golden, custard-like layer of yogurt and eggs, the whole thing fragrant with garlic and oregano and finished with a grating of nutmeg. Simple ingredients, transformed by patience and technique into something that feels much greater than the sum of its parts.
 
