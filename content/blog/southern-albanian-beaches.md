@@ -16,11 +16,11 @@ But not every beach along this coast is the same. Some are wild and hard to reac
 
 ## Palasa (Palasë)
 
-Palasa is the beach I send people to when they tell me they want something raw and unspoiled. It sits below dramatic limestone cliffs, a long sweep of grey and white pebbles facing open water. There is almost nothing here. No sunbed rentals, no beach bars, no crowds. Just the stones, the sea, and the mountains behind you.
+Palasa used to be the beach I sent people to when they wanted something raw, and I have to be honest about how much that has changed. The northern stretch of the bay now belongs to the Green Coast resort development, a five-star hotel, apartment terraces, and a managed Blue Flag beach standing where the empty pebbles used to be. The access road is paved now and the cold drink problem has been comprehensively solved.
 
-The access road is steep and rough. If you are driving a small rental car, take it slow and pray for good brakes. Once you are down, you are committed for the day, so bring water, food, sunscreen, and a good book. The water is exceptionally clear, a deep turquoise that turns almost navy farther out.
+The good news is that the beach is long and development is concentrated. Walk south along the pebbles, away from the loungers, and the wild Palasa reappears: grey and white stones below dramatic limestone cliffs, water that runs from deep turquoise to almost navy, and very few people willing to carry their comfort that far.
 
-I love Palasa for its silence. On a weekday in June, you might share the entire beach with five other people. The tradeoff is real, though. No shade, no facilities, nowhere to buy a cold drink. If you want comfort, this is not your beach. If you want to feel like you discovered something, it absolutely is.
+So Palasa is two beaches now, one with facilities and one with silence, and you choose at the moment you put your bag down. Bring water and your own shade for the far end, and come on a weekday in June if you want it close to empty. It is not a secret anymore. The southern end still behaves like one.
 
 ## Dhermi and Drymades
 
@@ -44,13 +44,13 @@ Jala is the beach I always mean to stop at and sometimes drive past, which is a 
 
 There has been some development here in recent years, a few more sunbeds, a couple of restaurants, but it has not tipped over into crowded. The water is calm and clear, good for families with children. The vibe is quieter than Drymades but more comfortable than Palasa.
 
-If you are driving the coast and want a half-day stop with a meal and a swim, Jala is an excellent choice. The seafood at the small restaurants along the shore is fresh and reasonably priced. Ask for grilled koran (trout) if they have it.
+If you are driving the coast and want a half-day stop with a meal and a swim, Jala is an excellent choice. The seafood at the small restaurants along the shore is fresh and reasonably priced. Ask what came in that morning, and take the grilled koce (sea bream) if they have it.
 
 ## Himara (Himarë)
 
-Himara is where I tell people to base themselves if they want to explore the whole Riviera without roughing it. The town has proper infrastructure: ATMs, pharmacies, a range of hotels and guesthouses, and good restaurants along the waterfront. The town beach (Spille) is right there, a long curve of pebbles with sunbed rentals and cafes. It is not the most beautiful beach on this list, but it is convenient and clean.
+Himara is where I tell people to base themselves if they want to explore the whole Riviera without roughing it. The town has proper infrastructure: ATMs, pharmacies, a range of hotels and guesthouses, and good restaurants along the waterfront. The town beach (Spile) is right there, a long curve of pebbles with sunbed rentals and cafes. It is not the most beautiful beach on this list, but it is convenient and clean.
 
-The real gem is Livadhi beach, a short drive or twenty-minute walk south of town. Livadhi is wider, less developed, and the water has that luminous blue-green quality that photographs so well. There are a few beach bars at the northern end and open space toward the south. It strikes a good balance between comfort and beauty.
+The real gem is Livadhi beach, a short drive or half-hour walk north of town. Livadhi is wider, less developed, and the water has that luminous blue-green quality that photographs so well. There are a few beach bars at the northern end and open space toward the south. It strikes a good balance between comfort and beauty.
 
 Himara also has a wonderful old town (Himara e Vjetër) on the hill above, with a castle, a few churches, and views that stretch along the entire coast. Go up in the late afternoon when the light turns golden and the stones glow warm. Have a macchiato at one of the kafene (cafes) and watch the fishing boats come in below.
 
@@ -64,7 +64,7 @@ I think of Porto Palermo as a morning stop. Swim, explore the castle, eat whatev
 
 ## Borsh
 
-Borsh has a claim that is easy to verify on a map: it is the longest beach in Albania, stretching roughly seven kilometers along a gently curving bay. Despite its size, Borsh remains one of the least developed beaches on the southern coast. The northern end has some hotels and beach bars, but walk ten minutes south and you will have wide stretches of pebble beach almost to yourself.
+Borsh has a claim that is easy to verify on a map: it is the longest beach on the Albanian Riviera, stretching roughly seven kilometers along a gently curving bay. Despite its size, Borsh remains one of the least developed beaches on the southern coast. The northern end has some hotels and beach bars, but walk ten minutes south and you will have wide stretches of pebble beach almost to yourself.
 
 The feel here is more local. Albanian families set up for the day with coolers and umbrellas. Prices are lower than the Riviera beaches to the north, both for accommodation and for sunbeds. A sunbed and umbrella might cost 500 lek, compared to 1000 or more in Dhermi.
 
