@@ -20,6 +20,23 @@
 <meta name="author" content="{{ .Site.Params.author }}">
 <meta name="keywords" content="{{ .Site.Params.siteKeywords }}{{ with .Params.tags }}, {{ delimit . ", " }}{{ end }}">
 
+{{/* Share image, in order of preference:
+     1. an `images` front matter param on the page
+     2. the first <figure> image in the rendered body
+     3. the site hero */}}
+{{ $ogImage := "" }}
+{{ with .Params.images }}
+  {{ if reflect.IsSlice . }}{{ $ogImage = index . 0 }}{{ else }}{{ $ogImage = . }}{{ end }}
+{{ end }}
+{{ if not $ogImage }}
+  {{ with findRE `(?s)<figure[^>]*>.*?<img[^>]+src="[^"]+"` .Content 1 }}
+    {{ $ogImage = replaceRE `(?s)^.*src="([^"]+)".*$` "$1" (index . 0) }}
+  {{ end }}
+{{ end }}
+{{ if not $ogImage }}
+  {{ $ogImage = "/images/hero.jpg" }}
+{{ end }}
+
 <link rel="canonical" href="{{ .Permalink }}">
 <link rel="alternate" hreflang="en" href="{{ .Permalink }}">
 <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ "index.xml" | absURL }}">
@@ -30,6 +47,13 @@
 <meta property="og:description" content="{{ $description }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:locale" content="en_US">
+{{ with $ogImage }}
+<meta property="og:image" content="{{ . | absURL }}">
+{{ $local := printf "static%s" . }}
+{{ if and (hasPrefix . "/") (fileExists $local) }}{{ $cfg := imageConfig $local }}
+<meta property="og:image:width" content="{{ $cfg.Width }}">
+<meta property="og:image:height" content="{{ $cfg.Height }}">
+{{ end }}{{ end }}
 {{ if .IsPage }}
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
@@ -42,9 +66,10 @@
 {{ end }}
 
 <!-- Twitter Card -->
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="{{ if $ogImage }}summary_large_image{{ else }}summary{{ end }}">
 <meta name="twitter:title" content="{{ .Title }}">
 <meta name="twitter:description" content="{{ $description }}">
+{{ with $ogImage }}<meta name="twitter:image" content="{{ . | absURL }}">{{ end }}
 
 <!-- JSON-LD Structured Data -->
 {{ if .IsHome }}
