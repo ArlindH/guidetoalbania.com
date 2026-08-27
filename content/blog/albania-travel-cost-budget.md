@@ -11,7 +11,7 @@ affiliate: true
 
 Most of what you will read about the cost of Albania was written between 2018 and 2022, and it is wrong now. Not because Albanian prices exploded, though tourist-facing ones have certainly climbed, but because of something quieter that almost nobody writing about the country has accounted for.
 
-**The lek got strong.** A few years ago a euro bought you around 140 lekë. As of August 2026 it buys about 92. If your money is euros, that means every unchanged Albanian price tag became roughly a third more expensive to you without a single number on it moving.
+**The lek got strong.** A decade ago a euro bought you around 140 lekë, and as recently as 2021 it still bought more than 120. As of August 2026 it buys about 92. If your money is euros, that means every unchanged Albanian price tag became roughly a third more expensive to you in a few years without a single number on it moving.
 
 This is the honest starting point for any budget conversation about Albania in 2026. It is still cheaper than Italy, Greece or Croatia, comfortably. It is no longer the country where a hundred euro lasts most of a week.
 
@@ -76,11 +76,11 @@ These are 2026 prices, in lekë first because that is what you will be quoted.
 |---|---|---|
 | Gjirokastër castle | 400 | 4.30 |
 | Berat castle | 300 to 500 | 3.20 to 5.40 |
-| Butrint national park | ~900 | ~10 |
-| Bunk'Art 1 or 2 | 800 to 900 | 8.50 to 9.50 |
+| Butrint national park | 1,000 | ~11 |
+| Bunk'Art 1 or 2 | 900 | ~10 |
 | Dajti cable car, return | 1,500 | 16 |
 
-Notice the shape of that last table. **Albania's culture is cheap and its infrastructure is not.** Three thousand years of Butrint costs ten euro; fifteen minutes in a cable car costs sixteen. Budget accordingly, and lean into the museums and castles, which are the genuine bargains.
+Notice the shape of that last table. **Albania's culture is cheap and its infrastructure is not.** Three thousand years of Butrint costs eleven euro; fifteen minutes in a cable car costs sixteen. Budget accordingly, and lean into the museums and castles, which are the genuine bargains.
 
 ## Where the Money Actually Goes
 
