@@ -52,7 +52,7 @@ Researched 2026-04-06. Check off ideas as they get published.
 25. [ ] **Apollonia: 3,000 Years of Ruins Where Augustus Studied** — Greek-founded, Roman-era city near Fier with new museum and vast archaeological park that few tourists visit.
 26. [ ] **Llogara National Park: Where Mountains Drop Into the Ionian Sea** — Caesar's ancient trail, Maja e Cikes peak, paragliding, and the new tunnel changing Riviera access. Hiking content nearly nonexistent.
 27. [ ] **Durres: Albania's Oldest Port City and Its Hidden Roman Amphitheatre** — Largest amphitheatre in the Balkans sitting in a modern city, Byzantine walls, and why Durres beaches divide opinion.
-28. [ ] **The Blue Eye (Syri i Kalter): Albania's Most Mesmerizing Natural Spring** — 50-meter-deep karst spring, why you can no longer swim there, and what to do nearby. Rules recently changed, outdated info frustrates travelers.
+28. [x] **The Blue Eye (Syri i Kalter): Albania's Most Mesmerizing Natural Spring** — 50-meter-deep karst spring, why you can no longer swim there, and what to do nearby. Rules recently changed, outdated info frustrates travelers.
 29. [ ] **Prespa National Park: Pelicans, Island Churches, and a Lake Shared by Three Countries** — World's largest Dalmatian pelican colony, 270 bird species, UNESCO biosphere reserve. Zero English practical guides.
 30. [ ] **The Shala River: Albania's "Thailand" Hidden in the Alps** — Turquoise water, canyon walls, boat access only from Koman Lake. Viral on social media but practical English info is nonexistent.
 31. [x] **Day Trips from Tirana: 8 Escapes You Can Do Without a Car** — Mount Dajti, Pellumbas Cave, Kruje, Durres, Petrela Castle, all by bus or furgon. Top search query, most articles assume a rental car.
