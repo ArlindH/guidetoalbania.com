@@ -17,7 +17,7 @@ So the routes below are built around real driving times, with a rule I have neve
 
 <figure>
   <img src="/images/coast/llogara-viewpoint.jpg" alt="A view from a high mountain pass down onto a curving coastline, blue sea and hazy islands on the horizon.">
-  <figcaption>The view from Llogara, looking south along the Riviera towards Corfu. The tunnel underneath now takes seven minutes and skips all of this. On a clear day, take the old pass road anyway; it is one of the great drives in Europe and it is still free. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Llogara_Viewing_platform_view.JPG">Albinfo</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
+  <figcaption>The view from Llogara, looking south along the Riviera towards Corfu. The tunnel underneath takes seven minutes, costs 250 lek for a car since spring 2026, and skips all of this. On a clear day, take the old pass road anyway; it is one of the great drives in Europe and it is still free. <span class="fig-attr">Photo by <a href="https://commons.wikimedia.org/wiki/File:Llogara_Viewing_platform_view.JPG">Albinfo</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons.</span></figcaption>
 </figure>
 
 ## Real Driving Times
@@ -124,7 +124,7 @@ That last day is exactly the sort of transfer where a pre-booked ride is worth t
 
 ## Practical Things That Apply to All Three
 
-**Fly into Tirana.** Vlora's airport opened in 2025 but scheduled service in 2026 is one seasonal route from Zurich. Kukës is useful only if you are starting in the north.
+**Fly into Tirana.** Vlora's new airport finally has scheduled flights in 2026, but the timetable is one seasonal Zurich route from late June, nothing more. Kukës is useful only if you are starting in the north.
 
 **Sort your data before you fly.** Albania is outside EU roaming and the bill is genuinely nasty. [The options are here](/blog/albania-sim-card-esim/).
 
