@@ -100,4 +100,4 @@ The Blue Eye has not got worse. It has got more popular, and it has stopped lett
 
 Set the alarm.
 
-**A note on the other Blue Eye.** There is a second Syri i Kaltër in Theth, up in the northern Alps, and the two get confused constantly online. That one is a glacial pool at the end of a mountain walk, colder, smaller, and reached on foot from the village. If you are looking at [the Valbona to Theth hike](/blog/valbona-to-theth-hike/), that is the one you will meet. They are 300 kilometres apart.
+**A note on the other Blue Eye.** There is a second Syri i Kaltër in Theth, up in the northern Alps, and the two get confused constantly online. That one is a spring-fed mountain pool at the end of a walk, colder, smaller, and reached on foot from the village. If you are looking at [the Valbona to Theth hike](/blog/valbona-to-theth-hike/), that is the one you will meet. They are 300 kilometres apart.
