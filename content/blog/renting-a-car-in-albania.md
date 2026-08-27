@@ -125,7 +125,7 @@ The main corridors are genuinely fine now. The Tirana to Durrës motorway, the S
 
 **Police issue fines on the spot.** Speeding runs 1,000 to 15,000 lekë, phone use 5,000 and up, seatbelts up to 5,000. Being stopped is routine and usually uneventful. Hand over the documents, be polite, do not offer anything, ask for the written ticket. An officer who wants paperwork will produce paperwork.
 
-**Carry the documents.** Licence, passport, the rental agreement and the insurance paper live in the car, not in the hotel. An International Driving Permit is not legally required for most European licences but it is cheap, and some rental desks want to see one regardless.
+**Carry the documents.** Licence, passport, the rental agreement and the insurance paper live in the car, not in the hotel. The road code technically requires non-resident foreigners to carry an International Driving Permit alongside their licence; in practice EU, UK and US licences are accepted without one almost everywhere, but it is cheap, and if your licence is not in the Latin alphabet it is not optional.
 
 <figure>
   <img src="/images/driving/police-control.jpg" alt="A police officer in a high-visibility vest standing beside a marked patrol car at the roadside, speaking to a stopped driver.">
@@ -155,7 +155,7 @@ I will be honest against my own advice here, because renting is not always the r
 
 **City to city on the main routes.** Tirana to Berat, Tirana to Shkodër, Sarandë to Gjirokastër. These are well served, cheap, and someone who drives that road every day is a considerably better driver on it than you are on day three. Our [guide to using furgons](/blog/how-to-use-furgons-in-albania/) covers how the system works, which is less chaotic than it first appears.
 
-**If you are staying in Tirana.** A car in central Tirana is a liability. Parking is scarce, the traffic is the worst in the country, and Bolt costs almost nothing. Rent on the day you leave the city, not the day you arrive.
+**If you are staying in Tirana.** A car in central Tirana is a liability. Parking is scarce, the traffic is the worst in the country, and a ride on the local taxi apps costs almost nothing. Rent on the day you leave the city, not the day you arrive.
 
 **If you are not a confident driver.** This is not the place to rediscover your nerve. There is no shame in the bus, and I would rather you saw less of Albania relaxed than more of it frightened. For the fixed legs you know about in advance, an airport run or a long transfer with luggage, a prebooked car through <a class="affil" href="https://tp.media/r?campaign_id=1&marker=770798&p=647&trs=567396&u=https%3A%2F%2Fkiwitaxi.com%2Fen%2Falbania&sub_id=renting-a-car" target="_blank" rel="sponsored nofollow noopener">Kiwitaxi</a> costs more than the furgon and removes the part of the day you were dreading.
 
