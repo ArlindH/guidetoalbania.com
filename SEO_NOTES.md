@@ -3,9 +3,15 @@
 Working notes on how guidetoalbania.com is performing in search, and
 which topics to prioritize. Update as new data comes in.
 
-## Google Search Console (snapshot 2026-08-27, last 90 days)
+## Google Search Console (snapshot 2026-08-27 morning, last 90 days)
 
 Site totals: **278 clicks, 37.8K impressions, 0.7% CTR, avg position 16.5.**
+
+> Superseded the same afternoon by a re-pull taken immediately before the
+> ten-article commercial batch shipped. See **Baseline at time of
+> publishing** at the bottom of this file for the numbers to measure the
+> batch against. The analysis in this section still holds; only the
+> counts moved.
 
 ### Top pages
 
@@ -304,3 +310,50 @@ roughly three months of stable traffic.
 - Whether the back-dated publication dates get crawled and indexed
   normally, or whether Google discounts them for appearing in the
   sitemap all at once.
+
+### Baseline at time of publishing
+
+Re-pulled from Search Console immediately before the batch went live, so
+there is a clean before-reading to measure it against. Last 90 days, web
+search, taken 2026-08-27 afternoon (Search Console's own "last update"
+was 5.5 hours earlier).
+
+**Site totals: 287 clicks, 38.2K impressions, 0.8% CTR, avg position 16.4.**
+
+Against the morning snapshot at the top of this file that is +9 clicks,
++0.4K impressions, +0.1pp CTR and a 0.1 improvement in average position.
+Same-day drift, no signal in it. It is recorded because it is the
+number the batch has to beat.
+
+Top ten queries by impressions, with the morning figure in brackets
+where it moved:
+
+```
+query                        clicks  impr.        position
+burrnesha                         4    916  (915)     ~11.6
+burrnesha albania                 2    749  (743)     ~10.4
+best places to walk               0    704  (693)      ~8.9
+gliko                             0    506  (490)      ~8.1
+hiking albania                    0    501  (505)     ~77.3
+gliko albania                     5    440  (438)      ~7.2
+south albania beaches             2    411  (408)      ~9.0
+albania mountains hiking          0    389  (394)     ~80.3
+theth valbona hike                0    236  (240)     ~40.7
+tave kosi                         0    232  (220)     ~37.1
+```
+
+**Caveat: this is the top ten rows only, not the full pull.** The
+rows-per-page control resisted again, exactly as the process note above
+warns: clicking 500 highlights it without applying, and Enter did not
+commit it either. Positions are carried over from the morning pull
+because the re-pull only exposed clicks and impressions, hence the
+tildes. The full tail from the earlier second pass is still the better
+reference for cluster sizing.
+
+**Next pull worth doing properly:** filter to the ten new URLs
+specifically, 28-day window, from about the end of September. Before
+that there is not enough crawl history for the numbers to mean
+anything. The three to watch first are `driving-in-albania` against
+`renting-a-car-in-albania`, `day-trips-from-tirana` against
+`hiking-near-tirana-day-hikes`, and whether `where-to-stay-in-albania`
+picks up anything at all without a hotel program attached to it.
