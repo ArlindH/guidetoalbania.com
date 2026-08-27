@@ -230,3 +230,77 @@ ranks at position 9 to 12 for on bunkers. No commercial intent, though.
 - Check whether a page already covers the angle before recommending it.
   The "write a dish guide" idea died on contact with
   `albanian-cuisine-guide.md`, which had already done it.
+
+## Commercial-intent batch, published 2026-08-27
+
+Ten articles written in one run, back-dated across 2026-06-29 to
+2026-08-20 to fill the gap between the May and August clusters rather
+than landing ten same-day timestamps in the sitemap.
+
+| Slug | Date | Target intent | Inline links |
+|------|------|---------------|-------------:|
+| tirana-airport-transport | 06-29 | airport transfer / "tirana airport to city" | 3 |
+| albania-sim-card-esim | 07-04 | "sim card albania", "albania esim" | 2 |
+| albania-travel-cost-budget | 07-09 | "how much does albania cost" | 3 |
+| albania-itinerary-7-10-14-days | 07-15 | "albania itinerary 7 days" | 3 |
+| driving-in-albania | 07-21 | "driving in albania" | 3 |
+| where-to-stay-in-albania | 07-27 | "where to stay in albania" | 3 |
+| day-trips-from-tirana | 08-02 | "day trips from tirana" | 3 |
+| blue-eye-syri-i-kalter | 08-08 | "blue eye albania" | 2 |
+| berat-guide | 08-14 | "berat albania" | 2 |
+| solo-female-travel-albania | 08-20 | "is albania safe for solo female travellers" | 3 |
+
+### Reasoning behind the selection
+
+1. **Commercial intent over volume.** Every piece except Berat and the
+   Blue Eye sits on a query where the reader is one click from a
+   booking. The furgon guide's 1.2% CTR at position 8.1 is the evidence
+   that this domain ranks practical transport content easily.
+2. **AI Overview resistance.** Each piece leads with something a SERP
+   summary cannot finish: the 400 lekë bus fare and the fact that Uber
+   and Bolt do not exist here, the EU-roaming exclusion, the lek
+   revaluation, the swim ban at the Blue Eye, real driving times.
+3. **The lek angle is the one genuinely original claim** in the batch.
+   EUR/ALL went from roughly 140 to about 92, so euro visitors are
+   paying about a third more for unchanged Albanian prices. Nothing
+   else writing about Albanian costs has accounted for this.
+4. **Hub and spoke.** The itinerary piece links to eight others and is
+   linked from six. That is the first real internal-link hub on the
+   site.
+
+### Deliberately not written
+
+- **Riviera without a car.** Would have cannibalised
+  `albanian-coastline-transport` (position 10.4), which already does
+  mode-by-mode comparison for the whole coast. Replaced with
+  `where-to-stay-in-albania`, which had zero coverage.
+- **Another hiking listicle.** Head hiking terms are still at position
+  76 to 80. Nothing has changed since the April note.
+
+### Monetisation state at time of writing
+
+Verified working, all five redirecting with tracking: Localrent
+(87/2043), Kiwitaxi (1/647), Airalo (541/8310), EKTA (225/5869),
+Welcome Pickups (627/8919).
+
+**Klook (137/4110) was checked and rejected.** The Albania search on
+klook.com returns Mexican day tours and sold-out Tirana hotels. Sending
+readers there would not convert and would not be honest.
+
+**`where-to-stay-in-albania` is the page to revisit when Booking.com or
+Hostelworld unlock.** Accommodation is the largest travel spend and the
+article currently carries transport and eSIM links only, because there
+is no hotel program connected. Per the dashboard, those unlock after
+roughly three months of stable traffic.
+
+### What to watch
+
+- Whether `driving-in-albania` and `renting-a-car-in-albania`
+  cannibalise each other. They target different queries and cross-link,
+  but if one suppresses the other, merge into the rental piece.
+- Whether `day-trips-from-tirana` splits traffic with
+  `hiking-near-tirana-day-hikes`. Same geography, different intent
+  (sightseeing vs trails).
+- Whether the back-dated publication dates get crawled and indexed
+  normally, or whether Google discounts them for appearing in the
+  sitemap all at once.

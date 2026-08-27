@@ -116,7 +116,7 @@ That last day is exactly the sort of transfer where a pre-booked ride is worth t
 
 **Cut Durrës** unless you want the Roman amphitheatre specifically, which is genuinely remarkable and sits in the middle of a fairly ordinary modern city. The beaches there are not why you came.
 
-**Cut Ksamil in August.** It is beautiful and it has been comprehensively developed. [The rest of the southern coast](/blog/southern-albanian-beaches/) is better and emptier.
+**Cut Ksamil in August.** It is beautiful and it has been comprehensively developed. [The rest of the southern coast](/blog/must-visit-southern-albanian-beaches-top-riviera-locations/) is better and emptier.
 
 **Do not cut Berat for Gjirokastër or the reverse.** They are both Ottoman UNESCO towns and people assume they are interchangeable. They are not remotely alike. Berat is white plaster and windows in a river valley; Gjirokastër is grey stone and fortified towers on a mountainside.
 
@@ -130,7 +130,7 @@ That last day is exactly the sort of transfer where a pre-booked ride is worth t
 
 **Get insurance that covers the actual trip.** Driving mountain roads and walking a 1,795-metre pass are both things that standard policies quietly exclude. Albania's real risk is [the road, not crime](/blog/is-albania-safe/), and <a class="affil" href="https://tp.media/r?campaign_id=225&marker=770798&p=5869&trs=567396&u=https%3A%2F%2Fektatraveling.com%2F&sub_id=albania-itinerary" target="_blank" rel="sponsored nofollow noopener">a policy that names driving and hiking</a> costs a few euro a day.
 
-**Go in June or September.** [Every argument](/blog/best-time-to-visit-albania/) points the same way: same sea, half the crowd, two thirds the price.
+**Go in June or September.** [Every argument](/blog/best-time-to-visit-albania-2/) points the same way: same sea, half the crowd, two thirds the price.
 
 **Book the Koman ferry and the Theth guesthouses ahead in summer.** Both genuinely sell out, and neither has a fallback.
 

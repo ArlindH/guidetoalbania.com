@@ -85,7 +85,7 @@ Polished, social, and priced accordingly, at 60 to 150 euro. Beach clubs, summer
 
 White sand, turquoise shallows, photogenic islets, and in August a crowd density that has to be seen. It has been comprehensively developed and priced as a resort.
 
-**Stay here in June or September** and it is genuinely lovely. **Stay here in August** and you will spend the week wondering what everyone was talking about. I have written a whole piece on [what happened to Ksamil](/blog/ksamil-beach-albania/), and the honest alternatives are in [the southern beaches guide](/blog/southern-albanian-beaches/).
+**Stay here in June or September** and it is genuinely lovely. **Stay here in August** and you will spend the week wondering what everyone was talking about. I have written a whole piece on [what happened to Ksamil](/blog/the-enchanting-beach-of-ksamil-a-hidden-gem-in-albania/), and the honest alternatives are in [the southern beaches guide](/blog/must-visit-southern-albanian-beaches-top-riviera-locations/).
 
 ### Vlorë
 

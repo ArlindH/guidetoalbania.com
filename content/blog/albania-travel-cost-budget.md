@@ -90,7 +90,7 @@ After a decade of watching visitors do this, the pattern is consistent. Three li
 
 Riviera prices in the first three weeks of August are not Albanian prices, they are seasonal scarcity prices, and they can triple. The same apartment in Himarë that costs 45 euro in June costs 130 in August.
 
-**This is the single biggest lever you have.** Move your trip to early June or the second half of September and the entire budget drops by a quarter, the water is still warm, and you can park. I have written elsewhere about [when to actually visit](/blog/best-time-to-visit-albania/), and the money argument is the strongest one in it.
+**This is the single biggest lever you have.** Move your trip to early June or the second half of September and the entire budget drops by a quarter, the water is still warm, and you can park. I have written elsewhere about [when to actually visit](/blog/best-time-to-visit-albania-2/), and the money argument is the strongest one in it.
 
 ### 2. Transport, and specifically the car question
 
@@ -129,7 +129,7 @@ Not tips, habits. These are what the difference between a 45 euro day and a 90 e
 
 **Take the furgon at least once.** Beyond the money, it is one of the few remaining ways to see how the country actually moves.
 
-**Skip Ksamil in August.** I say this with some feeling. It is beautiful and it is now priced and crowded like a resort. [The southern coast has better options](/blog/southern-albanian-beaches/) at half the price.
+**Skip Ksamil in August.** I say this with some feeling. It is beautiful and it is now priced and crowded like a resort. [The southern coast has better options](/blog/must-visit-southern-albanian-beaches-top-riviera-locations/) at half the price.
 
 **Do not tip like an American.** Rounding up is normal, ten percent is generous, and nobody is offended by either. Leaving twenty percent distorts local expectations and does not make you a better guest.
 
