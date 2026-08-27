@@ -18,7 +18,7 @@ I have spent years working my way through these ranges, from easy summit trails 
 
 Korab is the roof of Albania. Sitting right on the border with North Macedonia, it is the highest point in both countries. The mountain has a raw, windswept beauty. Above the treeline, the landscape opens into vast alpine meadows scattered with wildflowers in June, then bare grey rock and patches of stubborn snow closer to the summit.
 
-The standard approach starts from the village of Radomirë in the Dibra region. You will need a border zone permit, which your guide or guesthouse can arrange. Do not skip this step. Border police do patrol, and without the permit you will be turned back.
+The standard approach starts from the village of Radomirë in the Dibra region. The summit ridge is literally the frontier with North Macedonia, so carry your passport and have your guide or guesthouse check in with the border police about registration before you set off. Patrols do pass, and being unannounced up there is a conversation you do not want.
 
 The hike itself is a long day, roughly 8 to 10 hours round trip with about 1,500 meters of elevation gain. Some hikers prefer to camp at the high meadow and summit the next morning. I did it in a single push and was wrecked by the end, but standing on that summit with the Macedonian lakes glinting far below made every blister worth it.
 
@@ -32,7 +32,7 @@ The hike itself is a long day, roughly 8 to 10 hours round trip with about 1,500
 
 If Korab is the highest, Jezerca is the most dramatic. It is the crown of the Albanian Alps, known locally as Alpet Shqiptare, and the tallest peak in the Accursed Mountains range. The limestone walls, the deep glacial valleys, the air that smells of pine and cold stone. This is the Albania that makes mountaineers fall in love.
 
-Jezerca is not a casual hike. Most approaches require a multi-day trek, either from Theth or from the Valbona valley. The route from Valbona via the Çerem area is the most established, typically taking three days with nights spent camping or in shepherds' huts (stane) if you can find them in use.
+Jezerca is not a casual hike. The most established route starts on the Valbona side, through the hamlet of Kukaj. The fittest do it as a single brutal ten-hour day with some scrambling near the top; most people are happier taking two, camping high or sleeping in shepherds' huts (stane) if you can find them in use. Approaches from the Theth side exist and are longer.
 
 I attempted Jezerca from the Theth side with two friends and a local guide named Marash. The second day was all scree and false summits, the kind of terrain where every step slides back half a pace. But the views from the ridge, looking down into valleys that seemed untouched since the last ice age, were unlike anything I have seen in Europe.
 
@@ -44,7 +44,7 @@ I attempted Jezerca from the Theth side with two friends and a local guide named
 
 ## Maja e Hekurave, 2,561m
 
-Another giant of the Accursed Mountains, Maja e Hekurave sits in the remote heart of the range between Theth and Valbona. The name translates roughly to "Iron Peak," and the mountain earns it. This is serious, isolated terrain with no marked trails on the upper sections.
+Another giant of the Accursed Mountains, Maja e Hekurave sits in the remote heart of the range south of the Valbona valley. The name translates roughly to "Iron Peak," and the mountain earns it. This is serious, isolated terrain with no marked trails on the upper sections.
 
 Few hikers specifically target Hekurave. Most encounter it as part of extended traverses through the Albanian Alps. The approaches are long, the navigation is tricky, and you will likely not see another person for the entire day. If that sounds appealing rather than terrifying, this mountain is for you.
 
@@ -96,7 +96,7 @@ I go up Dajt at least once a month, often on weekday mornings when it is quiet. 
 
 **Best season:** Year-round. Spring and autumn are ideal. Summer mornings before the heat builds. Winter for occasional snow.
 
-**Getting there:** Take a taxi or bus to the Dajti Ekspres base station on the eastern edge of Tirana. The cable car runs daily.
+**Getting there:** Take a taxi or bus to the Dajti Ekspres base station on the eastern edge of Tirana. The cable car runs daily except Tuesdays.
 
 ## Practical Tips for Hiking in Albania
 
