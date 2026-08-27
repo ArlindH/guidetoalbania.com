@@ -9,7 +9,7 @@ draft: false
 affiliate: true
 ---
 
-Almost everyone who comes to Albania arrives at the same place. Tirana International Airport, still called Rinas by everyone who lives here, after the village it sits next to. It handles the overwhelming majority of the country's air traffic, and for most visitors the twenty kilometres between its doors and central Tirana are the first piece of Albanian logistics they have to solve.
+Almost everyone who comes to Albania arrives at the same place. Tirana International Airport, still called Rinas by everyone who lives here, after the village it sits next to. It handles the overwhelming majority of the country's air traffic, and for most visitors the seventeen kilometres between its doors and central Tirana are the first piece of Albanian logistics they have to solve.
 
 It is not a difficult problem. But it is one where the difference between the cheapest and the most expensive answer is roughly tenfold, and where a surprising number of people pay the top price without knowing the others exist.
 
@@ -100,9 +100,9 @@ This is the part most airport guides skip.
 
 Rinas is no longer Albania's only way in, though it is still the only one most travellers will use.
 
-**Kukës International Airport** opened in 2021 in the northeast, mostly serving diaspora routes with Wizz Air and Air Albania. It is a genuinely useful arrival point for the Alps and for Kosovo, and almost nobody outside the diaspora knows it exists.
+**Kukës International Airport** opened in 2021 in the northeast, with a thin and frequently changing schedule of diaspora routes. It is a genuinely useful arrival point for the Alps and for Kosovo, and almost nobody outside the diaspora knows it exists.
 
-**Vlora International Airport** opened in May 2025 and is the one to watch, since it would put the Riviera within half an hour of an arrivals hall. Be careful with the promises, though. As things stand for 2026 the confirmed scheduled service is Chair Airlines from Zurich, running from late June to late October only. Outside that window there is no scheduled commercial traffic. Plan on flying into Tirana and treat Vlora as a bonus if your dates and origin happen to line up.
+**Vlora International Airport** flew its certification flights in 2025 and is the one to watch, since it puts the Riviera within half an hour of an arrivals hall. Be careful with the promises, though. As things stand for 2026 the confirmed scheduled service is Chair Airlines from Zurich, running from late June to late October only. Outside that window there is no scheduled commercial traffic. Plan on flying into Tirana and treat Vlora as a bonus if your dates and origin happen to line up.
 
 ## Going Home
 
