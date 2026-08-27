@@ -32,9 +32,9 @@ And partly it is simply the scenery. The Accursed Mountains are limestone at its
 
 ## The Route, Hour by Hour
 
-The hike proper runs from the hamlet of Rrogam, at the head of the Valbona valley, to the village of Theth. Most Valbona guesthouses sit a few kilometres down-valley from Rrogam, so the day usually starts with a short lift to the trailhead. Your guesthouse can arrange it, either a shared minibus for around 4 euros a person or a private car for 20 to 30. Walking that road instead adds the better part of two hours and very little pleasure.
+The hike proper runs from the hamlet of Rragam, at the head of the Valbona valley, to the village of Theth. Most Valbona guesthouses sit a few kilometres down-valley from Rrogam, so the day usually starts with a short lift to the trailhead. Your guesthouse can arrange it, either a shared minibus for around 4 euros a person or a private car for 20 to 30. Walking that road instead adds the better part of two hours and very little pleasure.
 
-From Rrogam the trail climbs, and it keeps climbing for about three hours. The first stretch winds up through beech forest, shaded and gentle. Higher up the trees thin and the path opens onto bare slopes of grass and rock. It is a steady ascent rather than a brutal one, and there is a small cafe roughly ninety minutes in where you can refill water and buy a drink.
+From Rragam the trail climbs, and it keeps climbing for about three hours. The first stretch winds up through beech forest, shaded and gentle. Higher up the trees thin and the path opens onto bare slopes of grass and rock. It is a steady ascent rather than a brutal one, and there is a small cafe roughly ninety minutes in where you can refill water and buy a drink.
 
 <figure>
   <img src="/images/hiking/valbona-theth-pass.jpg" alt="Cloud lifting off the Valbona to Theth pass, opening a view over the Albanian Alps.">
