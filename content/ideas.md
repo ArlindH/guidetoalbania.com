@@ -89,7 +89,7 @@ Researched 2026-04-06. Check off ideas as they get published.
 
 54. [ ] **Driving in Albania: A Brutally Honest Guide for Foreigners** — Zero-tolerance alcohol, sheep on mountain roads, Llogara hairpins, when Google Maps lies. Most-searched practical query.
 55. [ ] **Albania for Solo Female Travelers: What I Wish Someone Had Told Me** — Safety realities, cultural context, practical advice for eating alone, booking guesthouses. High-volume, high-intent query.
-56. [ ] **How to Get a SIM Card and Stay Connected in Albania** — Vodafone vs. One, tourist packs, eSIM options, Balkan roaming zone, signal coverage. Constantly searched, existing guides outdated.
+56. [x] **How to Get a SIM Card and Stay Connected in Albania** — Vodafone vs. One, tourist packs, eSIM options, Balkan roaming zone, signal coverage. Constantly searched, existing guides outdated.
 57. [ ] **Albania by Campervan: Wild Camping, Regulations, and the Best Spots** — Wild camping tolerated in rural and coastal areas, 100+ registered campsites. Vanlife content booming, Albania is campervan-friendly.
 58. [ ] **Tipping in Albania: What Locals Actually Expect** — 5-10% at restaurants, round up for coffee, always use lek not euros. Quick, practical, constantly searched.
 59. [ ] **The Complete Albania Itinerary: 7, 10, and 14 Days** — Three itineraries with realistic driving times, furgon connections, where to linger vs. pass through. Top-5 Albania travel search.

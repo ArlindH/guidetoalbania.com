@@ -63,7 +63,7 @@ Take it if you land with three suitcases and two tired children. Otherwise you a
 
 What does work are the Albanian apps. **Patoko** is usually cheapest. **Clust** has an English interface and card payment, which makes it the easier of the two for a first-time visitor. Either will typically quote **1,200 to 1,800 lekë** from the airport, so 12 to 18 euro, with the price shown before you accept.
 
-The catch is that you need data to summon one, which brings us back to the connectivity question. An eSIM installed before you fly solves it in the two minutes between landing and clearing passport control, and costs a few euro. Doing it that way, rather than queuing at a SIM desk in arrivals, is the difference between opening a taxi app on the kerb and standing there hoping for airport wifi.
+The catch is that you need data to summon one, which brings us back to the connectivity question. An [eSIM installed before you fly](/blog/albania-sim-card-esim/) solves it in the two minutes between landing and clearing passport control, and costs a few euro. Doing it that way, rather than queuing at a SIM desk in arrivals, is the difference between opening a taxi app on the kerb and standing there hoping for airport wifi.
 
 ### Pre-booked transfers
 
