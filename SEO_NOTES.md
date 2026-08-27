@@ -357,3 +357,38 @@ anything. The three to watch first are `driving-in-albania` against
 `renting-a-car-in-albania`, `day-trips-from-tirana` against
 `hiking-near-tirana-day-hikes`, and whether `where-to-stay-in-albania`
 picks up anything at all without a hotel program attached to it.
+
+## Xhiro follow-up, published 2026-08-27
+
+`albania-evening-promenades` — the first deliberate sequel to a page
+that already ranks. Reasoning:
+
+1. **The xhiro page is the site's best asset per impression** (2.52%
+   CTR at position 7) and had **zero internal links in its body**, so
+   its authority and readers dead-ended. The sequel gives that traffic
+   somewhere to go; the parent now links to it from the top of its
+   "Where to Experience" section.
+2. **Intent split, not duplication.** Parent keeps the definitional
+   query ("xhiro", what it is, why it persists). Sequel takes planning
+   intent: named promenades (Lungomare, Vollga, Shën Gjergji, Kolë
+   Idromeno, Hasan Tahsini, Taulantia), each a named entity with thin
+   English competition, the shape that ranks on this domain.
+3. **`best places to walk` (704 impr., pos 8.9, 0 clicks)** currently
+   lands on the essay. The sequel is a better landing for it. Note
+   this makes a third page in walking-adjacent territory alongside
+   `hiking-near-tirana-day-hikes`; intents differ (boulevards vs
+   trails) but watch for a three-way split.
+4. **Monetization where the essay could carry none.** Culture piece
+   rules kept affiliate links out of the parent. The sequel is a
+   destinations piece with genuine transport need: Kiwitaxi (airport
+   to Durrës first-evening angle) and Localrent (promenade-a-night
+   southern loop), sub_id `albania-evening-promenades`.
+
+Parent also got a small fact fix in passing: Myslym Shyri described as
+weekend car-free rather than "the pedestrian shopping street" (it
+carries traffic on weekdays; the everyday pedonale is Murat Toptani).
+
+**Watch from late September:** whether the sequel takes impressions on
+promenade-entity queries without pulling the parent off position 7 for
+"xhiro". If the parent slips, the fix is sharpening the title/intent
+split, not merging.

@@ -146,3 +146,12 @@ ranks most easily. See `SEO_NOTES.md` for the full data.
 80. [x] **Where to Stay in Albania: A Region-by-Region Guide** — Highest-value affiliate category after car rental. Tirana neighborhoods, Riviera villages vs Saranda, bujtina in the Alps, agroturizëm inland. Nothing on the site covers accommodation.
 81. [x] **Tirana Airport to Anywhere: Every Transport Option from Rinas** — Airport transfer intent, the express bus, taxi fixed rates, the furgon connections, renting at arrivals. Short, practical, high commercial intent.
 82. [x] **How Much Does Albania Cost? A Realistic 2026 Budget** — Expands idea 17 with current prices. Ranks for cost queries that already appear in Search Console across several languages.
+
+## Traffic-leverage follow-ups (added 2026-08-27)
+
+Sequels that convert an existing well-ranking page's topical authority into
+adjacent queries, instead of opening a new front. Pattern: parent stays
+definitional, sequel takes the planning intent, hub-and-spoke links both ways.
+
+83. [x] **Albania's Evening Promenades: Where Every City Walks Its Xhiro** — Follow-up to the xhiro essay (site's best CTR page, 2.52% at position 7). City-by-city practical guide to the named boulevards: Vlora's Lungomare, Durrës's Vollga, Korça's Shën Gjergji, Shkodra's Kolë Idromeno, Pogradec lakefront, Saranda, Berat, Gjirokastër, Tirana. Named-entity SEO shape, carries Kiwitaxi + Localrent links. Published 2026-08-27.
+84. [ ] **Korçë: Albania's Most Underrated City** — Duplicate pointer to idea 2, promoted: it is the natural next spoke off both the xhiro page and the promenades guide (both link Korçë hard), and the Voskopojë/Dardhë side trips give it an honest car-rental angle.

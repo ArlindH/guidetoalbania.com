@@ -36,6 +36,8 @@ The regime ended in 1991, but the habit did not. Cars flooded the streets, cafes
 
 ## Where to Experience the Best Xhiro
 
+What follows is the character of each city's walk. If you want the practical version, the exact routes, when they fill, and what to eat along each one, I keep a separate city-by-city guide to [Albania's evening promenades](/blog/albania-evening-promenades/).
+
 ### Korçë
 
 This is my favorite xhiro in Albania, and I am biased because of those summers with my aunt, but I also think I am right. Bulevardi Shën Gjergji is car-free, lined with cafes, and framed by the cool mountain air that Korçë is known for. The whole town gathers after seven. Street vendors sell roasted chestnuts and ice cream. Conversations carry across the boulevard. It has the concentrated, everyone-knows-everyone feeling that makes xhiro what it is.
@@ -66,7 +68,7 @@ The xhiro here is unlike anywhere else because of the terrain. Instead of a flat
 
 ### Tirana
 
-The capital's xhiro is more diffuse. There is no single boulevard where the whole city gathers. Instead, it spreads across several neighborhoods. Blloku, the formerly restricted communist-elite enclave that is now the trendiest part of town, is where younger Albanians go. Rruga Myslym Shyri, the pedestrian shopping street, draws a mix of families and couples. The Grand Park fills with walkers on warm evenings. You can find your xhiro in Tirana, but you have to choose which one.
+The capital's xhiro is more diffuse. There is no single boulevard where the whole city gathers. Instead, it spreads across several neighborhoods. Blloku, the formerly restricted communist-elite enclave that is now the trendiest part of town, is where younger Albanians go. Rruga Myslym Shyri, the shopping street that goes car-free on weekends, draws a mix of families and couples. The Grand Park fills with walkers on warm evenings. You can find your xhiro in Tirana, but you have to choose which one.
 
 ## What You Will See
 
