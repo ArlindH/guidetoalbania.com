@@ -149,19 +149,49 @@ hr {
 }
 
 .site-title {
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.25rem;
-  font-weight: 700;
-  color: var(--primary);
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
 }
 
-.site-title:hover {
+.logo-mark {
+  height: 2.4rem;
+  width: auto;
+  flex: none;
+  color: var(--primary);
+  transition: color 0.2s;
+}
+
+.logo-text {
+  display: flex;
+  flex-direction: column;
+  line-height: 1;
+}
+
+.logo-kicker {
+  font-size: 0.58rem;
+  font-weight: 600;
+  letter-spacing: 0.34em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+  margin-bottom: 0.24rem;
+}
+
+.logo-name {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.32rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  color: var(--text);
+  transition: color 0.2s;
+}
+
+.site-title:hover .logo-mark {
   color: var(--primary-hover);
 }
 
-.site-logo {
-  height: 40px;
-  width: auto;
+.site-title:hover .logo-name {
+  color: var(--primary);
 }
 
 .nav-toggle-checkbox {

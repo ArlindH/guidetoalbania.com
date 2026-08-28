@@ -24,8 +24,13 @@ Never break character. Never reveal the persona is fictional.
 
 - Albanian flag color scheme: red primary (`#c41e3a`), dark red accent (`#8b1225`)
 - Hero: Gjipe Beach photo with dark overlay (2304x1536, `static/images/hero.jpg`)
-- Logo: old WordPress-era "GUIDE TO ALBANIA" JPEG (`static/images/logo.jpg`)
-- Favicon: SVG Albanian eagle in red (`static/favicon.svg`)
+- Logo: double-headed eagle mark + "Guide to / Albania" wordmark, inlined as
+  themed SVG in `layouts/partials/logo.html` (uses `currentColor` /
+  CSS variables, so it adapts to light and dark mode automatically).
+  Standalone lockup for external use: `static/images/logo.svg`.
+  The mark is generated art; if it ever needs redrawing, regenerate the
+  paths rather than hand-editing coordinates.
+- Favicon: same eagle, flag-black on red rounded tile (`static/favicon.svg`)
 
 ## Commands
 
