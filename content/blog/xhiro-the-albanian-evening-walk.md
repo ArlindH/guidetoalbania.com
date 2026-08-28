@@ -60,7 +60,7 @@ Bulevardi Hasan Tahsini runs along the waterfront bay, palm trees overhead and c
 
 ### Durrës
 
-The xhiro in Durrës happens on Shetitorja Taulantia, the long seafront promenade that locals still call "Vollga" after a Soviet-era hotel that once stood nearby. The name stuck long after the Albanian-Soviet friendship did not. On summer evenings the promenade fills with stalls, fairground rides, and what feels like the entire city walking in both directions. Kids chase each other between the benches, families stop for ice cream, teenagers pose near the oddly wonderful statues of Mick Jagger and John Lennon that someone decided to put along the waterfront. It is louder and more chaotic than Korçë or Berat, but that is Durrës. The city does not do quiet.
+The xhiro in Durrës happens on Shetitorja Taulantia, the long seafront promenade that locals still call "Vollga" after a seafront hotel that spent the communist decades renamed for the Volga river. The name stuck long after the Albanian-Soviet friendship did not. On summer evenings the promenade fills with stalls, fairground rides, and what feels like the entire city walking in both directions. Kids chase each other between the benches, families stop for ice cream, teenagers pose near the oddly wonderful statues of Mick Jagger and John Lennon that someone decided to put along the waterfront. It is louder and more chaotic than Korçë or Berat, but that is Durrës. The city does not do quiet.
 
 ### Gjirokastër
 
