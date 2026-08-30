@@ -52,7 +52,7 @@ This is the loudest, most carnival xhiro in the country. Stalls, popcorn, candy 
 
 The Riviera's xhiro curls around the whole bay for a good kilometer, palms overhead, the town beach below, Corfu a grey shadow on the horizon. The boulevard is named for an Albanian scholar who became the first rector of Istanbul University, and his statue now watches over the most dressed-up evening walk in Albania, equal parts catwalk and family outing, running on Riviera time deep into the night.
 
-Do it properly: swim at the town beach at six, dry off over a coffee, then join the flow as the lights come on around the bay. When you want quieter water than Sarandë offers, the [beaches north and south of town](/blog/southern-albanian-beaches/) are minutes away.
+Do it properly: swim at the town beach at six, dry off over a coffee, then join the flow as the lights come on around the bay. When you want quieter water than Sarandë offers, the [beaches north and south of town](/blog/must-visit-southern-albanian-beaches-top-riviera-locations/) are minutes away.
 
 ## The lake
 
@@ -100,7 +100,7 @@ The capital refuses to pick one street, so you have to pick for yourself.
 
 **Skanderbeg Square** was cleared of cars in 2017, and the vast stone slab at the center of the city quietly became its newest walking ground. At dusk it turns into a slow carousel of families, cyclists, and small children piloting rented electric cars with alarming confidence. **Shëtitorja Murat Toptani**, the pedestrian lane that runs past the old castle walls, is the everyday version, compact and shaded. **Rruga Myslym Shyri** goes car-free on weekends and fills within the hour. And the **Grand Park** offers the green xhiro, a loop around the artificial lake that absorbs half the city on warm evenings.
 
-Blloku is something else: less walking, more being seen, and by ten the xhiro there has dissolved into [Tirana's nightlife](/blog/nightlife-in-albania/) proper. My advice is to walk the square at sunset, then eat at Pazari i Ri, the rebuilt new bazaar ringed with grills and raki bars, ten minutes away on foot.
+Blloku is something else: less walking, more being seen, and by ten the xhiro there has dissolved into [Tirana's nightlife](/blog/nightlife-in-albania-something-for-everyone/) proper. My advice is to walk the square at sunset, then eat at Pazari i Ri, the rebuilt new bazaar ringed with grills and raki bars, ten minutes away on foot.
 
 <figure>
   <img src="/images/promenades/tirana-skanderbeg-night.jpg" alt="Skanderbeg Square in Tirana at night, wet paving reflecting the lights of the Opera, the Tirana International Hotel and an illuminated tower.">
@@ -111,7 +111,7 @@ Blloku is something else: less walking, more being seen, and by ten the xhiro th
 
 You can build a very good week around evening walks. The classic run goes down the coast: an evening on the Vollga in Durrës, one on Vlorë's Lungomare, then over the Llogara Pass for Himarë's small seafront version, and Sarandë to finish. Inland, Berat, Gjirokastër, and Korçë chain together naturally, with Pogradec as the quiet closing act.
 
-Furgons connect every city here cheaply, and [I have written a full guide to using them](/blog/how-to-use-furgons-in-albania/). The honest caveat is timing: the xhiro happens at dusk, which is exactly when intercity transport thins out, so without your own wheels you walk where you sleep. That is no hardship. But if you want a different promenade each night, a <a class="affil" href="https://tp.media/r?campaign_id=87&marker=770798&p=2043&trs=567396&u=https%3A%2F%2Fwww.localrent.com%2Fen%2Falbania%2F&sub_id=albania-evening-promenades" target="_blank" rel="sponsored nofollow noopener">small rental from a local agency</a> runs 25 to 35 euros a day in summer and turns the whole southern circuit into an easy loop. For the coast without a car, my [coastline transport guide](/blog/albanian-coastline-transport/) covers the bus and furgon timings that do exist.
+Furgons connect every city here cheaply, and [I have written a full guide to using them](/blog/how-to-use-furgons-in-albania/). The honest caveat is timing: the xhiro happens at dusk, which is exactly when intercity transport thins out, so without your own wheels you walk where you sleep. That is no hardship. But if you want a different promenade each night, a <a class="affil" href="https://tp.media/r?campaign_id=87&marker=770798&p=2043&trs=567396&u=https%3A%2F%2Fwww.localrent.com%2Fen%2Falbania%2F&sub_id=albania-evening-promenades" target="_blank" rel="sponsored nofollow noopener">small rental from a local agency</a> runs 25 to 35 euros a day in summer and turns the whole southern circuit into an easy loop. For the coast without a car, my [coastline transport guide](/blog/how-to-explore-albanian-coastline-transport-means-to-get-around-transport-in-albania/) covers the bus and furgon timings that do exist.
 
 ## Rules of the boulevard
 

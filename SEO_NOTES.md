@@ -493,15 +493,37 @@ xhiro to promenades pattern.
   6.9, and it 404s.** The `build: render: never` flag works now, so
   this is residue from before it was added. Google is spending
   impressions on a dead URL. Worth an alias or a redirect.
-- **Four broken internal links across two articles from the 08-27
-  batch**, all linking by filename instead of by slug:
-  `albania-evening-promenades.md` lines 55, 103, 114 pointing at
-  `/blog/southern-albanian-beaches/`, `/blog/nightlife-in-albania/`,
-  `/blog/albanian-coastline-transport/`, and
-  `raki-trail-skrapar-permet.md` line 40 pointing at
-  `/blog/best-hiking-trails-albania/`. All four are live 404s. The
-  nightlife one is the costly one: it is the promenades page feeding
-  link equity into a dead URL on the exact cluster this note is about.
+- ~~**Four broken internal links across two articles from the 08-27
+  batch**~~ **Fixed 2026-08-30.** All four linked by filename instead
+  of by slug and were live 404s: `albania-evening-promenades.md` lines
+  55, 103, 114 and `raki-trail-skrapar-permet.md` line 40. The
+  nightlife one was the costly one, the promenades page feeding link
+  equity into a dead URL on the exact cluster this note is about.
+  Anchor text was correct in all four cases, so only the hrefs moved.
+
+### The slug trap, and how to not repeat it
+
+The URL comes from the `slug:` field, not the filename, and many posts
+carry WordPress-era slugs that do not match their file. Linking by
+filename looks right in the repo and 404s in production.
+
+| File | Real slug |
+|---|---|
+| `nightlife-in-albania.md` | `nightlife-in-albania-something-for-everyone` |
+| `best-time-to-visit-albania.md` | `best-time-to-visit-albania-2` |
+| `albanian-coastline-transport.md` | `how-to-explore-albanian-coastline-transport-means-to-get-around-transport-in-albania` |
+| `southern-albanian-beaches.md` | `must-visit-southern-albanian-beaches-top-riviera-locations` |
+| `best-hiking-trails-albania.md` | `famous-hiking-trails-in-albania` |
+
+Check before committing any article. This catches the whole class:
+
+```bash
+grep -h '^slug:' content/blog/*.md | sed 's/^slug: "//; s/"$//' | sort -u > /tmp/slugs.txt
+grep -rEoh '(\]\(|href=")/blog/[a-z0-9-]+/' content/ layouts/ | grep -o '/blog/[a-z0-9-]*/' | sort -u \
+  | while read u; do s=${u#/blog/}; grep -qxF "${s%/}" /tmp/slugs.txt || echo "BROKEN $u"; done
+```
+
+As of 2026-08-30 this returns nothing across `content/` and `layouts/`.
 
 **Watch from late September:** whether the festival piece takes the
 named-entity tail (kala festival, unum festival, turtle fest, korça
