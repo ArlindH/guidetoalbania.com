@@ -41,6 +41,8 @@ This is important to understand if you're visiting. Don't plan your big night ou
 
 From June through September, the nightlife capital of Albania shifts south to the coast. Dhermi, in particular, has become the summer party destination for young Albanians and a growing number of international visitors. Beach clubs set up sound systems on the sand, DJs play through the afternoon and into the night, and the whole stretch of coastline between Dhermi and Himara hums with energy.
 
+Dhermi is also where most of the country's festival season now happens. If you are planning a trip around one of them, I have written a separate guide to [Albania's summer music festivals](/blog/albania-summer-music-festivals/), with the dates, real ticket prices, and what it costs to get down there.
+
 I spent a weekend in Dhermi last August and didn't sleep before sunrise either night. The beach clubs blend into each other along the shore, and you can wander between them barefoot with a drink in hand. The crowd skews young, mostly twenties, and the vibe is more Ibiza-influenced than traditional Albanian. Cocktails here run 600-800 lek, a bit pricier than Tirana, but you're paying for the setting.
 
 Himara is slightly more laid-back. The waterfront bars fill up in the evenings with a mix of families, couples, and groups of friends. It's less about clubbing and more about long evenings by the sea, the sound of waves competing with the music.

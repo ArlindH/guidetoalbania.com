@@ -83,7 +83,7 @@ Researched 2026-04-06. Check off ideas as they get published.
 50. [ ] **Valle: The Albanian Circle Dance You'll Be Pulled Into** — Group dances at weddings, festivals, celebrations. Regional styles from Tosk south to Gheg north. You can't just watch.
 51. [ ] **The Gjirokaster Folklore Festival: Albania's Greatest Cultural Gathering** — Held every five years, showcasing polyphonic singing, traditional costumes, regional dances. Near-zero English planning guides.
 52. [ ] **Gheg and Tosk: Two Dialects, Two Albanias** — How the Shkumbin River divides language, food, music, architecture, and social customs. What travelers notice crossing north to south.
-53. [ ] **Kala, UNUM, and Korce Beer Fest: Albania's Summer Festival Scene** — Electronic music on Dhermi's beaches, craft beer in Korce. Dates, tickets, and what to expect.
+53. [x] **Kala, UNUM, and Korce Beer Fest: Albania's Summer Festival Scene** — Electronic music on Dhermi's beaches, craft beer in Korce. Dates, tickets, and what to expect. Published 2026-08-30 as `albania-summer-music-festivals`, expanded to cover Turtle Fest and Za Fest and to correct the widely-repeated claim that ION still runs at Dhërmi.
 
 ## Travel Tips (batch 2)
 

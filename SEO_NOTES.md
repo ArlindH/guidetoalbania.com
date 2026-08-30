@@ -424,3 +424,88 @@ Watch from late September: raki guide CTR against the 0.46% baseline
 picks up skrapar/osumi/festa impressions at all, and `raki-trail`
 sub_id clicks in Travelpayouts. If the retitle moves CTR, repeat the
 treatment on beaches, burrnesha, and nightlife per priority #1.
+
+## Nightlife cluster pull and festival spoke (2026-08-30)
+
+Full query pull, last 90 days, web search, taken 2026-08-30 (Search
+Console "last update" 6.5 hours earlier).
+
+**Site totals: 300 clicks, 39.7K impressions, 0.8% CTR, avg position 16.2.**
+
+Against the 2026-08-27 baseline (287 / 38.2K / 0.8% / 16.4) that is +13
+clicks and +1.5K impressions in three days. The ten-article commercial
+batch is three days old, so none of it is readable yet. Do not draw
+conclusions before the late-September pull the batch note already
+schedules.
+
+### The nightlife cluster, sized
+
+`nightlife-in-albania-something-for-everyone` is the site's **7th page
+by impressions**: 13 clicks, 2,360 impr, 0.6% CTR, position 15.5. The
+whole cluster is ~80 queries, ~1,016 impressions, **3 clicks**.
+
+It splits exactly along the named-entity line established in the
+earlier full pull:
+
+| Query shape | Impr. | Position | Clicks | Read |
+|---|---:|---:|---:|---|
+| `nightlife albania`, `albania nightlife`, `nightlife` | 657 | 22-32 | 1 | Authority job, same wall as `hiking albania` |
+| `is albania good for nightlife`, `does albania have good nightlife`, `is albania a party place` | ~40 | 10-13 | 0 | Question intent, unserved |
+| `is tirana a party city` | 3 | **3.7** | 1 | Already top-5 |
+| `albania party city` / `party town` / `party scene` | 10 | 1.0-8.2 | 0 | Ranking, thin page behind it |
+| `ksamil nightlife` (3.0), `albania riviera nightlife` (1.0), `4 elements saranda` (8.0), `nightclubs in vlore`, `nightclub sarande`, `berat nightlife` | ~15 | 1-4 | 0 | Named-place tail, unserved |
+
+Conclusion: **do not write another nightlife overview.** The head term
+is a 22-32 position problem, which is authority, not coverage, and the
+2023 page already holds it. The winnable material is the named tail.
+
+### Published: `albania-summer-music-festivals`
+
+Backlog idea 53, chosen over three other nightlife angles because it is
+the only one that opens a new front instead of cannibalising the
+existing page.
+
+1. **Five named entities, thin English competition.** Kala, UNUM,
+   Turtle Fest, Korça Beer Fest, Za Fest. Same shape as gliko and
+   xhiro, which are the two pages that actually convert here.
+2. **No cannibalisation.** The parent keeps the definitional and
+   city-by-city nightlife intent. The spoke takes festival planning
+   intent, which the parent covers in one sentence.
+3. **Commercial intent is real, not bolted on.** Dhërmi is 3.5 hours
+   from Rinas. Kiwitaxi, Localrent and EKTA inline,
+   `sub_id=summer-festivals`, strip on.
+4. **AI Overview resistant, and partly corrective.** Kala 2027 dates
+   and the £325/€375 hotel-inclusive pricing, Kala's own transfer
+   tariff, UNUM's €99/€239 split, and the fact that **ION left
+   Albania** after three Dhërmi editions (2022-2024) and cancelled
+   2025. Songkick, Superfan and most listicles still carry phantom
+   2026 Dhërmi dates for ION. No summary gets this right today.
+5. **Seasonal timing is deliberate.** Published 30 Aug, four months
+   before the 2027 planning season starts, which is roughly the crawl
+   and ranking runway this domain needs.
+
+Parent got the reciprocal link in its Riviera section, following the
+xhiro to promenades pattern.
+
+### Two findings worth acting on separately
+
+- **`guidetoalbania.com/ideas/` is indexed: 173 impressions, position
+  6.9, and it 404s.** The `build: render: never` flag works now, so
+  this is residue from before it was added. Google is spending
+  impressions on a dead URL. Worth an alias or a redirect.
+- **Four broken internal links across two articles from the 08-27
+  batch**, all linking by filename instead of by slug:
+  `albania-evening-promenades.md` lines 55, 103, 114 pointing at
+  `/blog/southern-albanian-beaches/`, `/blog/nightlife-in-albania/`,
+  `/blog/albanian-coastline-transport/`, and
+  `raki-trail-skrapar-permet.md` line 40 pointing at
+  `/blog/best-hiking-trails-albania/`. All four are live 404s. The
+  nightlife one is the costly one: it is the promenades page feeding
+  link equity into a dead URL on the exact cluster this note is about.
+
+**Watch from late September:** whether the festival piece takes the
+named-entity tail (kala festival, unum festival, turtle fest, korça
+beer fest) without pulling the parent off position 15.5, and whether
+`summer-festivals` sub_id shows any Travelpayouts clicks. Festival
+traffic is seasonal, so the real read is January to May 2027, not
+October.
