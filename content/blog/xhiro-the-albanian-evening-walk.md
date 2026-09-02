@@ -40,7 +40,7 @@ What follows is the character of each city's walk. If you want the practical ver
 
 ### Korçë
 
-This is my favorite xhiro in Albania, and I am biased because of those summers with my aunt, but I also think I am right. Bulevardi Shën Gjergji is car-free, lined with cafes, and framed by the cool mountain air that Korçë is known for. The whole town gathers after seven. Street vendors sell roasted chestnuts and ice cream. Conversations carry across the boulevard. It has the concentrated, everyone-knows-everyone feeling that makes xhiro what it is.
+This is my favorite xhiro in Albania, and I am biased because of those summers with my aunt, but I also think I am right. Bulevardi Shën Gjergji is car-free, lined with cafes, and framed by the cool mountain air that Korçë is known for. The whole town gathers after seven. Street vendors sell roasted chestnuts and ice cream. Conversations carry across the boulevard. It has the concentrated, everyone-knows-everyone feeling that makes xhiro what it is. I have since written [a full guide to Korçë](/blog/korce-guide/) for anyone who wants to stay longer than an evening.
 
 ### Berat
 

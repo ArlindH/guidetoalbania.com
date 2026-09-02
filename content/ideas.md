@@ -11,7 +11,7 @@ Researched 2026-04-06. Check off ideas as they get published.
 ## Destinations
 
 1. [x] **A Local's Guide to Berat: Albania's City of a Thousand Windows** — Ottoman architecture, hilltop castle, Mangalem quarter, evening xhiro. High search volume, UNESCO authority.
-2. [ ] **Korçë: Albania's Most Underrated City (And Why You Should Visit)** — Old Bazaar, Resurrection Cathedral, beer festival, Voskopojë's frescoed churches. Huge coverage gap.
+2. [x] **Korçë: Albania's Most Underrated City (And Why You Should Visit)** — Old Bazaar, Resurrection Cathedral, beer festival, Voskopojë's frescoed churches. Huge coverage gap. Written 2026-09-02 as `korce-guide`; Search Console already ranked the nightlife page at position 4 for "korca" with no Korçë page to land on.
 3. [x] **The Valbona to Theth Hike: Everything You Need to Know** — Route details, packing, accommodation, seasonal timing. Most-searched Albania hiking topic.
 4. [ ] **Skip Ksamil: 7 Albanian Beaches That Haven't Been Ruined Yet** — Honest overtourism take plus alternatives (Gjipe, Palasë, Llamani, Bunec). Contrarian angle.
 5. [ ] **Përmet: Thermal Baths, Canyon Hikes, and Albania's Best-Kept Secret** — Benje thermal baths, Lengarica Canyon, local wine. Minimal English coverage.
@@ -45,7 +45,7 @@ Researched 2026-04-06. Check off ideas as they get published.
 
 ## Destinations (batch 2)
 
-21. [ ] **Gjirokaster: A Complete Guide to Albania's Stone City** — UNESCO Ottoman city, 500+ stone-roofed houses, 14th-century castle, one of the oldest bazaars in the Balkans. High search volume, most guides are shallow.
+21. [x] **Gjirokaster: A Complete Guide to Albania's Stone City** — UNESCO Ottoman city, 500+ stone-roofed houses, 14th-century castle, one of the oldest bazaars in the Balkans. High search volume, most guides are shallow. Written 2026-09-02 as `gjirokaster-guide`, the sibling of `berat-guide`; 20 articles already mentioned the town with nowhere to link.
 22. [x] **The Koman Lake Ferry: The Most Beautiful Boat Ride in the Balkans** — 2.5-hour ferry through fjord-like cliffs connecting Koman to Fierza. Booking details and logistics that are poorly documented.
 23. [ ] **Shkoder: Albania's Northern Capital of Culture** — Rozafa Castle's haunting legend, largest Balkan lake, cycling promenade, vibrant arts scene. Gateway to the Alps but rarely gets its own article.
 24. [ ] **Voskopoje: The Frescoed Churches of Albania's Forgotten "Paris of the Balkans"** — Mountaintop village near Korce, once second-largest city in Ottoman Balkans, five churches with Europe's finest 18th-century frescoes. Extreme coverage gap.
@@ -57,7 +57,7 @@ Researched 2026-04-06. Check off ideas as they get published.
 30. [ ] **The Shala River: Albania's "Thailand" Hidden in the Alps** — Turquoise water, canyon walls, boat access only from Koman Lake. Viral on social media but practical English info is nonexistent.
 31. [x] **Day Trips from Tirana: 8 Escapes You Can Do Without a Car** — Mount Dajti, Pellumbas Cave, Kruje, Durres, Petrela Castle, all by bus or furgon. Top search query, most articles assume a rental car.
 32. [ ] **Kruje: Skanderbeg's Fortress and Albania's Best Bazaar** — Hilltop castle where Albania's national hero held off the Ottomans, paired with 400-year-old bazaar. Every Tirana day-tripper goes here.
-33. [ ] **Himara and Dhermi: The Albanian Riviera's Best-Kept Villages** — Clifftop villages above the Ionian, hidden coves by boat, summer festival scene. Overtaking Saranda in popularity but far less coverage.
+33. [x] **Himara and Dhermi: The Albanian Riviera's Best-Kept Villages** — Clifftop villages above the Ionian, hidden coves by boat, summer festival scene. Overtaking Saranda in popularity but far less coverage. Written 2026-09-02 as `dhermi-and-himara-guide`; the beaches listicle was ranking 37 to 45 for "dhermi" queries, the wrong shape of page for that intent.
 34. [ ] **The Drino Valley: Albania's Most Beautiful Drive You've Never Heard Of** — Stone villages, Ottoman bridges, the road from Gjirokaster to Permet through southern Albania's most scenic corridor.
 35. [ ] **Porto Palermo: A Fortress Almost Surrounded by Sea** — Ali Pasha's 19th-century castle in a turquoise bay, submarine base history, best snorkeling on the Riviera. Almost no dedicated guide.
 
@@ -154,5 +154,5 @@ adjacent queries, instead of opening a new front. Pattern: parent stays
 definitional, sequel takes the planning intent, hub-and-spoke links both ways.
 
 83. [x] **Albania's Evening Promenades: Where Every City Walks Its Xhiro** — Follow-up to the xhiro essay (site's best CTR page, 2.52% at position 7). City-by-city practical guide to the named boulevards: Vlora's Lungomare, Durrës's Vollga, Korça's Shën Gjergji, Shkodra's Kolë Idromeno, Pogradec lakefront, Saranda, Berat, Gjirokastër, Tirana. Named-entity SEO shape, carries Kiwitaxi + Localrent links. Published 2026-08-27.
-84. [ ] **Korçë: Albania's Most Underrated City** — Duplicate pointer to idea 2, promoted: it is the natural next spoke off both the xhiro page and the promenades guide (both link Korçë hard), and the Voskopojë/Dardhë side trips give it an honest car-rental angle.
+84. [x] **Korçë: Albania's Most Underrated City** — Duplicate pointer to idea 2, promoted: it is the natural next spoke off both the xhiro page and the promenades guide (both link Korçë hard), and the Voskopojë/Dardhë side trips give it an honest car-rental angle. Written 2026-09-02 as `korce-guide`, see idea 2.
 85. [x] **The Raki Trail: Skrapar and Përmet at the Source** — Follow-up riding the raki guide's 6.3K impressions, the site's largest page. Çorovoda's producers and the October Festa e Rakisë, Osumi canyon rafting, Bogovë waterfall, Frashër, Përmet raki mani and the Bënja baths, plus a bringing-raki-home section. Localrent and EKTA inline (`sub_id=raki-trail`). Published 2026-08-27.

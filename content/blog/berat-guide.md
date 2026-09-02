@@ -115,7 +115,7 @@ People ask this constantly, having read that both are Ottoman UNESCO towns and a
 
 **Berat** is white plaster, windows, a river valley, a living castle quarter, and wine. It is gentler, greener, and easier to love on a first visit.
 
-**Gjirokastër** is grey stone, fortified tower houses, slate roofs like fish scales, and a mountainside. It is harsher and more dramatic and has the better castle as a monument.
+**Gjirokastër** is grey stone, fortified tower houses, slate roofs like fish scales, and a mountainside. It is harsher and more dramatic and has the better castle as a monument. I have written [a full guide to it](/blog/gjirokaster-guide/).
 
 If you have time for one, take Berat. If you have time for two, take both, and do not put them next to each other in the itinerary.
 

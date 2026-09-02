@@ -53,11 +53,11 @@ This is the right first trip to Albania, and I would not change it.
 
 **Day 3. Tirana to Berat.** Collect the car after breakfast, not before. Two hours. Arrive for lunch, walk up to the castle in the late afternoon when the light hits the Mangalem windows, and stay in a Gorica guesthouse across the river.
 
-**Day 4. Berat to Gjirokastër.** Three hours through the Vjosa valley, which is one of the last wild rivers in Europe and worth stopping for. Gjirokastër castle before it closes, then the bazaar in the evening.
+**Day 4. Berat to Gjirokastër.** Three hours through the Vjosa valley, which is one of the last wild rivers in Europe and worth stopping for. [Gjirokastër](/blog/gjirokaster-guide/) castle before it closes, then the bazaar in the evening.
 
 **Day 5. Gjirokastër to Sarandë, via Butrint.** An hour down. Give [Butrint](/blog/butrint-3000-years-of-history/) three hours, properly, in the morning before the coaches. Sleep in Sarandë or, better, Ksamil out of season.
 
-**Day 6. The coast north.** Sarandë to Himarë or Dhërmi, stopping at Porto Palermo. This is the day to swim, not to drive far.
+**Day 6. The coast north.** Sarandë to [Himarë or Dhërmi](/blog/dhermi-and-himara-guide/), stopping at Porto Palermo. This is the day to swim, not to drive far.
 
 **Day 7. Back to Tirana.** Through the Llogara tunnel or over the pass, then the motorway. Three to four hours with stops. Fly out the following morning, not the same evening.
 

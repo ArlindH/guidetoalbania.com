@@ -531,3 +531,81 @@ beer fest) without pulling the parent off position 15.5, and whether
 `summer-festivals` sub_id shows any Travelpayouts clicks. Festival
 traffic is seasonal, so the real read is January to May 2027, not
 October.
+
+## Three city guides from a live pull (written 2026-09-02)
+
+Search Console and GA4 were pulled live on 2026-09-01 before picking
+topics, per the process note above.
+
+**28 days (web search, last update 8.5 hours before the pull):
+142 clicks, 16.9K impressions, 0.8% CTR, avg position 14.8.** Impressions
+climbed sharply in the final week, which is the ten-article batch of
+2026-08-27 starting to index; too early to read. The query table held
+915 rows summing to 6,510 impressions, so roughly 60% of impressions
+are anonymised long tail that no query row shows.
+
+**3 months:** 1,177 unique query rows summing to 16.1K impressions. The
+head is unchanged from the 2026-08-27 full pull (burrnesha 940 impr at
+11.5, best places to walk 767 at 9.0, gliko 576 at 8.0, hiking albania
+495 at 77.2, gliko albania 452 at 7.0 with 6 clicks, south albania
+beaches 434 at 9.0). Nothing in the tail contradicts the named-entity
+rule.
+
+**GA4, 4 to 31 August:** 861 views, 564 active users. Top pages by views:
+home 154, xhiro 51, raki 43, gliko 37, southern beaches 29, bunkers 27,
+Valbona-Theth 27, tavë kosi 26, promenades 23, burrnesha 21. Engagement
+is the interesting column: promenades 2m11s and xhiro 1m10s against
+25 to 55 seconds for the rest. Note a bot spike, 202 "users" from
+Singapore over seven days on direct traffic, which inflates the
+acquisition totals and should be filtered before reading GA again.
+
+### The three signals that picked the topics
+
+1. **`korca`: 2 impressions, position 4.0, landing on the nightlife
+   page.** Tiny sample, but it is the exact "ranks well, wrong page"
+   case the triage rule reserves for writing. The nightlife page has
+   one paragraph on Korçë. Idea 84 already flagged it as the next spoke
+   off xhiro (best CTR page) and promenades (best engagement page).
+2. **`dhermi` 17 impr at 37.7, `dhermi albania` 5 at 45.2, `dhermi in
+   albania` 2 at 45.5, all landing on the beaches listicle.** The
+   beaches cluster is the site's second traffic source (~1,300 impr per
+   90 days at position 7 to 9), and it is ranking on page 4 for the
+   village queries because a listicle is the wrong shape for them.
+   Idea 33.
+3. **Gjirokastër: no impressions at all, because no page exists.** The
+   largest uncovered named entity on the site: twenty articles mention
+   it, `berat-guide` has a "Berat or Gjirokastër?" section with nowhere
+   to link, and the UNESCO page carries the only coverage. Idea 21.
+
+Shkodër (idea 23) was the runner-up and is the obvious next city guide;
+`koman lake` queries (~28 impr per 90 days) land on the ferry article
+at position 60 to 68 and a Shkodër hub would feed it.
+
+### What shipped
+
+| Slug | Intent | Inline links | Images |
+|---|---|---:|---:|
+| `dhermi-and-himara-guide` | "dhermi albania", "himara albania", "dhermi or himara", where to stay Riviera | Kiwitaxi (airport), Localrent (Sarandë), EKTA, `sub_id=dhermi-himara` | 4 (2 new, 2 reused) |
+| `korce-guide` | "korca albania", "things to do in korce", "voskopoje" | Kiwitaxi, Localrent, EKTA, `sub_id=korce-guide` | 5 new |
+| `gjirokaster-guide` | "gjirokaster albania", "gjirokaster castle", "things to do in gjirokaster" | Localrent (Sarandë), Kiwitaxi, `sub_id=gjirokaster-guide` | 6 (5 new, 1 reused) |
+
+Each is a destinations piece with the full Getting There, Best Time and
+Practical Tips structure, 2025-2026 prices (castle 400 lekë, tunnel
+250 lekë, Voskopojë furgon 150 lekë, Himara boats 15 to 60 euro), and
+the things a SERP summary gets wrong: the Dhërmi village-to-beach gap,
+Tirana's East Terminal for Korçë buses since 2024, Kadare's death in
+July 2024, the 2023 folklore festival being the last one.
+
+**Seventeen inbound links added** across nightlife (x2, including the
+Korçë paragraph that ranks for "korca"), xhiro, promenades (x2),
+where-to-stay (x2), UNESCO, Blue Eye, itinerary (x2), cuisine guide,
+Berat guide, southern beaches (x2) and the festivals piece (x3).
+
+**Watch from late October:** whether `korce-guide` takes "korca" off
+the nightlife page (expected and desirable), whether
+`dhermi-and-himara-guide` lifts the "dhermi" queries above position 37
+without pulling the beaches page off position 9 for "south albania
+beaches", and whether `gjirokaster-guide` gets any impressions at all
+against Wikipedia and Lonely Planet on the head term. The three
+sub_ids are the payout test: city guides with a real transport need
+versus the pure transport pieces of 08-27.

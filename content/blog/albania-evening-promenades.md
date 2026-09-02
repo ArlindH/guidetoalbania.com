@@ -73,7 +73,7 @@ The cafes here hang wooden jetties out over the lake, the restaurants serve kora
 
 My favorite xhiro in the country, and I have said so before. The boulevard is pedestrian end to end, lined with trees and cafes, running from the red-brick viewing tower by the Old Bazaar straight down to the Resurrection Cathedral. Korçë sits high, so the evening air is cool even in August, and in autumn the whole walk smells of gështenja të pjekura (roasted chestnuts) sold in paper cones from carts.
 
-Listen as you walk. If you hear men singing in close harmony somewhere off the boulevard, that is the serenata korçare, the city's own tradition of strolling love songs, still alive at weddings and on warm nights. An aunt of mine lives here and hosted my first proper xhiro years ago, so I am biased. I am also right. Korçë walks its boulevard with a seriousness no other city matches.
+Listen as you walk. If you hear men singing in close harmony somewhere off the boulevard, that is the serenata korçare, the city's own tradition of strolling love songs, still alive at weddings and on warm nights. An aunt of mine lives here and hosted my first proper xhiro years ago, so I am biased. I am also right. Korçë walks its boulevard with a seriousness no other city matches. The city deserves more than one evening, and [the Korçë guide](/blog/korce-guide/) makes the case.
 
 <figure>
   <img src="/images/promenades/korce-resurrection-cathedral.jpg" alt="Front steps of the Resurrection Cathedral in Korçë, a red carpet running up white stone stairs toward twin bell towers and a dome under a deep blue sky.">
@@ -86,7 +86,7 @@ Broad, leafy, and running along the edge of the old town with the Osum river clo
 
 ### Gjirokastër: the Old Bazaar lanes
 
-The one city where the xhiro goes uphill. There is no boulevard, just steep polished cobbles winding through the Ottoman bazaar under strings of lights, with cafe tables wedged onto every flat corner. The crowd gathers at Qafa e Pazarit, the five-way junction whose name means the Neck of the Bazaar, and circulates from there through the lanes. Wear shoes with grip. Those stones have been polished by four centuries of exactly this walk.
+The one city where the xhiro goes uphill. There is no boulevard, just steep polished cobbles winding through the Ottoman bazaar under strings of lights, with cafe tables wedged onto every flat corner. The crowd gathers at Qafa e Pazarit, the five-way junction whose name means the Neck of the Bazaar, and circulates from there through the lanes. Wear shoes with grip. Those stones have been polished by four centuries of exactly this walk. [The Gjirokastër guide](/blog/gjirokaster-guide/) has the castle hours, the tower houses and where to eat once the lap is done.
 
 ### Shkodër: Rruga Kolë Idromeno
 

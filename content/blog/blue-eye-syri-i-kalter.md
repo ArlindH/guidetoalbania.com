@@ -86,7 +86,7 @@ The light is also better early. The colour of that water depends almost entirely
 
 **Two hours is plenty.** Including the walk both ways. This is a half-day at absolute most, which is why it belongs combined with something.
 
-**Combine it with:** Gjirokastër, 40 minutes north, or [Butrint](/blog/butrint-3000-years-of-history/), 50 minutes south. The classic southern day is Blue Eye at eight, Gjirokastër for lunch and the castle, back down for the evening. That works beautifully and almost nobody does it in that order.
+**Combine it with:** [Gjirokastër](/blog/gjirokaster-guide/), 40 minutes north, or [Butrint](/blog/butrint-3000-years-of-history/), 50 minutes south. The classic southern day is Blue Eye at eight, Gjirokastër for lunch and the castle, back down for the evening. That works beautifully and almost nobody does it in that order.
 
 ## Is It Worth It?
 

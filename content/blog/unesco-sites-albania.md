@@ -46,7 +46,7 @@ The castle above the town is one of the largest in the Balkans. Inside, you will
 
 Below the castle, the Old Bazaar (Pazari i Vjetër) is a cobblestone street lined with craft shops and small cafés. Gjirokastra is the birthplace of Ismail Kadare, Albania's most celebrated novelist, and his childhood home is now a museum. It is a traditional tower house, or kulla, and the interior gives you a real sense of how wealthy Ottoman-era families lived, with separate floors for guests, family, and storage.
 
-I first visited Gjirokastra in November, when the streets were nearly empty and fog crept through the alleys. It was cold and moody and absolutely perfect. Summer brings more visitors and warmer weather, but something about this city suits grey skies.
+I first visited Gjirokastra in November, when the streets were nearly empty and fog crept through the alleys. It was cold and moody and absolutely perfect. Summer brings more visitors and warmer weather, but something about this city suits grey skies. I have since written [a full Gjirokastër guide](/blog/gjirokaster-guide/) with current entry fees, opening hours and where to sleep.
 
 ### Getting to Gjirokastra
 

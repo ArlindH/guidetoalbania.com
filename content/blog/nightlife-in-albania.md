@@ -45,7 +45,7 @@ Dhermi is also where most of the country's festival season now happens. If you a
 
 I spent a weekend in Dhermi last August and didn't sleep before sunrise either night. The beach clubs blend into each other along the shore, and you can wander between them barefoot with a drink in hand. The crowd skews young, mostly twenties, and the vibe is more Ibiza-influenced than traditional Albanian. Cocktails here run 600-800 lek, a bit pricier than Tirana, but you're paying for the setting.
 
-Himara is slightly more laid-back. The waterfront bars fill up in the evenings with a mix of families, couples, and groups of friends. It's less about clubbing and more about long evenings by the sea, the sound of waves competing with the music.
+Himara is slightly more laid-back. The waterfront bars fill up in the evenings with a mix of families, couples, and groups of friends. It's less about clubbing and more about long evenings by the sea, the sound of waves competing with the music. For the beaches, the boats, and which of the two to sleep in, I have written a full [guide to Dhërmi and Himara](/blog/dhermi-and-himara-guide/).
 
 Keep in mind that this is an intensely seasonal scene. Visit in October and you'll find most of these places shuttered, chairs stacked, silence where the bass once was.
 
@@ -61,7 +61,7 @@ Korça is a different Albania entirely when it comes to nightlife. This southeas
 
 The nightlife here centers around the boulevard (Bulevardi Republika), where locals take their evening xhiro (the traditional Albanian walk) before settling into a bar or cafe. The pace is slower, the music quieter, the conversations longer. Korça also has a small but lovely wine scene, thanks to the vineyards in the surrounding region. A glass of local red at one of the wine bars near the cathedral is one of my favorite simple pleasures in Albania.
 
-Don't come to Korça expecting Tirana energy. Come expecting good company, good beer, and the kind of evening where you actually hear what your friends are saying.
+Don't come to Korça expecting Tirana energy. Come expecting good company, good beer, and the kind of evening where you actually hear what your friends are saying. If the boulevard wins you over, [my Korçë guide](/blog/korce-guide/) covers the rest of the city, the brewery tour, and the frescoed villages half an hour away.
 
 ## Shkodra: The Quiet One
 

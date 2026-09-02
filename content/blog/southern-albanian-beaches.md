@@ -28,7 +28,7 @@ These two beaches blend into each other along a stretch of coast below Dhermi vi
 
 Drymades, just to the south, is where younger travelers end up. Beach bars with wooden decks play music into the evening, and you can rent a sunbed for around 500 to 1000 lek. The sand here is mixed, patches of fine white sand between pebble sections, so choose your spot carefully. The water is shallow and warm near the shore, perfect for swimming without shoes.
 
-My honest take: Drymades is great in June or September when the bars are open but the crowds have not peaked. In late July and August, it gets packed and loud. If that is your scene, wonderful. If not, come early in the morning or shift your dates.
+My honest take: Drymades is great in June or September when the bars are open but the crowds have not peaked. In late July and August, it gets packed and loud. If that is your scene, wonderful. If not, come early in the morning or shift your dates. For the village above the beach, the boats, and where to sleep, read [my Dhërmi and Himara guide](/blog/dhermi-and-himara-guide/).
 
 ## Gjipe Beach
 
@@ -52,7 +52,7 @@ Himara is where I tell people to base themselves if they want to explore the who
 
 The real gem is Livadhi beach, a short drive or half-hour walk north of town. Livadhi is wider, less developed, and the water has that luminous blue-green quality that photographs so well. There are a few beach bars at the northern end and open space toward the south. It strikes a good balance between comfort and beauty.
 
-Himara also has a wonderful old town (Himara e Vjetër) on the hill above, with a castle, a few churches, and views that stretch along the entire coast. Go up in the late afternoon when the light turns golden and the stones glow warm. Have a macchiato at one of the kafene (cafes) and watch the fishing boats come in below.
+Himara also has a wonderful old town (Himara e Vjetër) on the hill above, with a castle, a few churches, and views that stretch along the entire coast. Go up in the late afternoon when the light turns golden and the stones glow warm. Have a macchiato at one of the kafene (cafes) and watch the fishing boats come in below. The boat prices, the named tavernas and the walk up to the castle are all in [the Himara and Dhërmi guide](/blog/dhermi-and-himara-guide/).
 
 ## Porto Palermo
 

@@ -39,7 +39,7 @@ It is particularly associated with Tirana, and in September when the peppers are
 
 Qofte are small, oblong grilled meatballs made from a mix of beef and lamb, seasoned with onion, parsley, cumin, and sometimes a pinch of dried mint. They come off the grill charred on the outside and juicy within, served on a plate with raw onion, bread, and a squeeze of lemon.
 
-Korçë is the undisputed capital of qofte in Albania. The city has an entire culture around its qoftore, grill shops where the charcoal burns all day and the qofte are shaped by hand each morning. My favorite is Taverna Vasili, tucked a street back from the boulevard, where the smoke from the grill reaches you before you can see the door. Two portions of qofte, a tomato salad, bread, and a Korça beer will cost you around 800 LEK and leave you needing a walk.
+Korçë is the undisputed capital of qofte in Albania. The city has an entire culture around its qoftore, grill shops where the charcoal burns all day and the qofte are shaped by hand each morning. My favorite is Taverna Vasili, tucked a street back from the boulevard, where the smoke from the grill reaches you before you can see the door. Two portions of qofte, a tomato salad, bread, and a Korça beer will cost you around 800 LEK and leave you needing a walk. The rest of the city's table, the lakror, the brewery tour and the pastries, is in [my Korçë guide](/blog/korce-guide/).
 
 ## Flija: A Labor of Love
 

@@ -71,7 +71,7 @@ Roughly 45 to 90 euro for a decent double in season.
 
 The best all-round base on the coast, and what I recommend most often. A genuine small town with a permanent population and its own life, sitting at the midpoint of the Riviera, with more than a dozen beaches within reach from lively town sand to coves you need a boat for.
 
-Prices run 45 to 120 euro depending on season and how close to the water you are, and it is consistently better value than Sarandë or Ksamil for what you get.
+Prices run 45 to 120 euro depending on season and how close to the water you are, and it is consistently better value than Sarandë or Ksamil for what you get. The named hotels, the boat prices and the beaches within reach are all in [the Dhërmi and Himara guide](/blog/dhermi-and-himara-guide/).
 
 **Stay here if** you want to swim in a different place every day and eat somewhere that is not exclusively serving tourists.
 
@@ -114,7 +114,7 @@ Theth and Valbona are guesthouse country and the model is the same in both: a fa
 
 **Berat.** Stay in Gorica, across the river from the famous Mangalem facade, in a restored Ottoman house. You get the view rather than being in it, the walk across the bridge at night is one of the pleasures of the town, and the prices are lower. Forty to seventy euro.
 
-**Gjirokastër.** Stay inside the old town, uphill, and accept that you will be walking on stone at an angle. The restored tower houses are the accommodation here and they are remarkable. Do not book something modern down in the new town to save fifteen euro; you will have missed the point of the place.
+**Gjirokastër.** Stay inside the old town, uphill, and accept that you will be walking on stone at an angle. The restored tower houses are the accommodation here and they are remarkable. Do not book something modern down in the new town to save fifteen euro; you will have missed the point of the place. [The Gjirokastër guide](/blog/gjirokaster-guide/) names the ones worth booking.
 
 **Shkodër.** The gateway to the north, and worth a night in its own right rather than a 6am start from Tirana. Cheap, easy, and the natural staging post for the Koman ferry.
 
