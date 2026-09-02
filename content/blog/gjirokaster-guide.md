@@ -1,6 +1,6 @@
 ---
 title: "Gjirokastër: A Guide to Albania's Stone City"
-date: 2026-09-02T17:00:00Z
+date: 2026-09-02T14:00:00Z
 slug: "gjirokaster-guide"
 description: "The castle is 400 lekë and closes at seven, the tower houses open by family, the bus drops you a 30-minute climb below the old town. Gjirokastër, explained."
 categories: ["destinations"]
